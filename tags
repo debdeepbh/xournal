@@ -1,0 +1,2255 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ACLOCAL	Makefile	/^ACLOCAL = ${SHELL} \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/missing aclocal-1.16$/;"	m
+ACLOCAL	src/Makefile	/^ACLOCAL = ${SHELL} \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/missing aclocal-1.16$/;"	m
+ACLOCAL	src/ttsubset/Makefile	/^ACLOCAL = ${SHELL} \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/missing aclocal-1.16$/;"	m
+ACLOCAL_M4	Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ACLOCAL_M4	src/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ACLOCAL_M4	src/ttsubset/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+AMTAR	Makefile	/^AMTAR = $${TAR-tar}$/;"	m
+AMTAR	src/Makefile	/^AMTAR = $${TAR-tar}$/;"	m
+AMTAR	src/ttsubset/Makefile	/^AMTAR = $${TAR-tar}$/;"	m
+AM_DEFAULT_VERBOSITY	Makefile	/^AM_DEFAULT_VERBOSITY = 1$/;"	m
+AM_DEFAULT_VERBOSITY	src/Makefile	/^AM_DEFAULT_VERBOSITY = 1$/;"	m
+AM_DEFAULT_VERBOSITY	src/ttsubset/Makefile	/^AM_DEFAULT_VERBOSITY = 1$/;"	m
+AM_RECURSIVE_TARGETS	Makefile	/^AM_RECURSIVE_TARGETS = $(am__recursive_targets:-recursive=) TAGS CTAGS \\$/;"	m
+AM_RECURSIVE_TARGETS	src/Makefile	/^AM_RECURSIVE_TARGETS = $(am__recursive_targets:-recursive=) TAGS CTAGS \\$/;"	m
+AM_V_AR	src/ttsubset/Makefile	/^AM_V_AR = $(am__v_AR_$(V))$/;"	m
+AM_V_CC	src/Makefile	/^AM_V_CC = $(am__v_CC_$(V))$/;"	m
+AM_V_CC	src/ttsubset/Makefile	/^AM_V_CC = $(am__v_CC_$(V))$/;"	m
+AM_V_CCLD	src/Makefile	/^AM_V_CCLD = $(am__v_CCLD_$(V))$/;"	m
+AM_V_CCLD	src/ttsubset/Makefile	/^AM_V_CCLD = $(am__v_CCLD_$(V))$/;"	m
+AM_V_GEN	Makefile	/^AM_V_GEN = $(am__v_GEN_$(V))$/;"	m
+AM_V_GEN	src/Makefile	/^AM_V_GEN = $(am__v_GEN_$(V))$/;"	m
+AM_V_GEN	src/ttsubset/Makefile	/^AM_V_GEN = $(am__v_GEN_$(V))$/;"	m
+AM_V_P	Makefile	/^AM_V_P = $(am__v_P_$(V))$/;"	m
+AM_V_P	src/Makefile	/^AM_V_P = $(am__v_P_$(V))$/;"	m
+AM_V_P	src/ttsubset/Makefile	/^AM_V_P = $(am__v_P_$(V))$/;"	m
+AM_V_at	Makefile	/^AM_V_at = $(am__v_at_$(V))$/;"	m
+AM_V_at	src/Makefile	/^AM_V_at = $(am__v_at_$(V))$/;"	m
+AM_V_at	src/ttsubset/Makefile	/^AM_V_at = $(am__v_at_$(V))$/;"	m
+AR	Makefile	/^AR = ar$/;"	m
+AR	src/Makefile	/^AR = ar$/;"	m
+AR	src/ttsubset/Makefile	/^AR = ar$/;"	m
+ARFLAGS	src/ttsubset/Makefile	/^ARFLAGS = cru$/;"	m
+ARGS_ARE_XY_VALUES	src/ttsubset/sft.h	/^        ARGS_ARE_XY_VALUES        = 1<<1,$/;"	e	enum:CompositeFlags
+ARG_1_AND_2_ARE_WORDS	src/ttsubset/sft.h	/^        ARG_1_AND_2_ARE_WORDS     = 1,$/;"	e	enum:CompositeFlags
+ARROW_ANGLE_MAX	src/xo-shapes.h	31;"	d
+ARROW_ANGLE_MIN	src/xo-shapes.h	30;"	d
+ARROW_ASYMMETRY_MAX_ANGLE	src/xo-shapes.h	32;"	d
+ARROW_ASYMMETRY_MAX_LINEAR	src/xo-shapes.h	33;"	d
+ARROW_MAIN_LINEAR_GAP_MAX	src/xo-shapes.h	37;"	d
+ARROW_MAIN_LINEAR_GAP_MIN	src/xo-shapes.h	36;"	d
+ARROW_MAXSIZE	src/xo-shapes.h	29;"	d
+ARROW_SIDEWAYS_GAP_TOLERANCE	src/xo-shapes.h	35;"	d
+ARROW_TIP_LINEAR_TOLERANCE	src/xo-shapes.h	34;"	d
+AUTOCONF	Makefile	/^AUTOCONF = ${SHELL} \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/missing autoconf$/;"	m
+AUTOCONF	src/Makefile	/^AUTOCONF = ${SHELL} \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/missing autoconf$/;"	m
+AUTOCONF	src/ttsubset/Makefile	/^AUTOCONF = ${SHELL} \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/missing autoconf$/;"	m
+AUTOHEADER	Makefile	/^AUTOHEADER = ${SHELL} \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/missing autoheader$/;"	m
+AUTOHEADER	src/Makefile	/^AUTOHEADER = ${SHELL} \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/missing autoheader$/;"	m
+AUTOHEADER	src/ttsubset/Makefile	/^AUTOHEADER = ${SHELL} \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/missing autoheader$/;"	m
+AUTOMAKE	Makefile	/^AUTOMAKE = ${SHELL} \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/missing automake-1.16$/;"	m
+AUTOMAKE	src/Makefile	/^AUTOMAKE = ${SHELL} \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/missing automake-1.16$/;"	m
+AUTOMAKE	src/ttsubset/Makefile	/^AUTOMAKE = ${SHELL} \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/missing automake-1.16$/;"	m
+AUTOSAVE_FILENAME_FILTER	src/xo-file.h	27;"	d
+AUTOSAVE_FILENAME_TEMPLATE	src/xo-file.h	26;"	d
+AUTOSAVE_MAX	src/xo-file.h	25;"	d
+AWK	Makefile	/^AWK = gawk$/;"	m
+AWK	src/Makefile	/^AWK = gawk$/;"	m
+AWK	src/ttsubset/Makefile	/^AWK = gawk$/;"	m
+AddTable	src/ttsubset/ttcr.c	/^int AddTable(TrueTypeCreator *_this, TrueTypeTable *table)$/;"	f
+BBox	src/xournal.h	/^typedef struct BBox {$/;"	s
+BBox	src/xournal.h	/^} BBox;$/;"	t	typeref:struct:BBox
+BG_PDF	src/xournal.h	103;"	d
+BG_PIXMAP	src/xournal.h	102;"	d
+BG_SOLID	src/xournal.h	101;"	d
+BRUSH_COPIED	src/xournal.h	357;"	d
+BRUSH_LINKED	src/xournal.h	356;"	d
+BRUSH_STATIC	src/xournal.h	358;"	d
+BSplineToPSPath	src/ttsubset/sft.c	/^static int BSplineToPSPath(ControlPoint *srcA, int srcCount, PSPathElement **path)$/;"	f	file:
+BUFSIZE	src/xo-file.c	1275;"	d	file:
+Background	src/xournal.h	/^typedef struct Background {$/;"	s
+Background	src/xournal.h	/^} Background;$/;"	t	typeref:struct:Background
+BgPdf	src/xournal.h	/^typedef struct BgPdf {$/;"	s
+BgPdf	src/xournal.h	/^} BgPdf;$/;"	t	typeref:struct:BgPdf
+BgPdfPage	src/xournal.h	/^typedef struct BgPdfPage {$/;"	s
+BgPdfPage	src/xournal.h	/^} BgPdfPage;$/;"	t	typeref:struct:BgPdfPage
+BgPdfRequest	src/xournal.h	/^typedef struct BgPdfRequest {$/;"	s
+BgPdfRequest	src/xournal.h	/^} BgPdfRequest;$/;"	t	typeref:struct:BgPdfRequest
+Brush	src/xournal.h	/^typedef struct Brush {$/;"	s
+Brush	src/xournal.h	/^} Brush;$/;"	t	typeref:struct:Brush
+CATALOGS	Makefile	/^CATALOGS =  ca.gmo cs.gmo de.gmo es.gmo fr.gmo ja.gmo it.gmo nl.gmo pl.gmo pt_BR.gmo zh_CN.gmo zh_TW.gmo$/;"	m
+CATALOGS	po/Makefile	/^CATALOGS =  ca.gmo cs.gmo de.gmo es.gmo fr.gmo ja.gmo it.gmo nl.gmo pl.gmo pt_BR.gmo zh_CN.gmo zh_TW.gmo$/;"	m
+CATALOGS	src/Makefile	/^CATALOGS =  ca.gmo cs.gmo de.gmo es.gmo fr.gmo ja.gmo it.gmo nl.gmo pl.gmo pt_BR.gmo zh_CN.gmo zh_TW.gmo$/;"	m
+CATALOGS	src/ttsubset/Makefile	/^CATALOGS =  ca.gmo cs.gmo de.gmo es.gmo fr.gmo ja.gmo it.gmo nl.gmo pl.gmo pt_BR.gmo zh_CN.gmo zh_TW.gmo$/;"	m
+CATOBJEXT	Makefile	/^CATOBJEXT = .gmo$/;"	m
+CATOBJEXT	po/Makefile	/^CATOBJEXT = .gmo$/;"	m
+CATOBJEXT	src/Makefile	/^CATOBJEXT = .gmo$/;"	m
+CATOBJEXT	src/ttsubset/Makefile	/^CATOBJEXT = .gmo$/;"	m
+CC	Makefile	/^CC = gcc$/;"	m
+CC	po/Makefile	/^CC = gcc$/;"	m
+CC	src/Makefile	/^CC = gcc$/;"	m
+CC	src/ttsubset/Makefile	/^CC = gcc$/;"	m
+CCDEPMODE	Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCDEPMODE	src/Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCDEPMODE	src/ttsubset/Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCLD	src/Makefile	/^CCLD = $(CC)$/;"	m
+CCLD	src/ttsubset/Makefile	/^CCLD = $(CC)$/;"	m
+CFLAGS	Makefile	/^CFLAGS = -g -O2$/;"	m
+CFLAGS	po/Makefile	/^CFLAGS = -g -O2$/;"	m
+CFLAGS	src/Makefile	/^CFLAGS = -g -O2$/;"	m
+CFLAGS	src/ttsubset/Makefile	/^CFLAGS = -g -O2$/;"	m
+CFLocaleCopyCurrent	configure	/^CFLocaleCopyCurrent();$/;"	f
+CIRCLE_MAX_SCORE	src/xo-shapes.h	22;"	d
+CIRCLE_MIN_DET	src/xo-shapes.h	21;"	d
+CMAP_MS_Big5	src/ttsubset/sft.c	/^    CMAP_MS_Big5              = 13,$/;"	e	enum:cmapType	file:
+CMAP_MS_Johab	src/ttsubset/sft.c	/^    CMAP_MS_Johab             = 16$/;"	e	enum:cmapType	file:
+CMAP_MS_PRC	src/ttsubset/sft.c	/^    CMAP_MS_PRC               = 14,$/;"	e	enum:cmapType	file:
+CMAP_MS_ShiftJIS	src/ttsubset/sft.c	/^    CMAP_MS_ShiftJIS          = 12,$/;"	e	enum:cmapType	file:
+CMAP_MS_Symbol	src/ttsubset/sft.c	/^    CMAP_MS_Symbol            = 10,$/;"	e	enum:cmapType	file:
+CMAP_MS_Unicode	src/ttsubset/sft.c	/^    CMAP_MS_Unicode           = 11,$/;"	e	enum:cmapType	file:
+CMAP_MS_Wansung	src/ttsubset/sft.c	/^    CMAP_MS_Wansung           = 15,$/;"	e	enum:cmapType	file:
+CMAP_NOT_USABLE	src/ttsubset/sft.c	/^    CMAP_NOT_USABLE           = -1,$/;"	e	enum:cmapType	file:
+CMAP_PAIR_INCR	src/ttsubset/ttcr.c	460;"	d	file:
+CMAP_PAIR_INIT	src/ttsubset/ttcr.c	459;"	d	file:
+CMAP_SUBTABLE_INCR	src/ttsubset/ttcr.c	458;"	d	file:
+CMAP_SUBTABLE_INIT	src/ttsubset/ttcr.c	457;"	d	file:
+COLOR_BLACK	src/xournal.h	124;"	d
+COLOR_BLUE	src/xournal.h	125;"	d
+COLOR_GRAY	src/xournal.h	128;"	d
+COLOR_GREEN	src/xournal.h	127;"	d
+COLOR_LIGHTBLUE	src/xournal.h	129;"	d
+COLOR_LIGHTGREEN	src/xournal.h	130;"	d
+COLOR_MAGENTA	src/xournal.h	131;"	d
+COLOR_MAX	src/xournal.h	136;"	d
+COLOR_ORANGE	src/xournal.h	132;"	d
+COLOR_OTHER	src/xournal.h	135;"	d
+COLOR_RED	src/xournal.h	126;"	d
+COLOR_WHITE	src/xournal.h	134;"	d
+COLOR_YELLOW	src/xournal.h	133;"	d
+COMPILE	po/Makefile	/^COMPILE = $(CC) -c $(DEFS) $(INCLUDES) $(CPPFLAGS) $(CFLAGS) $(XCFLAGS)$/;"	m
+COMPILE	src/Makefile	/^COMPILE = $(CC) $(DEFS) $(DEFAULT_INCLUDES) $(INCLUDES) $(AM_CPPFLAGS) \\$/;"	m
+COMPILE	src/ttsubset/Makefile	/^COMPILE = $(CC) $(DEFS) $(DEFAULT_INCLUDES) $(INCLUDES) $(AM_CPPFLAGS) \\$/;"	m
+CONFIG_CLEAN_FILES	Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_FILES	src/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_FILES	src/ttsubset/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	src/Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	src/ttsubset/Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_DIR	src/xournal.h	37;"	d
+CONFIG_FILE	src/xournal.h	40;"	d
+CONFIG_HEADER	Makefile	/^CONFIG_HEADER = config.h$/;"	m
+CONFIG_HEADER	src/Makefile	/^CONFIG_HEADER = $(top_builddir)\/config.h$/;"	m
+CONFIG_HEADER	src/ttsubset/Makefile	/^CONFIG_HEADER = $(top_builddir)\/config.h$/;"	m
+CPP	Makefile	/^CPP = gcc -E$/;"	m
+CPP	src/Makefile	/^CPP = gcc -E$/;"	m
+CPP	src/ttsubset/Makefile	/^CPP = gcc -E$/;"	m
+CPPFLAGS	Makefile	/^CPPFLAGS = $/;"	m
+CPPFLAGS	po/Makefile	/^CPPFLAGS = $/;"	m
+CPPFLAGS	src/Makefile	/^CPPFLAGS = $/;"	m
+CPPFLAGS	src/ttsubset/Makefile	/^CPPFLAGS = $/;"	m
+CSCOPE	Makefile	/^CSCOPE = cscope$/;"	m
+CTAGS	Makefile	/^CTAGS = ctags$/;"	m
+CTAGS	src/Makefile	/^CTAGS = ctags$/;"	m
+CTAGS	src/ttsubset/Makefile	/^CTAGS = ctags$/;"	m
+CYGPATH_W	Makefile	/^CYGPATH_W = echo$/;"	m
+CYGPATH_W	src/Makefile	/^CYGPATH_W = echo$/;"	m
+CYGPATH_W	src/ttsubset/Makefile	/^CYGPATH_W = echo$/;"	m
+CheckSum	src/ttsubset/ttcr.c	/^static guint32 CheckSum(guint32 *ptr, guint32 length)$/;"	f	file:
+CloseTTFont	src/ttsubset/sft.c	/^void CloseTTFont(TrueTypeFont *ttf) \/*FOLD01*\/$/;"	f
+CmapSubTable	src/ttsubset/ttcr.c	/^} CmapSubTable;$/;"	t	typeref:struct:__anon12	file:
+CompositeFlags	src/ttsubset/sft.h	/^    enum CompositeFlags {$/;"	g
+ControlPoint	src/ttsubset/sft.h	/^    } ControlPoint;$/;"	t	typeref:struct:__anon10
+CountTTCFonts	src/ttsubset/sft.c	/^int CountTTCFonts(const char* fname)$/;"	f
+CreateT3FromTTGlyphs	src/ttsubset/sft.c	/^int  CreateT3FromTTGlyphs(TrueTypeFont *ttf, FILE *outf, const char *fname, \/*FOLD00*\/$/;"	f
+CreateT42FromTTGlyphs	src/ttsubset/sft.c	/^int  CreateT42FromTTGlyphs(TrueTypeFont  *ttf,$/;"	f
+CreateTTFromTTGlyphs	src/ttsubset/sft.c	/^int  CreateTTFromTTGlyphs(TrueTypeFont  *ttf,$/;"	f
+CreateTTFromTTGlyphs_tomemory	src/ttsubset/sft.c	/^int  CreateTTFromTTGlyphs_tomemory$/;"	f
+DATADIRNAME	Makefile	/^DATADIRNAME = share$/;"	m
+DATADIRNAME	src/Makefile	/^DATADIRNAME = share$/;"	m
+DATADIRNAME	src/ttsubset/Makefile	/^DATADIRNAME = share$/;"	m
+DEBUG_PRINTOBJ	src/xo-print.c	/^void DEBUG_PRINTOBJ(struct PdfObj *obj)$/;"	f
+DEFAULT_DEVICE_FOR_TOUCH	src/xournal.h	71;"	d
+DEFAULT_FONT	src/xo-paint.h	35;"	d
+DEFAULT_FONT	src/xo-paint.h	37;"	d
+DEFAULT_FONT_SIZE	src/xo-paint.h	39;"	d
+DEFAULT_INCLUDES	src/Makefile	/^DEFAULT_INCLUDES = -I. -I$(top_builddir)$/;"	m
+DEFAULT_INCLUDES	src/ttsubset/Makefile	/^DEFAULT_INCLUDES = -I. -I$(top_builddir)$/;"	m
+DEFAULT_SHORTEN_MENUS	src/xo-file.h	16;"	d
+DEFAULT_ZOOM	src/main.c	/^double DEFAULT_ZOOM;$/;"	v
+DEFS	Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEFS	po/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEFS	src/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEFS	src/ttsubset/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEPDIR	Makefile	/^DEPDIR = .deps$/;"	m
+DEPDIR	src/Makefile	/^DEPDIR = .deps$/;"	m
+DEPDIR	src/ttsubset/Makefile	/^DEPDIR = .deps$/;"	m
+DISPLAY_DPI_DEFAULT	src/xournal.h	62;"	d
+DISTFILES	Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DISTFILES	po/Makefile	/^DISTFILES = LINGUAS Makefile.in.in POTFILES.in $(GETTEXT_PACKAGE).pot \\$/;"	m
+DISTFILES	src/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DISTFILES	src/ttsubset/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DIST_ARCHIVES	Makefile	/^DIST_ARCHIVES = $(distdir).tar.gz$/;"	m
+DIST_COMMON	Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.am $(top_srcdir)\/configure \\$/;"	m
+DIST_COMMON	src/Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.am $(am__DIST_COMMON)$/;"	m
+DIST_COMMON	src/ttsubset/Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.am $(am__DIST_COMMON)$/;"	m
+DIST_SOURCES	Makefile	/^DIST_SOURCES =$/;"	m
+DIST_SOURCES	src/Makefile	/^DIST_SOURCES = $(xournal_SOURCES)$/;"	m
+DIST_SOURCES	src/ttsubset/Makefile	/^DIST_SOURCES = $(libttsubset_a_SOURCES)$/;"	m
+DIST_SUBDIRS	Makefile	/^DIST_SUBDIRS = $(SUBDIRS)$/;"	m
+DIST_SUBDIRS	src/Makefile	/^DIST_SUBDIRS = ttsubset win32$/;"	m
+DIST_TARGETS	Makefile	/^DIST_TARGETS = dist-gzip$/;"	m
+DOMAIN_ABSOLUTE	src/xournal.h	110;"	d
+DOMAIN_ATTACH	src/xournal.h	111;"	d
+DOMAIN_CLONE	src/xournal.h	112;"	d
+DisposeNameRecord	src/ttsubset/ttcr.c	/^static void DisposeNameRecord(void *ptr)$/;"	f	file:
+DisposeNameRecords	src/ttsubset/sft.c	/^void DisposeNameRecords(NameRecord* nr, int n)$/;"	f
+DumpSfnts	src/ttsubset/sft.c	/^static void DumpSfnts(FILE *outf, guint8 *sfntP)$/;"	f	file:
+ECHO_C	Makefile	/^ECHO_C = $/;"	m
+ECHO_C	src/Makefile	/^ECHO_C = $/;"	m
+ECHO_C	src/ttsubset/Makefile	/^ECHO_C = $/;"	m
+ECHO_N	Makefile	/^ECHO_N = -n$/;"	m
+ECHO_N	src/Makefile	/^ECHO_N = -n$/;"	m
+ECHO_N	src/ttsubset/Makefile	/^ECHO_N = -n$/;"	m
+ECHO_T	Makefile	/^ECHO_T = $/;"	m
+ECHO_T	src/Makefile	/^ECHO_T = $/;"	m
+ECHO_T	src/ttsubset/Makefile	/^ECHO_T = $/;"	m
+EGREP	Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+EGREP	src/Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+EGREP	src/ttsubset/Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+ENABLE_NLS	config.h	5;"	d
+EPSILON	src/xournal.h	60;"	d
+ETAGS	Makefile	/^ETAGS = etags$/;"	m
+ETAGS	src/Makefile	/^ETAGS = etags$/;"	m
+ETAGS	src/ttsubset/Makefile	/^ETAGS = etags$/;"	m
+EXEEXT	Makefile	/^EXEEXT = $/;"	m
+EXEEXT	src/Makefile	/^EXEEXT = $/;"	m
+EXEEXT	src/ttsubset/Makefile	/^EXEEXT = $/;"	m
+EXTRA_DIST	Makefile	/^EXTRA_DIST = \\$/;"	m
+ExtractTable	src/ttsubset/sft.c	/^guint8 *ExtractTable(TrueTypeFont *ttf, guint32 tag)$/;"	f
+F16Dot16	src/ttsubset/sft.h	/^    typedef gint32       F16Dot16;           \/**< fixed: 16.16 *\/$/;"	t
+F2Dot14	src/ttsubset/sft.h	/^    typedef gint16       F2Dot14;            \/**< fixed: 2.14 *\/$/;"	t
+FILE_DIALOG_SIZE_BUGFIX	src/xournal.h	30;"	d
+FUnitBBox	src/ttsubset/sft.h	/^    } FUnitBBox;$/;"	t	typeref:struct:__anon6
+FWIDTH_CONDENSED	src/ttsubset/sft.h	/^        FWIDTH_CONDENSED = 3,               \/**< 75% of normal                      *\/$/;"	e	enum:WidthClass
+FWIDTH_EXPANDED	src/ttsubset/sft.h	/^        FWIDTH_EXPANDED = 7,                \/**< 125% of normal                     *\/$/;"	e	enum:WidthClass
+FWIDTH_EXTRA_CONDENSED	src/ttsubset/sft.h	/^        FWIDTH_EXTRA_CONDENSED = 2,         \/**< 62.5% of normal                    *\/$/;"	e	enum:WidthClass
+FWIDTH_EXTRA_EXPANDED	src/ttsubset/sft.h	/^        FWIDTH_EXTRA_EXPANDED = 8,          \/**< 150% of normal                     *\/$/;"	e	enum:WidthClass
+FWIDTH_NORMAL	src/ttsubset/sft.h	/^        FWIDTH_NORMAL = 5,                  \/**< Medium, 100%                       *\/$/;"	e	enum:WidthClass
+FWIDTH_SEMI_CONDENSED	src/ttsubset/sft.h	/^        FWIDTH_SEMI_CONDENSED = 4,          \/**< 87.5% of normal                    *\/$/;"	e	enum:WidthClass
+FWIDTH_SEMI_EXPANDED	src/ttsubset/sft.h	/^        FWIDTH_SEMI_EXPANDED = 6,           \/**< 112.5% of normal                   *\/$/;"	e	enum:WidthClass
+FWIDTH_ULTRA_CONDENSED	src/ttsubset/sft.h	/^        FWIDTH_ULTRA_CONDENSED = 1,         \/**< 50% of normal                      *\/$/;"	e	enum:WidthClass
+FWIDTH_ULTRA_EXPANDED	src/ttsubset/sft.h	/^        FWIDTH_ULTRA_EXPANDED = 9           \/**< 200% of normal                     *\/$/;"	e	enum:WidthClass
+FW_BLACK	src/ttsubset/sft.h	/^        FW_BLACK = 900                      \/**< Black (Heavy)                      *\/$/;"	e	enum:WeightClass
+FW_BOLD	src/ttsubset/sft.h	/^        FW_BOLD = 700,                      \/**< Bold                               *\/$/;"	e	enum:WeightClass
+FW_EXTRABOLD	src/ttsubset/sft.h	/^        FW_EXTRABOLD = 800,                 \/**< Extra-bold (Ultra-bold)            *\/$/;"	e	enum:WeightClass
+FW_EXTRALIGHT	src/ttsubset/sft.h	/^        FW_EXTRALIGHT = 200,                \/**< Extra-light (Ultra-light)          *\/$/;"	e	enum:WeightClass
+FW_LIGHT	src/ttsubset/sft.h	/^        FW_LIGHT = 300,                     \/**< Light                              *\/$/;"	e	enum:WeightClass
+FW_MEDIUM	src/ttsubset/sft.h	/^        FW_MEDIUM = 500,                    \/**< Medium                             *\/$/;"	e	enum:WeightClass
+FW_NORMAL	src/ttsubset/sft.h	/^        FW_NORMAL = 400,                    \/**< Normal (Regular)                   *\/$/;"	e	enum:WeightClass
+FW_SEMIBOLD	src/ttsubset/sft.h	/^        FW_SEMIBOLD = 600,                  \/**< Semi-bold (Demi-bold)              *\/$/;"	e	enum:WeightClass
+FW_THIN	src/ttsubset/sft.h	/^        FW_THIN = 100,                      \/**< Thin                               *\/$/;"	e	enum:WeightClass
+FindCmap	src/ttsubset/sft.c	/^static void FindCmap(TrueTypeFont *ttf)$/;"	f	file:
+FindTable	src/ttsubset/ttcr.c	/^static TrueTypeTable *FindTable(TrueTypeCreator *tt, guint32 tag)$/;"	f	file:
+FreeGlyphData	src/ttsubset/ttcr.c	/^static void FreeGlyphData(void *ptr)$/;"	f	file:
+GENCAT	po/Makefile	/^GENCAT = @GENCAT@$/;"	m
+GETTEXT_PACKAGE	Makefile	/^GETTEXT_PACKAGE = xournal$/;"	m
+GETTEXT_PACKAGE	config.h	8;"	d
+GETTEXT_PACKAGE	po/Makefile	/^GETTEXT_PACKAGE = xournal$/;"	m
+GETTEXT_PACKAGE	src/Makefile	/^GETTEXT_PACKAGE = xournal$/;"	m
+GETTEXT_PACKAGE	src/ttsubset/Makefile	/^GETTEXT_PACKAGE = xournal$/;"	m
+GET_COMPONENT	src/xournal.h	422;"	d
+GEbinsearch	src/ttsubset/sft.c	/^static guint16 GEbinsearch(guint16 *ar, guint16 length, guint16 toSearch) {$/;"	f	file:
+GLADE_HOOKUP_OBJECT	src/xo-interface.c	22;"	d	file:
+GLADE_HOOKUP_OBJECT_NO_REF	src/xo-interface.c	26;"	d	file:
+GMOFILES	Makefile	/^GMOFILES =  ca.gmo cs.gmo de.gmo es.gmo fr.gmo ja.gmo it.gmo nl.gmo pl.gmo pt_BR.gmo zh_CN.gmo zh_TW.gmo$/;"	m
+GMOFILES	po/Makefile	/^GMOFILES =  ca.gmo cs.gmo de.gmo es.gmo fr.gmo ja.gmo it.gmo nl.gmo pl.gmo pt_BR.gmo zh_CN.gmo zh_TW.gmo$/;"	m
+GMOFILES	src/Makefile	/^GMOFILES =  ca.gmo cs.gmo de.gmo es.gmo fr.gmo ja.gmo it.gmo nl.gmo pl.gmo pt_BR.gmo zh_CN.gmo zh_TW.gmo$/;"	m
+GMOFILES	src/ttsubset/Makefile	/^GMOFILES =  ca.gmo cs.gmo de.gmo es.gmo fr.gmo ja.gmo it.gmo nl.gmo pl.gmo pt_BR.gmo zh_CN.gmo zh_TW.gmo$/;"	m
+GMSGFMT	Makefile	/^GMSGFMT = \/usr\/bin\/msgfmt$/;"	m
+GMSGFMT	po/Makefile	/^GMSGFMT = \/usr\/bin\/msgfmt$/;"	m
+GMSGFMT	src/Makefile	/^GMSGFMT = \/usr\/bin\/msgfmt$/;"	m
+GMSGFMT	src/ttsubset/Makefile	/^GMSGFMT = \/usr\/bin\/msgfmt$/;"	m
+GREP	Makefile	/^GREP = \/bin\/grep$/;"	m
+GREP	src/Makefile	/^GREP = \/bin\/grep$/;"	m
+GREP	src/ttsubset/Makefile	/^GREP = \/bin\/grep$/;"	m
+GS_BITMAP_DPI	src/xo-file.c	/^int PDFTOPPM_PRINTING_DPI, GS_BITMAP_DPI;$/;"	v
+GS_CMDLINE	src/xo-file.h	19;"	d
+GTK_STOCK_DISCARD	src/xo-misc.c	1970;"	d	file:
+GZIP_ENV	Makefile	/^GZIP_ENV = --best$/;"	m
+GetCompoundTTOutline	src/ttsubset/sft.c	/^static int GetCompoundTTOutline(TrueTypeFont *ttf, guint32 glyphID, ControlPoint **pointArray, TTGlyphMetrics *metrics, list glyphlist) \/*FOLD02*\/$/;"	f	file:
+GetInt16	src/ttsubset/sft.c	/^_inline gint16 GetInt16(const guint8 *ptr, size_t offset, int bigendian)$/;"	f
+GetInt16	src/ttsubset/ttcr.c	/^_inline gint16 GetInt16(const guint8 *ptr, size_t offset, int bigendian)$/;"	f
+GetInt32	src/ttsubset/sft.c	/^_inline gint32  GetInt32(const guint8 *ptr, size_t offset, int bigendian)$/;"	f
+GetInt32	src/ttsubset/ttcr.c	/^_inline gint32  GetInt32(const guint8 *ptr, size_t offset, int bigendian)$/;"	f
+GetKern	src/ttsubset/sft.c	/^static void GetKern(TrueTypeFont *ttf)$/;"	f	file:
+GetKernSubtableLength	src/ttsubset/sft.c	/^guint32 GetKernSubtableLength(guint8 *kern)$/;"	f
+GetMetrics	src/ttsubset/sft.c	/^static void GetMetrics(TrueTypeFont *ttf, guint32 glyphID, TTGlyphMetrics *metrics)$/;"	f	file:
+GetNames	src/ttsubset/sft.c	/^static void GetNames(TrueTypeFont *t)$/;"	f	file:
+GetRawData	src/ttsubset/ttcr.c	/^int GetRawData(TrueTypeTable *_this, guint8 **ptr, guint32 *len, guint32 *tag)$/;"	f
+GetRawData_cmap	src/ttsubset/ttcr.c	/^static int GetRawData_cmap(TrueTypeTable *_this, guint8 **ptr, guint32 *len, guint32 *tag)$/;"	f	file:
+GetRawData_generic	src/ttsubset/ttcr.c	/^static int GetRawData_generic(TrueTypeTable *_this, guint8 **ptr, guint32 *len, guint32 *tag)$/;"	f	file:
+GetRawData_glyf	src/ttsubset/ttcr.c	/^static int GetRawData_glyf(TrueTypeTable *_this, guint8 **ptr, guint32 *len, guint32 *tag)$/;"	f	file:
+GetRawData_head	src/ttsubset/ttcr.c	/^static int GetRawData_head(TrueTypeTable *_this, guint8 **ptr, guint32 *len, guint32 *tag)$/;"	f	file:
+GetRawData_hhea	src/ttsubset/ttcr.c	/^static int GetRawData_hhea(TrueTypeTable *_this, guint8 **ptr, guint32 *len, guint32 *tag)$/;"	f	file:
+GetRawData_loca	src/ttsubset/ttcr.c	/^static int GetRawData_loca(TrueTypeTable *_this, guint8 **ptr, guint32 *len, guint32 *tag)$/;"	f	file:
+GetRawData_maxp	src/ttsubset/ttcr.c	/^static int GetRawData_maxp(TrueTypeTable *_this, guint8 **ptr, guint32 *len, guint32 *tag)$/;"	f	file:
+GetRawData_name	src/ttsubset/ttcr.c	/^static int GetRawData_name(TrueTypeTable *_this, guint8 **ptr, guint32 *len, guint32 *tag)$/;"	f	file:
+GetRawData_post	src/ttsubset/ttcr.c	/^static int GetRawData_post(TrueTypeTable *_this, guint8 **ptr, guint32 *len, guint32 *tag)$/;"	f	file:
+GetSimpleTTOutline	src/ttsubset/sft.c	/^static int GetSimpleTTOutline(TrueTypeFont *ttf, guint32 glyphID, ControlPoint **pointArray, TTGlyphMetrics *metrics) \/*FOLD02*\/$/;"	f	file:
+GetTTGlobalFontInfo	src/ttsubset/sft.c	/^void GetTTGlobalFontInfo(TrueTypeFont *ttf, TTGlobalFontInfo *info)$/;"	f
+GetTTGlyphBoundingBoxes	src/ttsubset/sft.c	/^FUnitBBox *GetTTGlyphBoundingBoxes(TrueTypeFont *ttf)$/;"	f
+GetTTGlyphComponents	src/ttsubset/sft.c	/^int GetTTGlyphComponents(TrueTypeFont *ttf, guint32 glyphID, list glyphlist)$/;"	f	file:
+GetTTGlyphMetrics	src/ttsubset/sft.c	/^void GetTTGlyphMetrics(TrueTypeFont *ttf, guint32 glyphID, TTGlyphMetrics *metrics)$/;"	f
+GetTTGlyphOutline	src/ttsubset/sft.c	/^static int GetTTGlyphOutline(TrueTypeFont *ttf, guint32 glyphID, ControlPoint **pointArray, TTGlyphMetrics *metrics, list glyphlist)$/;"	f	file:
+GetTTGlyphPoints	src/ttsubset/sft.c	/^int GetTTGlyphPoints(TrueTypeFont *ttf, guint32 glyphID, ControlPoint **pointArray)$/;"	f
+GetTTNameRecords	src/ttsubset/sft.c	/^int GetTTNameRecords(TrueTypeFont *ttf, NameRecord **nr)$/;"	f
+GetTTRawGlyphData	src/ttsubset/sft.c	/^GlyphData *GetTTRawGlyphData(TrueTypeFont *ttf, guint32 glyphID)$/;"	f
+GetTTSimpleCharMetrics	src/ttsubset/sft.c	/^TTSimpleGlyphMetrics *GetTTSimpleCharMetrics(TrueTypeFont * ttf, guint16 firstChar, int nChars, int mode)$/;"	f
+GetTTSimpleGlyphMetrics	src/ttsubset/sft.c	/^TTSimpleGlyphMetrics *GetTTSimpleGlyphMetrics(TrueTypeFont *ttf, guint16 *glyphArray, int nGlyphs, int mode)$/;"	f
+GetTable	src/ttsubset/sft.c	/^const guint8 *GetTable(TrueTypeFont *ttf, guint32 tag)$/;"	f
+GetUInt16	src/ttsubset/sft.c	/^_inline guint16 GetUInt16(const guint8 *ptr, size_t offset, int bigendian)$/;"	f
+GetUInt16	src/ttsubset/ttcr.c	/^_inline guint16 GetUInt16(const guint8 *ptr, size_t offset, int bigendian)$/;"	f
+GetUInt32	src/ttsubset/sft.c	/^_inline guint32 GetUInt32(const guint8 *ptr, size_t offset, int bigendian)$/;"	f
+GetUInt32	src/ttsubset/ttcr.c	/^_inline guint32 GetUInt32(const guint8 *ptr, size_t offset, int bigendian)$/;"	f
+GlyphData	src/ttsubset/sft.h	/^    } GlyphData;$/;"	t	typeref:struct:__anon5
+GlyphOffsets	src/ttsubset/sft.c	/^} GlyphOffsets;$/;"	t	typeref:struct:__anon21	file:
+GlyphOffsetsDispose	src/ttsubset/sft.c	/^static void GlyphOffsetsDispose(GlyphOffsets *_this)$/;"	f	file:
+GlyphOffsetsNew	src/ttsubset/sft.c	/^static GlyphOffsets *GlyphOffsetsNew(guint8 *sfntP)$/;"	f	file:
+HAVE_BIND_TEXTDOMAIN_CODESET	config.h	11;"	d
+HAVE_DCGETTEXT	config.h	22;"	d
+HAVE_GETTEXT	config.h	25;"	d
+HAVE_INTTYPES_H	config.h	28;"	d
+HAVE_LC_MESSAGES	config.h	31;"	d
+HAVE_LOCALE_H	config.h	34;"	d
+HAVE_MEMORY_H	config.h	37;"	d
+HAVE_STDINT_H	config.h	40;"	d
+HAVE_STDLIB_H	config.h	43;"	d
+HAVE_STRINGS_H	config.h	46;"	d
+HAVE_STRING_H	config.h	49;"	d
+HAVE_SYS_STAT_H	config.h	52;"	d
+HAVE_SYS_TYPES_H	config.h	55;"	d
+HAVE_UNISTD_H	config.h	58;"	d
+HFORMAT_LINELEN	src/ttsubset/sft.c	95;"	d	file:
+HILITER_BORDER_RADIUS	src/xo-paint.c	53;"	d	file:
+HILITER_CURSOR_RADIUS	src/xo-paint.c	52;"	d	file:
+HexChars	src/ttsubset/sft.c	/^static char HexChars[] = "0123456789ABCDEF";$/;"	v	file:
+HexFmt	src/ttsubset/sft.c	/^} HexFmt;$/;"	t	typeref:struct:__anon20	file:
+HexFmtBlockWrite	src/ttsubset/sft.c	/^static void HexFmtBlockWrite(HexFmt *_this, const void *ptr, off_t size)$/;"	f	file:
+HexFmtCloseString	src/ttsubset/sft.c	/^_inline void HexFmtCloseString(HexFmt *_this)$/;"	f
+HexFmtDispose	src/ttsubset/sft.c	/^_inline void HexFmtDispose(HexFmt *_this)$/;"	f
+HexFmtFlush	src/ttsubset/sft.c	/^static void HexFmtFlush(HexFmt *_this)$/;"	f	file:
+HexFmtNew	src/ttsubset/sft.c	/^static HexFmt *HexFmtNew(FILE *outf)$/;"	f	file:
+HexFmtOpenString	src/ttsubset/sft.c	/^_inline void HexFmtOpenString(HexFmt *_this)$/;"	f
+INCLUDES	po/Makefile	/^INCLUDES = -I.. -I$(top_srcdir)\/intl$/;"	m
+INCLUDES	src/Makefile	/^INCLUDES = \\$/;"	m
+INCLUDES	src/ttsubset/Makefile	/^INCLUDES = \\$/;"	m
+INPUT_DEBUG	src/xo-callbacks.c	16;"	d	file:
+INSTALL	Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL	po/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL	src/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL	src/ttsubset/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL_DATA	Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_DATA	po/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_DATA	src/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_DATA	src/ttsubset/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_HEADER	Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_HEADER	src/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_HEADER	src/ttsubset/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_PROGRAM	Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_PROGRAM	src/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_PROGRAM	src/ttsubset/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	src/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	src/ttsubset/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_STRIP_PROGRAM	Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+INSTALL_STRIP_PROGRAM	src/Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+INSTALL_STRIP_PROGRAM	src/ttsubset/Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+INSTOBJEXT	Makefile	/^INSTOBJEXT = .mo$/;"	m
+INSTOBJEXT	po/Makefile	/^INSTOBJEXT = .mo$/;"	m
+INSTOBJEXT	src/Makefile	/^INSTOBJEXT = .mo$/;"	m
+INSTOBJEXT	src/ttsubset/Makefile	/^INSTOBJEXT = .mo$/;"	m
+INTLLIBS	Makefile	/^INTLLIBS = $/;"	m
+INTLLIBS	src/Makefile	/^INTLLIBS = $/;"	m
+INTLLIBS	src/ttsubset/Makefile	/^INTLLIBS = $/;"	m
+INTL_MACOSX_LIBS	Makefile	/^INTL_MACOSX_LIBS = $/;"	m
+INTL_MACOSX_LIBS	src/Makefile	/^INTL_MACOSX_LIBS = $/;"	m
+INTL_MACOSX_LIBS	src/ttsubset/Makefile	/^INTL_MACOSX_LIBS = $/;"	m
+ITEM_DELETE_LAYER	src/xournal.h	203;"	d
+ITEM_DELETE_PAGE	src/xournal.h	209;"	d
+ITEM_ERASURE	src/xournal.h	198;"	d
+ITEM_HAND	src/xournal.h	212;"	d
+ITEM_IMAGE	src/xournal.h	219;"	d
+ITEM_IMAGE_PENDING	src/xournal.h	222;"	d
+ITEM_MOVESEL	src/xournal.h	200;"	d
+ITEM_MOVESEL_VERT	src/xournal.h	211;"	d
+ITEM_NEW_BG_ONE	src/xournal.h	204;"	d
+ITEM_NEW_BG_RESIZE	src/xournal.h	205;"	d
+ITEM_NEW_DEFAULT_BG	src/xournal.h	207;"	d
+ITEM_NEW_LAYER	src/xournal.h	202;"	d
+ITEM_NEW_PAGE	src/xournal.h	208;"	d
+ITEM_NONE	src/xournal.h	195;"	d
+ITEM_PAPER_RESIZE	src/xournal.h	206;"	d
+ITEM_PASTE	src/xournal.h	201;"	d
+ITEM_RECOGNIZER	src/xournal.h	218;"	d
+ITEM_REPAINTSEL	src/xournal.h	210;"	d
+ITEM_RESIZESEL	src/xournal.h	217;"	d
+ITEM_SELECTRECT	src/xournal.h	199;"	d
+ITEM_SELECTREGION	src/xournal.h	220;"	d
+ITEM_STROKE	src/xournal.h	196;"	d
+ITEM_TEMP_STROKE	src/xournal.h	197;"	d
+ITEM_TEMP_TEXT	src/xournal.h	214;"	d
+ITEM_TEXT	src/xournal.h	213;"	d
+ITEM_TEXT_ATTRIB	src/xournal.h	216;"	d
+ITEM_TEXT_EDIT	src/xournal.h	215;"	d
+ITEM_TEXT_PENDING	src/xournal.h	221;"	d
+I_det	src/xo-shapes.c	/^inline double I_det(struct Inertia s)$/;"	f
+I_rad	src/xo-shapes.c	/^inline double I_rad(struct Inertia s)$/;"	f
+I_xx	src/xo-shapes.c	/^inline double I_xx(struct Inertia s)$/;"	f
+I_xy	src/xo-shapes.c	/^inline double I_xy(struct Inertia s)$/;"	f
+I_yy	src/xo-shapes.c	/^inline double I_yy(struct Inertia s)$/;"	f
+Inertia	src/xo-shapes.c	/^typedef struct Inertia {$/;"	s	file:
+Inertia	src/xo-shapes.c	/^} Inertia;$/;"	t	typeref:struct:Inertia	file:
+Int16FromMOTA	src/ttsubset/sft.c	/^static guint16 Int16FromMOTA(guint16 a) {$/;"	f	file:
+Int16FromMOTA	src/ttsubset/sft.c	317;"	d	file:
+Item	src/xournal.h	/^typedef struct Item {$/;"	s
+Item	src/xournal.h	/^} Item;$/;"	t	typeref:struct:Item
+Journal	src/xournal.h	/^typedef struct Journal {$/;"	s
+Journal	src/xournal.h	/^} Journal;$/;"	t	typeref:struct:Journal
+KT_APPLE_NEW	src/ttsubset/sft.h	/^        KT_APPLE_NEW    = 1,                \/**< new Apple kern table               *\/$/;"	e	enum:KernType
+KT_MICROSOFT	src/ttsubset/sft.h	/^        KT_MICROSOFT    = 2                 \/**< Microsoft table                    *\/$/;"	e	enum:KernType
+KT_NONE	src/ttsubset/sft.h	/^        KT_NONE         = 0,                \/**< no kern table                      *\/$/;"	e	enum:KernType
+KernData	src/ttsubset/sft.h	/^    } KernData;$/;"	t	typeref:struct:__anon9
+KernGlyphPair	src/ttsubset/sft.c	/^void KernGlyphPair(int kerntype, guint32 nkern, guint8 **kern, int unitsPerEm, int wmode, guint32 a, guint32 b, int *x, int *y)$/;"	f
+KernGlyphPairPrim1	src/ttsubset/sft.c	/^static void KernGlyphPairPrim1(guint32 nkern, guint8 **kerntables, int upem, int wmode, guint32 a, guint32 b, int *x, int *y)$/;"	f	file:
+KernGlyphPairPrim2	src/ttsubset/sft.c	/^static void KernGlyphPairPrim2(guint32 nkern, guint8 **kerntables, int upem, int wmode, guint32 a, guint32 b, int *x, int *y)$/;"	f	file:
+KernGlyphs	src/ttsubset/sft.c	/^void KernGlyphs(TrueTypeFont *ttf, guint16 *glyphs, int nglyphs, int wmode, KernData *kern)$/;"	f
+KernGlyphsPrim1	src/ttsubset/sft.c	/^static void KernGlyphsPrim1(TrueTypeFont *ttf, guint16 *glyphs, int nglyphs, int wmode, KernData *kern)$/;"	f	file:
+KernGlyphsPrim2	src/ttsubset/sft.c	/^static void KernGlyphsPrim2(TrueTypeFont *ttf, guint16 *glyphs, int nglyphs, int wmode, KernData *kern)$/;"	f	file:
+KernType	src/ttsubset/sft.h	/^    enum KernType {$/;"	g
+LAST_URANGE_BIT	src/ttsubset/sft.c	135;"	d	file:
+LDFLAGS	Makefile	/^LDFLAGS =  -lz -lm$/;"	m
+LDFLAGS	src/Makefile	/^LDFLAGS =  -lz -lm$/;"	m
+LDFLAGS	src/ttsubset/Makefile	/^LDFLAGS =  -lz -lm$/;"	m
+LIBOBJS	Makefile	/^LIBOBJS = $/;"	m
+LIBOBJS	src/Makefile	/^LIBOBJS = $/;"	m
+LIBOBJS	src/ttsubset/Makefile	/^LIBOBJS = $/;"	m
+LIBRARIES	src/ttsubset/Makefile	/^LIBRARIES = $(noinst_LIBRARIES)$/;"	m
+LIBS	Makefile	/^LIBS = $/;"	m
+LIBS	src/Makefile	/^LIBS = $/;"	m
+LIBS	src/ttsubset/Makefile	/^LIBS = $/;"	m
+LINE_MAX_DET	src/xo-shapes.h	20;"	d
+LINE_WIDTH_PRECISION	src/xournal.h	66;"	d
+LINK	src/Makefile	/^LINK = $(CCLD) $(AM_CFLAGS) $(CFLAGS) $(AM_LDFLAGS) $(LDFLAGS) -o $@$/;"	m
+LINK	src/ttsubset/Makefile	/^LINK = $(CCLD) $(AM_CFLAGS) $(CFLAGS) $(AM_LDFLAGS) $(LDFLAGS) -o $@$/;"	m
+LTLIBOBJS	Makefile	/^LTLIBOBJS = $/;"	m
+LTLIBOBJS	src/Makefile	/^LTLIBOBJS = $/;"	m
+LTLIBOBJS	src/ttsubset/Makefile	/^LTLIBOBJS = $/;"	m
+Layer	src/xournal.h	/^typedef struct Layer {$/;"	s
+Layer	src/xournal.h	/^} Layer;$/;"	t	typeref:struct:Layer
+MAINT	Makefile	/^MAINT = $/;"	m
+MAINT	src/Makefile	/^MAINT = $/;"	m
+MAINT	src/ttsubset/Makefile	/^MAINT = $/;"	m
+MAKEINFO	Makefile	/^MAKEINFO = ${SHELL} \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/missing makeinfo$/;"	m
+MAKEINFO	src/Makefile	/^MAKEINFO = ${SHELL} \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/missing makeinfo$/;"	m
+MAKEINFO	src/ttsubset/Makefile	/^MAKEINFO = ${SHELL} \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/missing makeinfo$/;"	m
+MAX_AXES	src/xournal.h	59;"	d
+MAX_POLYGON_SIDES	src/xo-shapes.h	18;"	d
+MAX_SAFE_RENDER_DPI	src/xournal.h	65;"	d
+MAX_ZOOM	src/xournal.h	61;"	d
+MIN_ZOOM	src/xournal.h	63;"	d
+MISSING_GLYPH_INDEX	src/ttsubset/sft.c	1242;"	d	file:
+MKDIR_P	Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+MKDIR_P	src/Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+MKDIR_P	src/ttsubset/Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+MKINSTALLDIRS	Makefile	/^MKINSTALLDIRS = .\/mkinstalldirs$/;"	m
+MKINSTALLDIRS	po/Makefile	/^MKINSTALLDIRS = mkdir -p$/;"	m
+MKINSTALLDIRS	src/Makefile	/^MKINSTALLDIRS = .\/mkinstalldirs$/;"	m
+MKINSTALLDIRS	src/ttsubset/Makefile	/^MKINSTALLDIRS = .\/mkinstalldirs$/;"	m
+MORE_COMPONENTS	src/ttsubset/sft.h	/^        MORE_COMPONENTS           = 1<<5,$/;"	e	enum:CompositeFlags
+MRU_FILE	src/xournal.h	38;"	d
+MRU_SIZE	src/xournal.h	39;"	d
+MSGFMT	Makefile	/^MSGFMT = \/usr\/bin\/msgfmt$/;"	m
+MSGFMT	po/Makefile	/^MSGFMT = \/usr\/bin\/msgfmt$/;"	m
+MSGFMT	src/Makefile	/^MSGFMT = \/usr\/bin\/msgfmt$/;"	m
+MSGFMT	src/ttsubset/Makefile	/^MSGFMT = \/usr\/bin\/msgfmt$/;"	m
+MSGFMT_OPTS	Makefile	/^MSGFMT_OPTS = -c$/;"	m
+MSGFMT_OPTS	po/Makefile	/^MSGFMT_OPTS = -c$/;"	m
+MSGFMT_OPTS	src/Makefile	/^MSGFMT_OPTS = -c$/;"	m
+MSGFMT_OPTS	src/ttsubset/Makefile	/^MSGFMT_OPTS = -c$/;"	m
+MSGMERGE	po/Makefile	/^MSGMERGE = msgmerge$/;"	m
+MULTIOP_CONT_REDO	src/xournal.h	386;"	d
+MULTIOP_CONT_UNDO	src/xournal.h	387;"	d
+MapChar	src/ttsubset/sft.c	/^guint16 MapChar(TrueTypeFont *ttf, guint16 ch, int bvertical)$/;"	f
+MapString	src/ttsubset/sft.c	/^int MapString(TrueTypeFont *ttf, guint16 *str, int nchars, guint16 *glyphArray, int bvertical)$/;"	f
+NORMAL_INSTALL	Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_INSTALL	src/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_INSTALL	src/ttsubset/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_UNINSTALL	Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NORMAL_UNINSTALL	src/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NORMAL_UNINSTALL	src/ttsubset/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NO_MAPPERS	src/xo-print.c	37;"	d	file:
+NO_TYPE3	src/xo-print.c	38;"	d	file:
+NO_TYPE42	src/xo-print.c	39;"	d	file:
+NUM_BUTTONS	src/xournal.h	159;"	d
+NUM_STROKE_TOOLS	src/xournal.h	157;"	d
+NUM_TAGS	src/ttsubset/sft.c	133;"	d	file:
+NUM_TOOLS	src/xournal.h	158;"	d
+N_	src/xo-support.h	20;"	d
+N_	src/xo-support.h	22;"	d
+N_	src/xo-support.h	32;"	d
+NameRecord	src/ttsubset/sft.h	/^    } NameRecord;$/;"	t	typeref:struct:__anon7
+NameRecordCompareF	src/ttsubset/ttcr.c	/^static int NameRecordCompareF(const void *l, const void *r)$/;"	f	file:
+NameRecordNewCopy	src/ttsubset/ttcr.c	/^static NameRecord* NameRecordNewCopy(NameRecord *nr)$/;"	f	file:
+OBJEXT	Makefile	/^OBJEXT = o$/;"	m
+OBJEXT	src/Makefile	/^OBJEXT = o$/;"	m
+OBJEXT	src/ttsubset/Makefile	/^OBJEXT = o$/;"	m
+OVERLAP_COMPOUND	src/ttsubset/sft.h	/^        OVERLAP_COMPOUND          = 1<<10$/;"	e	enum:CompositeFlags
+O_BINARY	src/ttsubset/ttcr.c	62;"	d	file:
+O_OS2	src/ttsubset/sft.c	/^static const guint32 T_OS2  = 0x4F532F32;    static const guint32 O_OS2  = 10;    \/* 'OS\/2' *\/$/;"	v	file:
+O_cmap	src/ttsubset/sft.c	/^static const guint32 T_cmap = 0x636D6170;    static const guint32 O_cmap = 7;     \/* 'cmap' *\/$/;"	v	file:
+O_cvt	src/ttsubset/sft.c	/^static const guint32 T_cvt  = 0x63767420;    static const guint32 O_cvt  = 13;    \/* 'cvt_' - only used in TT->TT generation *\/$/;"	v	file:
+O_fpgm	src/ttsubset/sft.c	/^static const guint32 T_fpgm = 0x6670676D;    static const guint32 O_fpgm = 15;    \/* 'fpgm' - only used in TT->TT generation *\/$/;"	v	file:
+O_glyf	src/ttsubset/sft.c	/^static const guint32 T_glyf = 0x676C7966;    static const guint32 O_glyf = 1;     \/* 'glyf' *\/$/;"	v	file:
+O_gsub	src/ttsubset/sft.c	/^static const guint32 T_gsub = 0x47535542;    static const guint32 O_gsub = 16;    \/* 'GSUB' *\/$/;"	v	file:
+O_head	src/ttsubset/sft.c	/^static const guint32 T_head = 0x68656164;    static const guint32 O_head = 2;     \/* 'head' *\/$/;"	v	file:
+O_hhea	src/ttsubset/sft.c	/^static const guint32 T_hhea = 0x68686561;    static const guint32 O_hhea = 5;     \/* 'hhea' *\/$/;"	v	file:
+O_hmtx	src/ttsubset/sft.c	/^static const guint32 T_hmtx = 0x686D7478;    static const guint32 O_hmtx = 6;     \/* 'hmtx' *\/$/;"	v	file:
+O_kern	src/ttsubset/sft.c	/^static const guint32 T_kern = 0x6B65726E;    static const guint32 O_kern = 12;    \/* 'kern' *\/$/;"	v	file:
+O_loca	src/ttsubset/sft.c	/^static const guint32 T_loca = 0x6C6F6361;    static const guint32 O_loca = 3;     \/* 'loca' *\/$/;"	v	file:
+O_maxp	src/ttsubset/sft.c	/^static const guint32 T_maxp = 0x6D617870;    static const guint32 O_maxp = 0;     \/* 'maxp' *\/$/;"	v	file:
+O_name	src/ttsubset/sft.c	/^static const guint32 T_name = 0x6E616D65;    static const guint32 O_name = 4;     \/* 'name' *\/$/;"	v	file:
+O_post	src/ttsubset/sft.c	/^static const guint32 T_post = 0x706F7374;    static const guint32 O_post = 11;    \/* 'post' *\/$/;"	v	file:
+O_prep	src/ttsubset/sft.c	/^static const guint32 T_prep = 0x70726570;    static const guint32 O_prep = 14;    \/* 'prep' - only used in TT->TT generation *\/$/;"	v	file:
+O_vhea	src/ttsubset/sft.c	/^static const guint32 T_vhea = 0x76686561;    static const guint32 O_vhea = 8;     \/* 'vhea' *\/$/;"	v	file:
+O_vmtx	src/ttsubset/sft.c	/^static const guint32 T_vmtx = 0x766D7478;    static const guint32 O_vmtx = 9;     \/* 'vmtx' *\/$/;"	v	file:
+OpenTTFont	src/ttsubset/sft.c	/^int OpenTTFont(const char *fname, guint32 facenum, TrueTypeFont** ttf)$/;"	f
+PACKAGE	Makefile	/^PACKAGE = xournal$/;"	m
+PACKAGE	config.h	61;"	d
+PACKAGE	po/Makefile	/^PACKAGE = xournal$/;"	m
+PACKAGE	src/Makefile	/^PACKAGE = xournal$/;"	m
+PACKAGE	src/ttsubset/Makefile	/^PACKAGE = xournal$/;"	m
+PACKAGE_BUGREPORT	Makefile	/^PACKAGE_BUGREPORT = $/;"	m
+PACKAGE_BUGREPORT	config.h	64;"	d
+PACKAGE_BUGREPORT	src/Makefile	/^PACKAGE_BUGREPORT = $/;"	m
+PACKAGE_BUGREPORT	src/ttsubset/Makefile	/^PACKAGE_BUGREPORT = $/;"	m
+PACKAGE_CFLAGS	Makefile	/^PACKAGE_CFLAGS = -pthread -I\/usr\/include\/libgnomecanvas-2.0 -I\/usr\/include\/gail-1.0 -I\/usr\/include\/libart-2.0 -I\/usr\/include\/gtk-2.0 -I\/usr\/lib\/x86_64-linux-gnu\/gtk-2.0\/include -I\/usr\/include\/gio-unix-2.0 -I\/usr\/include\/cairo -I\/usr\/include\/pango-1.0 -I\/usr\/include\/atk-1.0 -I\/usr\/include\/gdk-pixbuf-2.0 -I\/usr\/include\/libmount -I\/usr\/include\/blkid -I\/usr\/include\/poppler\/glib -I\/usr\/include\/poppler -I\/usr\/include\/cairo -I\/usr\/include\/pixman-1 -I\/usr\/include\/pango-1.0 -I\/usr\/include\/harfbuzz -I\/usr\/include\/pango-1.0 -I\/usr\/include\/fribidi -I\/usr\/include\/glib-2.0 -I\/usr\/lib\/x86_64-linux-gnu\/glib-2.0\/include -I\/usr\/include\/uuid -I\/usr\/include\/freetype2 -I\/usr\/include\/libpng16$/;"	m
+PACKAGE_CFLAGS	src/Makefile	/^PACKAGE_CFLAGS = -pthread -I\/usr\/include\/libgnomecanvas-2.0 -I\/usr\/include\/gail-1.0 -I\/usr\/include\/libart-2.0 -I\/usr\/include\/gtk-2.0 -I\/usr\/lib\/x86_64-linux-gnu\/gtk-2.0\/include -I\/usr\/include\/gio-unix-2.0 -I\/usr\/include\/cairo -I\/usr\/include\/pango-1.0 -I\/usr\/include\/atk-1.0 -I\/usr\/include\/gdk-pixbuf-2.0 -I\/usr\/include\/libmount -I\/usr\/include\/blkid -I\/usr\/include\/poppler\/glib -I\/usr\/include\/poppler -I\/usr\/include\/cairo -I\/usr\/include\/pixman-1 -I\/usr\/include\/pango-1.0 -I\/usr\/include\/harfbuzz -I\/usr\/include\/pango-1.0 -I\/usr\/include\/fribidi -I\/usr\/include\/glib-2.0 -I\/usr\/lib\/x86_64-linux-gnu\/glib-2.0\/include -I\/usr\/include\/uuid -I\/usr\/include\/freetype2 -I\/usr\/include\/libpng16$/;"	m
+PACKAGE_CFLAGS	src/ttsubset/Makefile	/^PACKAGE_CFLAGS = -pthread -I\/usr\/include\/libgnomecanvas-2.0 -I\/usr\/include\/gail-1.0 -I\/usr\/include\/libart-2.0 -I\/usr\/include\/gtk-2.0 -I\/usr\/lib\/x86_64-linux-gnu\/gtk-2.0\/include -I\/usr\/include\/gio-unix-2.0 -I\/usr\/include\/cairo -I\/usr\/include\/pango-1.0 -I\/usr\/include\/atk-1.0 -I\/usr\/include\/gdk-pixbuf-2.0 -I\/usr\/include\/libmount -I\/usr\/include\/blkid -I\/usr\/include\/poppler\/glib -I\/usr\/include\/poppler -I\/usr\/include\/cairo -I\/usr\/include\/pixman-1 -I\/usr\/include\/pango-1.0 -I\/usr\/include\/harfbuzz -I\/usr\/include\/pango-1.0 -I\/usr\/include\/fribidi -I\/usr\/include\/glib-2.0 -I\/usr\/lib\/x86_64-linux-gnu\/glib-2.0\/include -I\/usr\/include\/uuid -I\/usr\/include\/freetype2 -I\/usr\/include\/libpng16$/;"	m
+PACKAGE_LIBS	Makefile	/^PACKAGE_LIBS = -lgnomecanvas-2 -lart_lgpl_2 -lgtk-x11-2.0 -lgdk-x11-2.0 -lpangocairo-1.0 -latk-1.0 -lgdk_pixbuf-2.0 -lgio-2.0 -lpoppler-glib -lcairo -lpangoft2-1.0 -lpango-1.0 -lgobject-2.0 -lglib-2.0 -lfontconfig -lfreetype$/;"	m
+PACKAGE_LIBS	src/Makefile	/^PACKAGE_LIBS = -lgnomecanvas-2 -lart_lgpl_2 -lgtk-x11-2.0 -lgdk-x11-2.0 -lpangocairo-1.0 -latk-1.0 -lgdk_pixbuf-2.0 -lgio-2.0 -lpoppler-glib -lcairo -lpangoft2-1.0 -lpango-1.0 -lgobject-2.0 -lglib-2.0 -lfontconfig -lfreetype$/;"	m
+PACKAGE_LIBS	src/ttsubset/Makefile	/^PACKAGE_LIBS = -lgnomecanvas-2 -lart_lgpl_2 -lgtk-x11-2.0 -lgdk-x11-2.0 -lpangocairo-1.0 -latk-1.0 -lgdk_pixbuf-2.0 -lgio-2.0 -lpoppler-glib -lcairo -lpangoft2-1.0 -lpango-1.0 -lgobject-2.0 -lglib-2.0 -lfontconfig -lfreetype$/;"	m
+PACKAGE_NAME	Makefile	/^PACKAGE_NAME = $/;"	m
+PACKAGE_NAME	config.h	67;"	d
+PACKAGE_NAME	src/Makefile	/^PACKAGE_NAME = $/;"	m
+PACKAGE_NAME	src/ttsubset/Makefile	/^PACKAGE_NAME = $/;"	m
+PACKAGE_STRING	Makefile	/^PACKAGE_STRING = $/;"	m
+PACKAGE_STRING	config.h	70;"	d
+PACKAGE_STRING	src/Makefile	/^PACKAGE_STRING = $/;"	m
+PACKAGE_STRING	src/ttsubset/Makefile	/^PACKAGE_STRING = $/;"	m
+PACKAGE_TARNAME	Makefile	/^PACKAGE_TARNAME = $/;"	m
+PACKAGE_TARNAME	config.h	73;"	d
+PACKAGE_TARNAME	src/Makefile	/^PACKAGE_TARNAME = $/;"	m
+PACKAGE_TARNAME	src/ttsubset/Makefile	/^PACKAGE_TARNAME = $/;"	m
+PACKAGE_URL	Makefile	/^PACKAGE_URL = $/;"	m
+PACKAGE_URL	config.h	76;"	d
+PACKAGE_URL	src/Makefile	/^PACKAGE_URL = $/;"	m
+PACKAGE_URL	src/ttsubset/Makefile	/^PACKAGE_URL = $/;"	m
+PACKAGE_VERSION	Makefile	/^PACKAGE_VERSION = $/;"	m
+PACKAGE_VERSION	config.h	79;"	d
+PACKAGE_VERSION	src/Makefile	/^PACKAGE_VERSION = $/;"	m
+PACKAGE_VERSION	src/ttsubset/Makefile	/^PACKAGE_VERSION = $/;"	m
+PANGO_ENABLE_BACKEND	src/xo-print.c	20;"	d	file:
+PATH_SEPARATOR	Makefile	/^PATH_SEPARATOR = :$/;"	m
+PATH_SEPARATOR	src/Makefile	/^PATH_SEPARATOR = :$/;"	m
+PATH_SEPARATOR	src/ttsubset/Makefile	/^PATH_SEPARATOR = :$/;"	m
+PDFTOPPM_PRINTING_DPI	src/xo-file.c	/^int PDFTOPPM_PRINTING_DPI, GS_BITMAP_DPI;$/;"	v
+PDFTYPE_ARRAY	src/xo-print.h	77;"	d
+PDFTYPE_CST	src/xo-print.h	72;"	d
+PDFTYPE_DICT	src/xo-print.h	78;"	d
+PDFTYPE_INT	src/xo-print.h	73;"	d
+PDFTYPE_NAME	src/xo-print.h	76;"	d
+PDFTYPE_REAL	src/xo-print.h	74;"	d
+PDFTYPE_REF	src/xo-print.h	80;"	d
+PDFTYPE_STREAM	src/xo-print.h	79;"	d
+PDFTYPE_STRING	src/xo-print.h	75;"	d
+PEN_CURSOR_RADIUS	src/xo-paint.c	51;"	d	file:
+PIXEL_MOTION_THRESHOLD	src/xournal.h	58;"	d
+PKG_CONFIG	Makefile	/^PKG_CONFIG = \/usr\/bin\/pkg-config$/;"	m
+PKG_CONFIG	src/Makefile	/^PKG_CONFIG = \/usr\/bin\/pkg-config$/;"	m
+PKG_CONFIG	src/ttsubset/Makefile	/^PKG_CONFIG = \/usr\/bin\/pkg-config$/;"	m
+PKG_CONFIG_LIBDIR	Makefile	/^PKG_CONFIG_LIBDIR = $/;"	m
+PKG_CONFIG_LIBDIR	src/Makefile	/^PKG_CONFIG_LIBDIR = $/;"	m
+PKG_CONFIG_LIBDIR	src/ttsubset/Makefile	/^PKG_CONFIG_LIBDIR = $/;"	m
+PKG_CONFIG_PATH	Makefile	/^PKG_CONFIG_PATH = $/;"	m
+PKG_CONFIG_PATH	src/Makefile	/^PKG_CONFIG_PATH = $/;"	m
+PKG_CONFIG_PATH	src/ttsubset/Makefile	/^PKG_CONFIG_PATH = $/;"	m
+POFILES	Makefile	/^POFILES =  ca.po cs.po de.po es.po fr.po ja.po it.po nl.po pl.po pt_BR.po zh_CN.po zh_TW.po$/;"	m
+POFILES	po/Makefile	/^POFILES =  ca.po cs.po de.po es.po fr.po ja.po it.po nl.po pl.po pt_BR.po zh_CN.po zh_TW.po$/;"	m
+POFILES	src/Makefile	/^POFILES =  ca.po cs.po de.po es.po fr.po ja.po it.po nl.po pl.po pt_BR.po zh_CN.po zh_TW.po$/;"	m
+POFILES	src/ttsubset/Makefile	/^POFILES =  ca.po cs.po de.po es.po fr.po ja.po it.po nl.po pl.po pt_BR.po zh_CN.po zh_TW.po$/;"	m
+POLYGON_LINEAR_TOLERANCE	src/xo-shapes.h	27;"	d
+POST_INSTALL	Makefile	/^POST_INSTALL = :$/;"	m
+POST_INSTALL	src/Makefile	/^POST_INSTALL = :$/;"	m
+POST_INSTALL	src/ttsubset/Makefile	/^POST_INSTALL = :$/;"	m
+POST_UNINSTALL	Makefile	/^POST_UNINSTALL = :$/;"	m
+POST_UNINSTALL	src/Makefile	/^POST_UNINSTALL = :$/;"	m
+POST_UNINSTALL	src/ttsubset/Makefile	/^POST_UNINSTALL = :$/;"	m
+POSUB	Makefile	/^POSUB = po$/;"	m
+POSUB	src/Makefile	/^POSUB = po$/;"	m
+POSUB	src/ttsubset/Makefile	/^POSUB = po$/;"	m
+POTFILES	po/Makefile	/^POTFILES = \\$/;"	m
+PO_IN_DATADIR_FALSE	Makefile	/^PO_IN_DATADIR_FALSE = $/;"	m
+PO_IN_DATADIR_FALSE	src/Makefile	/^PO_IN_DATADIR_FALSE = $/;"	m
+PO_IN_DATADIR_FALSE	src/ttsubset/Makefile	/^PO_IN_DATADIR_FALSE = $/;"	m
+PO_IN_DATADIR_TRUE	Makefile	/^PO_IN_DATADIR_TRUE = $/;"	m
+PO_IN_DATADIR_TRUE	src/Makefile	/^PO_IN_DATADIR_TRUE = $/;"	m
+PO_IN_DATADIR_TRUE	src/ttsubset/Makefile	/^PO_IN_DATADIR_TRUE = $/;"	m
+PRE_INSTALL	Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_INSTALL	src/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_INSTALL	src/ttsubset/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_UNINSTALL	Makefile	/^PRE_UNINSTALL = :$/;"	m
+PRE_UNINSTALL	src/Makefile	/^PRE_UNINSTALL = :$/;"	m
+PRE_UNINSTALL	src/ttsubset/Makefile	/^PRE_UNINSTALL = :$/;"	m
+PROGRAMS	src/Makefile	/^PROGRAMS = $(bin_PROGRAMS)$/;"	m
+PSPathElement	src/ttsubset/sft.c	/^} PSPathElement;$/;"	t	typeref:struct:__anon19	file:
+PS_CLOSEPATH	src/ttsubset/sft.c	/^    PS_CLOSEPATH = 4$/;"	e	enum:PathSegmentType	file:
+PS_CURVETO	src/ttsubset/sft.c	/^    PS_CURVETO   = 3,$/;"	e	enum:PathSegmentType	file:
+PS_LINETO	src/ttsubset/sft.c	/^    PS_LINETO    = 2,$/;"	e	enum:PathSegmentType	file:
+PS_MOVETO	src/ttsubset/sft.c	/^    PS_MOVETO    = 1,$/;"	e	enum:PathSegmentType	file:
+PS_NOOP	src/ttsubset/sft.c	/^    PS_NOOP      = 0,$/;"	e	enum:PathSegmentType	file:
+PackCmap	src/ttsubset/ttcr.c	/^static guint8 *PackCmap(CmapSubTable *s, guint32 *length)$/;"	f	file:
+PackCmapType0	src/ttsubset/ttcr.c	/^static guint8 *PackCmapType0(CmapSubTable *s, guint32 *length)$/;"	f	file:
+Page	src/xournal.h	/^typedef struct Page {$/;"	s
+Page	src/xournal.h	/^} Page;$/;"	t	typeref:struct:Page
+PathSegmentType	src/ttsubset/sft.c	/^enum PathSegmentType {$/;"	g	file:
+PdfFont	src/xo-print.h	/^typedef struct PdfFont {$/;"	s
+PdfFont	src/xo-print.h	/^} PdfFont;$/;"	t	typeref:struct:PdfFont
+PdfImage	src/xo-print.h	/^typedef struct PdfImage {$/;"	s
+PdfImage	src/xo-print.h	/^} PdfImage;$/;"	t	typeref:struct:PdfImage
+PdfInfo	src/xo-print.h	/^typedef struct PdfInfo {$/;"	s
+PdfInfo	src/xo-print.h	/^} PdfInfo;$/;"	t	typeref:struct:PdfInfo
+PdfObj	src/xo-print.h	/^typedef struct PdfObj {$/;"	s
+PdfObj	src/xo-print.h	/^} PdfObj;$/;"	t	typeref:struct:PdfObj
+PdfPageDesc	src/xo-print.h	/^typedef struct PdfPageDesc {$/;"	s
+PdfPageDesc	src/xo-print.h	/^} PdfPageDesc;$/;"	t	typeref:struct:PdfPageDesc
+ProcessTables	src/ttsubset/ttcr.c	/^static void ProcessTables(TrueTypeCreator *tt)$/;"	f	file:
+PutInt16	src/ttsubset/sft.c	/^_inline void PutInt16(gint16 val, guint8 *ptr, size_t offset, int bigendian)$/;"	f
+PutInt16	src/ttsubset/ttcr.c	/^_inline void PutInt16(gint16 val, guint8 *ptr, size_t offset, int bigendian)$/;"	f
+PutInt32	src/ttsubset/ttcr.c	/^_inline void PutInt32(gint32 val, guint8 *ptr, size_t offset, int bigendian)$/;"	f
+PutUInt16	src/ttsubset/ttcr.c	/^_inline void PutUInt16(guint16 val, guint8 *ptr, size_t offset, int bigendian)$/;"	f
+PutUInt32	src/ttsubset/ttcr.c	/^_inline void PutUInt32(guint32 val, guint8 *ptr, size_t offset, int bigendian)$/;"	f
+Q_	src/xo-support.h	18;"	d
+Q_	src/xo-support.h	31;"	d
+RANLIB	Makefile	/^RANLIB = ranlib$/;"	m
+RANLIB	src/Makefile	/^RANLIB = ranlib$/;"	m
+RANLIB	src/ttsubset/Makefile	/^RANLIB = ranlib$/;"	m
+RECTANGLE_ANGLE_TOLERANCE	src/xo-shapes.h	25;"	d
+RECTANGLE_LINEAR_TOLERANCE	src/xo-shapes.h	26;"	d
+RECURSIVE_CLEAN_TARGETS	Makefile	/^RECURSIVE_CLEAN_TARGETS = mostlyclean-recursive clean-recursive	\\$/;"	m
+RECURSIVE_CLEAN_TARGETS	src/Makefile	/^RECURSIVE_CLEAN_TARGETS = mostlyclean-recursive clean-recursive	\\$/;"	m
+RECURSIVE_TARGETS	Makefile	/^RECURSIVE_TARGETS = all-recursive check-recursive cscopelist-recursive \\$/;"	m
+RECURSIVE_TARGETS	src/Makefile	/^RECURSIVE_TARGETS = all-recursive check-recursive cscopelist-recursive \\$/;"	m
+RESIZE_MARGIN	src/xournal.h	64;"	d
+RGBA_ALPHA	src/xo-print.c	52;"	d	file:
+RGBA_BLUE	src/xo-print.c	51;"	d	file:
+RGBA_GREEN	src/xo-print.c	50;"	d	file:
+RGBA_RED	src/xo-print.c	49;"	d	file:
+RGBA_RGB	src/xo-print.c	53;"	d	file:
+ROUND_XY_TO_GRID	src/ttsubset/sft.h	/^        ROUND_XY_TO_GRID          = 1<<2,$/;"	e	enum:CompositeFlags
+RULING_BOTTOMMARGIN	src/xo-misc.h	158;"	d
+RULING_COLOR	src/xo-misc.h	153;"	d
+RULING_GRAPH	src/xournal.h	108;"	d
+RULING_GRAPHSPACING	src/xo-misc.h	159;"	d
+RULING_LEFTMARGIN	src/xo-misc.h	155;"	d
+RULING_LINED	src/xournal.h	106;"	d
+RULING_MARGIN_COLOR	src/xo-misc.h	152;"	d
+RULING_NONE	src/xournal.h	105;"	d
+RULING_RULED	src/xournal.h	107;"	d
+RULING_SPACING	src/xo-misc.h	157;"	d
+RULING_THICKNESS	src/xo-misc.h	154;"	d
+RULING_TOPMARGIN	src/xo-misc.h	156;"	d
+ReadGlyphMetrics	src/ttsubset/sft.c	/^TTFullSimpleGlyphMetrics *ReadGlyphMetrics(guint8 *hmtx, guint8 *vmtx, int hcount, int vcount, int gcount, int UPEm, guint16 *glyphArray, int nGlyphs)$/;"	f
+ReadSingleGlyphMetrics	src/ttsubset/sft.c	/^void ReadSingleGlyphMetrics(guint8 *hmtx, guint8 *vmtx, int hcount, int vcount, int gcount, int UPEm, guint16 glyphID, TTFullSimpleGlyphMetrics *metrics)$/;"	f
+RecoSegment	src/xo-shapes.c	/^typedef struct RecoSegment {$/;"	s	file:
+RecoSegment	src/xo-shapes.c	/^} RecoSegment;$/;"	t	typeref:struct:RecoSegment	file:
+Refstring	src/xournal.h	/^typedef struct Refstring {$/;"	s
+Refstring	src/xournal.h	/^} Refstring;$/;"	t	typeref:struct:Refstring
+RemoveTable	src/ttsubset/ttcr.c	/^void RemoveTable(TrueTypeCreator *_this, guint32 tag)$/;"	f
+SCALING_EPSILON	src/xo-selection.c	554;"	d	file:
+SET_MAKE	Makefile	/^SET_MAKE = $/;"	m
+SET_MAKE	src/Makefile	/^SET_MAKE = $/;"	m
+SET_MAKE	src/ttsubset/Makefile	/^SET_MAKE = $/;"	m
+SFErrCodes	src/ttsubset/sft.h	/^    enum SFErrCodes {$/;"	g
+SF_BADARG	src/ttsubset/sft.h	/^        SF_BADARG,                          \/**< incorrect arguments                          *\/$/;"	e	enum:SFErrCodes
+SF_BADFILE	src/ttsubset/sft.h	/^        SF_BADFILE,                         \/**< file not found                               *\/$/;"	e	enum:SFErrCodes
+SF_FILEIO	src/ttsubset/sft.h	/^        SF_FILEIO,                          \/**< file I\/O error                               *\/$/;"	e	enum:SFErrCodes
+SF_FONTNO	src/ttsubset/sft.h	/^        SF_FONTNO                           \/**< incorrect logical font number of a TTC font  *\/$/;"	e	enum:SFErrCodes
+SF_GLYPHNUM	src/ttsubset/sft.h	/^        SF_GLYPHNUM,                        \/**< incorrect number of glyphs                   *\/$/;"	e	enum:SFErrCodes
+SF_MEMORY	src/ttsubset/sft.h	/^        SF_MEMORY,                          \/**< memory allocation error                      *\/$/;"	e	enum:SFErrCodes
+SF_OK	src/ttsubset/sft.h	/^        SF_OK,                              \/**< no error                                     *\/$/;"	e	enum:SFErrCodes
+SF_TABLEFORMAT	src/ttsubset/sft.h	/^        SF_TABLEFORMAT,                     \/**< incorrect format of a TrueType table         *\/$/;"	e	enum:SFErrCodes
+SF_TTFORMAT	src/ttsubset/sft.h	/^        SF_TTFORMAT,                        \/**< incorrect TrueType font format               *\/$/;"	e	enum:SFErrCodes
+SHELL	Makefile	/^SHELL = \/bin\/bash$/;"	m
+SHELL	po/Makefile	/^SHELL = \/bin\/bash$/;"	m
+SHELL	src/Makefile	/^SHELL = \/bin\/bash$/;"	m
+SHELL	src/ttsubset/Makefile	/^SHELL = \/bin\/bash$/;"	m
+SLANT_TOLERANCE	src/xo-shapes.h	24;"	d
+SOURCES	Makefile	/^SOURCES =$/;"	m
+SOURCES	po/Makefile	/^SOURCES = $/;"	m
+SOURCES	src/Makefile	/^SOURCES = $(xournal_SOURCES)$/;"	m
+SOURCES	src/ttsubset/Makefile	/^SOURCES = $(libttsubset_a_SOURCES)$/;"	m
+STATUS_NOT_INIT	src/xournal.h	415;"	d
+STATUS_READY	src/xournal.h	416;"	d
+STDC_HEADERS	config.h	82;"	d
+STD_SIZE_A4	src/xo-callbacks.c	1269;"	d	file:
+STD_SIZE_A4R	src/xo-callbacks.c	1270;"	d	file:
+STD_SIZE_A5	src/xo-callbacks.c	1271;"	d	file:
+STD_SIZE_CUSTOM	src/xo-callbacks.c	1274;"	d	file:
+STD_SIZE_LETTER	src/xo-callbacks.c	1272;"	d	file:
+STD_SIZE_LETTER_R	src/xo-callbacks.c	1273;"	d	file:
+STRIP	Makefile	/^STRIP = $/;"	m
+STRIP	src/Makefile	/^STRIP = $/;"	m
+STRIP	src/ttsubset/Makefile	/^STRIP = $/;"	m
+SUBDIRS	Makefile	/^SUBDIRS = src po$/;"	m
+SUBDIRS	src/Makefile	/^SUBDIRS = ttsubset$/;"	m
+SUBDIVIDE_MAXDIST	src/xo-paint.c	197;"	d	file:
+Selection	src/xournal.h	/^typedef struct Selection {$/;"	s
+Selection	src/xournal.h	/^} Selection;$/;"	t	typeref:struct:Selection
+StreamToFile	src/ttsubset/ttcr.c	/^int StreamToFile(TrueTypeCreator *_this, const char* fname)$/;"	f
+StreamToMemory	src/ttsubset/ttcr.c	/^int StreamToMemory(TrueTypeCreator *_this, guint8 **ptr, guint32 *length)$/;"	f
+T1_SEGMENT_1_END	src/xo-print.c	927;"	d	file:
+T1_SEGMENT_3_END	src/xo-print.c	928;"	d	file:
+TABLESIZE_head	src/ttsubset/ttcr.c	437;"	d	file:
+TABLESIZE_hhea	src/ttsubset/ttcr.c	438;"	d	file:
+TABLESIZE_maxp	src/ttsubset/ttcr.c	439;"	d	file:
+TARGET_PIXBUF	src/xo-clipboard.c	35;"	d	file:
+TARGET_TEXT	src/xo-clipboard.c	34;"	d	file:
+TARGET_XOURNAL	src/xo-clipboard.c	33;"	d	file:
+THICKNESS_FINE	src/xournal.h	142;"	d
+THICKNESS_MAX	src/xournal.h	146;"	d
+THICKNESS_MEDIUM	src/xournal.h	143;"	d
+THICKNESS_THICK	src/xournal.h	144;"	d
+THICKNESS_VERYFINE	src/xournal.h	141;"	d
+THICKNESS_VERYTHICK	src/xournal.h	145;"	d
+TOOLOPT_ERASER_STANDARD	src/xournal.h	161;"	d
+TOOLOPT_ERASER_STROKES	src/xournal.h	163;"	d
+TOOLOPT_ERASER_WHITEOUT	src/xournal.h	162;"	d
+TOOL_ERASER	src/xournal.h	149;"	d
+TOOL_HAND	src/xournal.h	155;"	d
+TOOL_HIGHLIGHTER	src/xournal.h	150;"	d
+TOOL_IMAGE	src/xournal.h	156;"	d
+TOOL_PEN	src/xournal.h	148;"	d
+TOOL_SELECTRECT	src/xournal.h	153;"	d
+TOOL_SELECTREGION	src/xournal.h	152;"	d
+TOOL_TEXT	src/xournal.h	151;"	d
+TOOL_VERTSPACE	src/xournal.h	154;"	d
+TTCF_AutoName	src/ttsubset/sft.h	/^        TTCF_AutoName = 1,                  \/**< Automatically generate a compact 'name' table.$/;"	e	enum:TTCreationFlags
+TTCF_IncludeOS2	src/ttsubset/sft.h	/^        TTCF_IncludeOS2 = 2                 \/** If this flag is set OS\/2 table from the original font will be$/;"	e	enum:TTCreationFlags
+TTCRErrCodes	src/ttsubset/ttcr.h	/^enum TTCRErrCodes {                     $/;"	g
+TTCR_GLYPHSEQ	src/ttsubset/ttcr.h	/^    TTCR_GLYPHSEQ = 3,                  \/**< Glyph IDs are not sequential in the glyf table         *\/$/;"	e	enum:TTCRErrCodes
+TTCR_NAMETOOLONG	src/ttsubset/ttcr.h	/^    TTCR_NAMETOOLONG = 5,               \/**< 'name' table is too long (string data > 64K)           *\/$/;"	e	enum:TTCRErrCodes
+TTCR_NONAMES	src/ttsubset/ttcr.h	/^    TTCR_NONAMES = 4,                   \/**< 'name' table does not contain any names                *\/$/;"	e	enum:TTCRErrCodes
+TTCR_OK	src/ttsubset/ttcr.h	/^    TTCR_OK = 0,                        \/**< no error                                               *\/$/;"	e	enum:TTCRErrCodes
+TTCR_POSTFORMAT	src/ttsubset/ttcr.h	/^    TTCR_POSTFORMAT = 6                 \/**< unsupported format of a 'post' table                   *\/$/;"	e	enum:TTCRErrCodes
+TTCR_UNKNOWN	src/ttsubset/ttcr.h	/^    TTCR_UNKNOWN = 2,                   \/**< Unknown TrueType table                                 *\/$/;"	e	enum:TTCRErrCodes
+TTCR_ZEROGLYPHS	src/ttsubset/ttcr.h	/^    TTCR_ZEROGLYPHS = 1,                \/**< At least one glyph should be defined                   *\/$/;"	e	enum:TTCRErrCodes
+TTCreationFlags	src/ttsubset/sft.h	/^    enum TTCreationFlags {$/;"	g
+TTFontClassTag	src/ttsubset/sft.c	/^static const guint32 TTFontClassTag = 0x74746663;  \/* 'ttfc' *\/$/;"	v	file:
+TTFullSimpleGlyphMetrics	src/ttsubset/sft.h	/^    } TTFullSimpleGlyphMetrics;$/;"	t	typeref:struct:__anon4
+TTGlobalFontInfo	src/ttsubset/sft.h	/^    } TTGlobalFontInfo;$/;"	t	typeref:struct:__anon8
+TTGlyphMetrics	src/ttsubset/sft.h	/^     } TTGlyphMetrics;$/;"	t	typeref:struct:__anon2
+TTSimpleGlyphMetrics	src/ttsubset/sft.h	/^    } TTSimpleGlyphMetrics;$/;"	t	typeref:struct:__anon3
+T_OS2	src/ttsubset/sft.c	/^static const guint32 T_OS2  = 0x4F532F32;    static const guint32 O_OS2  = 10;    \/* 'OS\/2' *\/$/;"	v	file:
+T_OS2	src/ttsubset/ttcr.c	76;"	d	file:
+T_cmap	src/ttsubset/sft.c	/^static const guint32 T_cmap = 0x636D6170;    static const guint32 O_cmap = 7;     \/* 'cmap' *\/$/;"	v	file:
+T_cmap	src/ttsubset/ttcr.c	73;"	d	file:
+T_cvt	src/ttsubset/sft.c	/^static const guint32 T_cvt  = 0x63767420;    static const guint32 O_cvt  = 13;    \/* 'cvt_' - only used in TT->TT generation *\/$/;"	v	file:
+T_cvt	src/ttsubset/ttcr.c	79;"	d	file:
+T_fpgm	src/ttsubset/sft.c	/^static const guint32 T_fpgm = 0x6670676D;    static const guint32 O_fpgm = 15;    \/* 'fpgm' - only used in TT->TT generation *\/$/;"	v	file:
+T_glyf	src/ttsubset/sft.c	/^static const guint32 T_glyf = 0x676C7966;    static const guint32 O_glyf = 1;     \/* 'glyf' *\/$/;"	v	file:
+T_glyf	src/ttsubset/ttcr.c	67;"	d	file:
+T_gsub	src/ttsubset/sft.c	/^static const guint32 T_gsub = 0x47535542;    static const guint32 O_gsub = 16;    \/* 'GSUB' *\/$/;"	v	file:
+T_head	src/ttsubset/sft.c	/^static const guint32 T_head = 0x68656164;    static const guint32 O_head = 2;     \/* 'head' *\/$/;"	v	file:
+T_head	src/ttsubset/ttcr.c	68;"	d	file:
+T_hhea	src/ttsubset/sft.c	/^static const guint32 T_hhea = 0x68686561;    static const guint32 O_hhea = 5;     \/* 'hhea' *\/$/;"	v	file:
+T_hhea	src/ttsubset/ttcr.c	71;"	d	file:
+T_hmtx	src/ttsubset/sft.c	/^static const guint32 T_hmtx = 0x686D7478;    static const guint32 O_hmtx = 6;     \/* 'hmtx' *\/$/;"	v	file:
+T_hmtx	src/ttsubset/ttcr.c	72;"	d	file:
+T_kern	src/ttsubset/sft.c	/^static const guint32 T_kern = 0x6B65726E;    static const guint32 O_kern = 12;    \/* 'kern' *\/$/;"	v	file:
+T_kern	src/ttsubset/ttcr.c	78;"	d	file:
+T_loca	src/ttsubset/sft.c	/^static const guint32 T_loca = 0x6C6F6361;    static const guint32 O_loca = 3;     \/* 'loca' *\/$/;"	v	file:
+T_loca	src/ttsubset/ttcr.c	69;"	d	file:
+T_maxp	src/ttsubset/sft.c	/^static const guint32 T_maxp = 0x6D617870;    static const guint32 O_maxp = 0;     \/* 'maxp' *\/$/;"	v	file:
+T_maxp	src/ttsubset/ttcr.c	66;"	d	file:
+T_name	src/ttsubset/sft.c	/^static const guint32 T_name = 0x6E616D65;    static const guint32 O_name = 4;     \/* 'name' *\/$/;"	v	file:
+T_name	src/ttsubset/ttcr.c	70;"	d	file:
+T_post	src/ttsubset/sft.c	/^static const guint32 T_post = 0x706F7374;    static const guint32 O_post = 11;    \/* 'post' *\/$/;"	v	file:
+T_post	src/ttsubset/ttcr.c	77;"	d	file:
+T_prep	src/ttsubset/sft.c	/^static const guint32 T_prep = 0x70726570;    static const guint32 O_prep = 14;    \/* 'prep' - only used in TT->TT generation *\/$/;"	v	file:
+T_true	src/ttsubset/sft.c	/^static const guint32 T_true = 0x74727565;        \/* 'true' *\/$/;"	v	file:
+T_ttcf	src/ttsubset/sft.c	/^static const guint32 T_ttcf = 0x74746366;        \/* 'ttcf' *\/$/;"	v	file:
+T_vhea	src/ttsubset/sft.c	/^static const guint32 T_vhea = 0x76686561;    static const guint32 O_vhea = 8;     \/* 'vhea' *\/$/;"	v	file:
+T_vhea	src/ttsubset/ttcr.c	74;"	d	file:
+T_vmtx	src/ttsubset/sft.c	/^static const guint32 T_vmtx = 0x766D7478;    static const guint32 O_vmtx = 9;     \/* 'vmtx' *\/$/;"	v	file:
+T_vmtx	src/ttsubset/ttcr.c	75;"	d	file:
+TableEntry	src/ttsubset/ttcr.c	/^} TableEntry;$/;"	t	typeref:struct:__anon11	file:
+TableEntryCompareF	src/ttsubset/ttcr.c	/^static int TableEntryCompareF(const void *l, const void *r)$/;"	f	file:
+TrueTypeCreator	src/ttsubset/ttcr.h	/^typedef struct _TrueTypeCreator TrueTypeCreator;$/;"	t	typeref:struct:_TrueTypeCreator
+TrueTypeCreatorDispose	src/ttsubset/ttcr.c	/^void TrueTypeCreatorDispose(TrueTypeCreator *_this)$/;"	f
+TrueTypeCreatorNewEmpty	src/ttsubset/ttcr.c	/^void TrueTypeCreatorNewEmpty(guint32 tag, TrueTypeCreator **_this)$/;"	f
+TrueTypeFont	src/ttsubset/sft.h	/^    typedef struct _TrueTypeFont TrueTypeFont;$/;"	t	typeref:struct:_TrueTypeFont
+TrueTypeTable	src/ttsubset/ttcr.h	/^} TrueTypeTable;$/;"	t	typeref:struct:__anon23
+TrueTypeTableDispose	src/ttsubset/ttcr.c	/^void TrueTypeTableDispose(TrueTypeTable *_this)$/;"	f
+TrueTypeTableDispose_cmap	src/ttsubset/ttcr.c	/^static void TrueTypeTableDispose_cmap(TrueTypeTable *_this)$/;"	f	file:
+TrueTypeTableDispose_generic	src/ttsubset/ttcr.c	/^static void TrueTypeTableDispose_generic(TrueTypeTable *_this)$/;"	f	file:
+TrueTypeTableDispose_glyf	src/ttsubset/ttcr.c	/^static void TrueTypeTableDispose_glyf(TrueTypeTable *_this)$/;"	f	file:
+TrueTypeTableDispose_head	src/ttsubset/ttcr.c	/^static void TrueTypeTableDispose_head(TrueTypeTable *_this)$/;"	f	file:
+TrueTypeTableDispose_hhea	src/ttsubset/ttcr.c	/^static void TrueTypeTableDispose_hhea(TrueTypeTable *_this)$/;"	f	file:
+TrueTypeTableDispose_loca	src/ttsubset/ttcr.c	/^static void TrueTypeTableDispose_loca(TrueTypeTable *_this)$/;"	f	file:
+TrueTypeTableDispose_maxp	src/ttsubset/ttcr.c	/^static void TrueTypeTableDispose_maxp(TrueTypeTable *_this)$/;"	f	file:
+TrueTypeTableDispose_name	src/ttsubset/ttcr.c	/^static void TrueTypeTableDispose_name(TrueTypeTable *_this)$/;"	f	file:
+TrueTypeTableDispose_post	src/ttsubset/ttcr.c	/^static void TrueTypeTableDispose_post(TrueTypeTable *_this)$/;"	f	file:
+TrueTypeTableNew	src/ttsubset/ttcr.c	/^TrueTypeTable *TrueTypeTableNew(guint32 tag,$/;"	f
+TrueTypeTableNew_cmap	src/ttsubset/ttcr.c	/^TrueTypeTable *TrueTypeTableNew_cmap(void)$/;"	f
+TrueTypeTableNew_glyf	src/ttsubset/ttcr.c	/^TrueTypeTable *TrueTypeTableNew_glyf(void)$/;"	f
+TrueTypeTableNew_head	src/ttsubset/ttcr.c	/^TrueTypeTable *TrueTypeTableNew_head(guint32 fontRevision,$/;"	f
+TrueTypeTableNew_hhea	src/ttsubset/ttcr.c	/^TrueTypeTable *TrueTypeTableNew_hhea(gint16  ascender,$/;"	f
+TrueTypeTableNew_loca	src/ttsubset/ttcr.c	/^TrueTypeTable *TrueTypeTableNew_loca(void)$/;"	f
+TrueTypeTableNew_maxp	src/ttsubset/ttcr.c	/^TrueTypeTable *TrueTypeTableNew_maxp(guint8 *maxp, int size)$/;"	f
+TrueTypeTableNew_name	src/ttsubset/ttcr.c	/^TrueTypeTable *TrueTypeTableNew_name(int n, NameRecord *nr)$/;"	f
+TrueTypeTableNew_post	src/ttsubset/ttcr.c	/^TrueTypeTable *TrueTypeTableNew_post(guint32 format,$/;"	f
+UIData	src/xournal.h	/^typedef struct UIData {$/;"	s
+UIData	src/xournal.h	/^} UIData;$/;"	t	typeref:struct:UIData
+UNIT_CM	src/xournal.h	447;"	d
+UNIT_IN	src/xournal.h	448;"	d
+UNIT_PT	src/xournal.h	450;"	d
+UNIT_PX	src/xournal.h	449;"	d
+USE_MY_METRICS	src/ttsubset/sft.h	/^        USE_MY_METRICS            = 1<<9,$/;"	e	enum:CompositeFlags
+USE_NLS	Makefile	/^USE_NLS = yes$/;"	m
+USE_NLS	src/Makefile	/^USE_NLS = yes$/;"	m
+USE_NLS	src/ttsubset/Makefile	/^USE_NLS = yes$/;"	m
+UndoErasureData	src/xournal.h	/^typedef struct UndoErasureData {$/;"	s
+UndoErasureData	src/xournal.h	/^} UndoErasureData;$/;"	t	typeref:struct:UndoErasureData
+UndoItem	src/xournal.h	/^typedef struct UndoItem {$/;"	s
+UndoItem	src/xournal.h	/^} UndoItem;$/;"	t	typeref:struct:UndoItem
+UnicodeRangeName	src/ttsubset/sft.c	/^_inline const char *UnicodeRangeName(guint16 bit)$/;"	f
+VBOX_MAIN_NITEMS	src/xournal.h	68;"	d
+VERSION	Makefile	/^VERSION = 0.4.8.2016$/;"	m
+VERSION	config.h	85;"	d
+VERSION	po/Makefile	/^VERSION = 0.4.8.2016$/;"	m
+VERSION	src/Makefile	/^VERSION = 0.4.8.2016$/;"	m
+VERSION	src/ttsubset/Makefile	/^VERSION = 0.4.8.2016$/;"	m
+VERSION_STRING	src/xournal.h	51;"	d
+VERSION_STRING	src/xournal.h	53;"	d
+VIEW_CONTINUOUS_SKIP	src/xournal.h	425;"	d
+VIEW_MODE_CONTINUOUS	src/xournal.h	428;"	d
+VIEW_MODE_HORIZONTAL	src/xournal.h	429;"	d
+VIEW_MODE_ONE_PAGE	src/xournal.h	427;"	d
+WE_HAVE_AN_X_AND_Y_SCALE	src/ttsubset/sft.h	/^        WE_HAVE_AN_X_AND_Y_SCALE  = 1<<6,$/;"	e	enum:CompositeFlags
+WE_HAVE_A_SCALE	src/ttsubset/sft.h	/^        WE_HAVE_A_SCALE           = 1<<3,$/;"	e	enum:CompositeFlags
+WE_HAVE_A_TWO_BY_TWO	src/ttsubset/sft.h	/^        WE_HAVE_A_TWO_BY_TWO      = 1<<7,$/;"	e	enum:CompositeFlags
+WE_HAVE_INSTRUCTIONS	src/ttsubset/sft.h	/^        WE_HAVE_INSTRUCTIONS      = 1<<8,$/;"	e	enum:CompositeFlags
+WIDGET_RIGHT_MARGIN	src/xo-paint.c	569;"	d	file:
+WIN32	src/xournal.h	45;"	d
+WeightClass	src/ttsubset/sft.h	/^    enum WeightClass {$/;"	g
+WidthClass	src/ttsubset/sft.h	/^    enum WidthClass {$/;"	g
+XGETTEXT	Makefile	/^XGETTEXT = \/usr\/bin\/xgettext$/;"	m
+XGETTEXT	po/Makefile	/^XGETTEXT = \/usr\/bin\/xgettext$/;"	m
+XGETTEXT	src/Makefile	/^XGETTEXT = \/usr\/bin\/xgettext$/;"	m
+XGETTEXT	src/ttsubset/Makefile	/^XGETTEXT = \/usr\/bin\/xgettext$/;"	m
+XOURNAL_TARGET_ATOM	src/xo-clipboard.c	36;"	d	file:
+XUnits	src/ttsubset/sft.c	/^_inline int XUnits(int unitsPerEm, int n)$/;"	f
+XojSelectionData	src/xo-clipboard.c	/^typedef struct XojSelectionData {$/;"	s	file:
+XojSelectionData	src/xo-clipboard.c	/^} XojSelectionData;$/;"	t	typeref:struct:XojSelectionData	file:
+XrefTable	src/xo-print.h	/^typedef struct XrefTable {$/;"	s
+XrefTable	src/xo-print.h	/^} XrefTable;$/;"	t	typeref:struct:XrefTable
+_	src/xo-support.h	16;"	d
+_	src/xo-support.h	17;"	d
+_	src/xo-support.h	30;"	d
+_TrueTypeCreator	src/ttsubset/ttcr.h	/^struct _TrueTypeCreator {$/;"	s
+_TrueTypeFont	src/ttsubset/sft.h	/^struct _TrueTypeFont {$/;"	s
+__CLIST_H	src/ttsubset/list.h	48;"	d
+__SUBFONT_H	src/ttsubset/sft.h	76;"	d
+__TTCR_H	src/ttsubset/ttcr.h	49;"	d
+_inline	src/ttsubset/sft.c	212;"	d	file:
+_inline	src/ttsubset/sft.c	214;"	d	file:
+_inline	src/ttsubset/ttcr.c	91;"	d	file:
+_inline	src/ttsubset/ttcr.c	93;"	d	file:
+_list	src/ttsubset/list.c	/^struct _list {$/;"	s	file:
+_lnode	src/ttsubset/list.c	/^typedef struct _lnode {$/;"	s	file:
+_subHeader2	src/ttsubset/sft.c	/^typedef struct _subHeader2 {$/;"	s	file:
+aCount	src/ttsubset/list.c	/^    size_t aCount;$/;"	m	struct:_list	file:
+abort_stroke	src/xo-paint.c	/^void abort_stroke(void)$/;"	f
+abs_builddir	Makefile	/^abs_builddir = \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016$/;"	m
+abs_builddir	src/Makefile	/^abs_builddir = \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/src$/;"	m
+abs_builddir	src/ttsubset/Makefile	/^abs_builddir = \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/src\/ttsubset$/;"	m
+abs_srcdir	Makefile	/^abs_srcdir = \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016$/;"	m
+abs_srcdir	src/Makefile	/^abs_srcdir = \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/src$/;"	m
+abs_srcdir	src/ttsubset/Makefile	/^abs_srcdir = \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/src\/ttsubset$/;"	m
+abs_top_builddir	Makefile	/^abs_top_builddir = \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016$/;"	m
+abs_top_builddir	src/Makefile	/^abs_top_builddir = \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016$/;"	m
+abs_top_builddir	src/ttsubset/Makefile	/^abs_top_builddir = \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016$/;"	m
+abs_top_srcdir	Makefile	/^abs_top_srcdir = \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016$/;"	m
+abs_top_srcdir	src/Makefile	/^abs_top_srcdir = \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016$/;"	m
+abs_top_srcdir	src/ttsubset/Makefile	/^abs_top_srcdir = \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016$/;"	m
+ac_ct_AR	Makefile	/^ac_ct_AR = ar$/;"	m
+ac_ct_AR	src/Makefile	/^ac_ct_AR = ar$/;"	m
+ac_ct_AR	src/ttsubset/Makefile	/^ac_ct_AR = ar$/;"	m
+ac_ct_CC	Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CC	src/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CC	src/ttsubset/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_fn_c_check_func	configure	/^ac_fn_c_check_func ()$/;"	f
+ac_fn_c_check_header_compile	configure	/^ac_fn_c_check_header_compile ()$/;"	f
+ac_fn_c_check_header_mongrel	configure	/^ac_fn_c_check_header_mongrel ()$/;"	f
+ac_fn_c_try_compile	configure	/^ac_fn_c_try_compile ()$/;"	f
+ac_fn_c_try_cpp	configure	/^ac_fn_c_try_cpp ()$/;"	f
+ac_fn_c_try_link	configure	/^ac_fn_c_try_link ()$/;"	f
+ac_fn_c_try_run	configure	/^ac_fn_c_try_run ()$/;"	f
+add_bgpdf_request	src/xo-file.c	/^gboolean add_bgpdf_request(int pageno, double zoom)$/;"	f
+add_dict_subentry	src/xo-print.c	/^void add_dict_subentry(GString *pdfbuf, struct XrefTable *xref,$/;"	f
+add_pixmap_directory	src/xo-support.c	/^add_pixmap_directory                   (const gchar     *directory)$/;"	f
+add_scroll_bindings	src/xo-misc.c	/^void add_scroll_bindings(void)$/;"	f
+add_vi_scroll_bindings	src/xo-misc.c	/^void add_vi_scroll_bindings(void)$/;"	f
+adv	src/ttsubset/sft.h	/^        guint16 adv;                         \/**< advance width or height            *\/$/;"	m	struct:__anon3
+advance	src/xo-print.h	/^  int advance[256];$/;"	m	struct:PdfFont
+ah	src/ttsubset/sft.h	/^         guint16 ah;                \/*- advance height (vertical writing mode)     *\/$/;"	m	struct:__anon2
+ah	src/ttsubset/sft.h	/^        guint16 aw, ah;$/;"	m	struct:__anon4
+aix_post_process_depfile	depcomp	/^aix_post_process_depfile ()$/;"	f
+allfunc	src/ttsubset/list.c	/^void allfunc(void *e)$/;"	f
+allow_all_accels	src/xo-misc.c	/^void allow_all_accels(void)$/;"	f
+allow_xinput	src/xournal.h	/^  gboolean allow_xinput; \/\/ allow use of xinput ?$/;"	m	struct:UIData
+am__CONFIG_DISTCLEAN_FILES	Makefile	/^am__CONFIG_DISTCLEAN_FILES = config.status config.cache config.log \\$/;"	m
+am__DEPENDENCIES_1	src/Makefile	/^am__DEPENDENCIES_1 =$/;"	m
+am__DIST_COMMON	Makefile	/^am__DIST_COMMON = $(srcdir)\/Makefile.in $(srcdir)\/config.h.in AUTHORS \\$/;"	m
+am__DIST_COMMON	src/Makefile	/^am__DIST_COMMON = $(srcdir)\/Makefile.in $(top_srcdir)\/depcomp \\$/;"	m
+am__DIST_COMMON	src/ttsubset/Makefile	/^am__DIST_COMMON = $(srcdir)\/Makefile.in $(top_srcdir)\/depcomp \\$/;"	m
+am__aclocal_m4_deps	Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.in$/;"	m
+am__aclocal_m4_deps	src/Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.in$/;"	m
+am__aclocal_m4_deps	src/ttsubset/Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.in$/;"	m
+am__can_run_installinfo	Makefile	/^am__can_run_installinfo = \\$/;"	m
+am__can_run_installinfo	src/Makefile	/^am__can_run_installinfo = \\$/;"	m
+am__can_run_installinfo	src/ttsubset/Makefile	/^am__can_run_installinfo = \\$/;"	m
+am__cd	Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__cd	src/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__cd	src/ttsubset/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__configure_deps	Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__configure_deps	src/Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__configure_deps	src/ttsubset/Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__define_uniq_tagged_files	Makefile	/^am__define_uniq_tagged_files = \\$/;"	m
+am__define_uniq_tagged_files	src/Makefile	/^am__define_uniq_tagged_files = \\$/;"	m
+am__define_uniq_tagged_files	src/ttsubset/Makefile	/^am__define_uniq_tagged_files = \\$/;"	m
+am__depfiles_remade	src/Makefile	/^am__depfiles_remade = .\/$(DEPDIR)\/main.Po .\/$(DEPDIR)\/xo-callbacks.Po \\$/;"	m
+am__depfiles_remade	src/ttsubset/Makefile	/^am__depfiles_remade = .\/$(DEPDIR)\/list.Po .\/$(DEPDIR)\/sft.Po \\$/;"	m
+am__distuninstallcheck_listfiles	Makefile	/^am__distuninstallcheck_listfiles = $(distuninstallcheck_listfiles) \\$/;"	m
+am__include	Makefile	/^am__include = include$/;"	m
+am__include	src/Makefile	/^am__include = include$/;"	m
+am__include	src/ttsubset/Makefile	/^am__include = include$/;"	m
+am__installdirs	src/Makefile	/^am__installdirs = "$(DESTDIR)$(bindir)"$/;"	m
+am__is_gnu_make	Makefile	/^am__is_gnu_make = { \\$/;"	m
+am__is_gnu_make	src/Makefile	/^am__is_gnu_make = { \\$/;"	m
+am__is_gnu_make	src/ttsubset/Makefile	/^am__is_gnu_make = { \\$/;"	m
+am__leading_dot	Makefile	/^am__leading_dot = .$/;"	m
+am__leading_dot	src/Makefile	/^am__leading_dot = .$/;"	m
+am__leading_dot	src/ttsubset/Makefile	/^am__leading_dot = .$/;"	m
+am__make_dryrun	Makefile	/^am__make_dryrun = (target_option=n; $(am__make_running_with_option))$/;"	m
+am__make_dryrun	src/Makefile	/^am__make_dryrun = (target_option=n; $(am__make_running_with_option))$/;"	m
+am__make_dryrun	src/ttsubset/Makefile	/^am__make_dryrun = (target_option=n; $(am__make_running_with_option))$/;"	m
+am__make_keepgoing	Makefile	/^am__make_keepgoing = (target_option=k; $(am__make_running_with_option))$/;"	m
+am__make_keepgoing	src/Makefile	/^am__make_keepgoing = (target_option=k; $(am__make_running_with_option))$/;"	m
+am__make_keepgoing	src/ttsubset/Makefile	/^am__make_keepgoing = (target_option=k; $(am__make_running_with_option))$/;"	m
+am__make_running_with_option	Makefile	/^am__make_running_with_option = \\$/;"	m
+am__make_running_with_option	src/Makefile	/^am__make_running_with_option = \\$/;"	m
+am__make_running_with_option	src/ttsubset/Makefile	/^am__make_running_with_option = \\$/;"	m
+am__maybe_remake_depfiles	src/Makefile	/^am__maybe_remake_depfiles = depfiles$/;"	m
+am__maybe_remake_depfiles	src/ttsubset/Makefile	/^am__maybe_remake_depfiles = depfiles$/;"	m
+am__mv	src/Makefile	/^am__mv = mv -f$/;"	m
+am__mv	src/ttsubset/Makefile	/^am__mv = mv -f$/;"	m
+am__post_remove_distdir	Makefile	/^am__post_remove_distdir = $(am__remove_distdir)$/;"	m
+am__quote	Makefile	/^am__quote = $/;"	m
+am__quote	src/Makefile	/^am__quote = $/;"	m
+am__quote	src/ttsubset/Makefile	/^am__quote = $/;"	m
+am__recursive_targets	Makefile	/^am__recursive_targets = \\$/;"	m
+am__recursive_targets	src/Makefile	/^am__recursive_targets = \\$/;"	m
+am__relativize	Makefile	/^am__relativize = \\$/;"	m
+am__relativize	src/Makefile	/^am__relativize = \\$/;"	m
+am__remove_distdir	Makefile	/^am__remove_distdir = \\$/;"	m
+am__tagged_files	Makefile	/^am__tagged_files = $(HEADERS) $(SOURCES) $(TAGS_FILES) \\$/;"	m
+am__tagged_files	src/Makefile	/^am__tagged_files = $(HEADERS) $(SOURCES) $(TAGS_FILES) $(LISP)$/;"	m
+am__tagged_files	src/ttsubset/Makefile	/^am__tagged_files = $(HEADERS) $(SOURCES) $(TAGS_FILES) $(LISP)$/;"	m
+am__tar	Makefile	/^am__tar = $${TAR-tar} chof - "$$tardir"$/;"	m
+am__tar	src/Makefile	/^am__tar = $${TAR-tar} chof - "$$tardir"$/;"	m
+am__tar	src/ttsubset/Makefile	/^am__tar = $${TAR-tar} chof - "$$tardir"$/;"	m
+am__uniquify_input	Makefile	/^am__uniquify_input = $(AWK) '\\$/;"	m
+am__uniquify_input	src/Makefile	/^am__uniquify_input = $(AWK) '\\$/;"	m
+am__uniquify_input	src/ttsubset/Makefile	/^am__uniquify_input = $(AWK) '\\$/;"	m
+am__untar	Makefile	/^am__untar = $${TAR-tar} xf -$/;"	m
+am__untar	src/Makefile	/^am__untar = $${TAR-tar} xf -$/;"	m
+am__untar	src/ttsubset/Makefile	/^am__untar = $${TAR-tar} xf -$/;"	m
+am__v_AR_	src/ttsubset/Makefile	/^am__v_AR_ = $(am__v_AR_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_AR_0	src/ttsubset/Makefile	/^am__v_AR_0 = @echo "  AR      " $@;$/;"	m
+am__v_AR_1	src/ttsubset/Makefile	/^am__v_AR_1 = $/;"	m
+am__v_CCLD_	src/Makefile	/^am__v_CCLD_ = $(am__v_CCLD_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_CCLD_	src/ttsubset/Makefile	/^am__v_CCLD_ = $(am__v_CCLD_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_CCLD_0	src/Makefile	/^am__v_CCLD_0 = @echo "  CCLD    " $@;$/;"	m
+am__v_CCLD_0	src/ttsubset/Makefile	/^am__v_CCLD_0 = @echo "  CCLD    " $@;$/;"	m
+am__v_CCLD_1	src/Makefile	/^am__v_CCLD_1 = $/;"	m
+am__v_CCLD_1	src/ttsubset/Makefile	/^am__v_CCLD_1 = $/;"	m
+am__v_CC_	src/Makefile	/^am__v_CC_ = $(am__v_CC_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_CC_	src/ttsubset/Makefile	/^am__v_CC_ = $(am__v_CC_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_CC_0	src/Makefile	/^am__v_CC_0 = @echo "  CC      " $@;$/;"	m
+am__v_CC_0	src/ttsubset/Makefile	/^am__v_CC_0 = @echo "  CC      " $@;$/;"	m
+am__v_CC_1	src/Makefile	/^am__v_CC_1 = $/;"	m
+am__v_CC_1	src/ttsubset/Makefile	/^am__v_CC_1 = $/;"	m
+am__v_GEN_	Makefile	/^am__v_GEN_ = $(am__v_GEN_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_GEN_	src/Makefile	/^am__v_GEN_ = $(am__v_GEN_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_GEN_	src/ttsubset/Makefile	/^am__v_GEN_ = $(am__v_GEN_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_GEN_0	Makefile	/^am__v_GEN_0 = @echo "  GEN     " $@;$/;"	m
+am__v_GEN_0	src/Makefile	/^am__v_GEN_0 = @echo "  GEN     " $@;$/;"	m
+am__v_GEN_0	src/ttsubset/Makefile	/^am__v_GEN_0 = @echo "  GEN     " $@;$/;"	m
+am__v_GEN_1	Makefile	/^am__v_GEN_1 = $/;"	m
+am__v_GEN_1	src/Makefile	/^am__v_GEN_1 = $/;"	m
+am__v_GEN_1	src/ttsubset/Makefile	/^am__v_GEN_1 = $/;"	m
+am__v_P_	Makefile	/^am__v_P_ = $(am__v_P_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_P_	src/Makefile	/^am__v_P_ = $(am__v_P_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_P_	src/ttsubset/Makefile	/^am__v_P_ = $(am__v_P_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_P_0	Makefile	/^am__v_P_0 = false$/;"	m
+am__v_P_0	src/Makefile	/^am__v_P_0 = false$/;"	m
+am__v_P_0	src/ttsubset/Makefile	/^am__v_P_0 = false$/;"	m
+am__v_P_1	Makefile	/^am__v_P_1 = :$/;"	m
+am__v_P_1	src/Makefile	/^am__v_P_1 = :$/;"	m
+am__v_P_1	src/ttsubset/Makefile	/^am__v_P_1 = :$/;"	m
+am__v_at_	Makefile	/^am__v_at_ = $(am__v_at_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_at_	src/Makefile	/^am__v_at_ = $(am__v_at_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_at_	src/ttsubset/Makefile	/^am__v_at_ = $(am__v_at_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_at_0	Makefile	/^am__v_at_0 = @$/;"	m
+am__v_at_0	src/Makefile	/^am__v_at_0 = @$/;"	m
+am__v_at_0	src/ttsubset/Makefile	/^am__v_at_0 = @$/;"	m
+am__v_at_1	Makefile	/^am__v_at_1 = $/;"	m
+am__v_at_1	src/Makefile	/^am__v_at_1 = $/;"	m
+am__v_at_1	src/ttsubset/Makefile	/^am__v_at_1 = $/;"	m
+am_libttsubset_a_OBJECTS	src/ttsubset/Makefile	/^am_libttsubset_a_OBJECTS = sft.$(OBJEXT) list.$(OBJEXT) ttcr.$(OBJEXT)$/;"	m
+am_xournal_OBJECTS	src/Makefile	/^am_xournal_OBJECTS = main.$(OBJEXT) xo-misc.$(OBJEXT) \\$/;"	m
+anchor_x	src/xournal.h	/^  double anchor_x, anchor_y, last_x, last_y; \/\/ for selection motion$/;"	m	struct:Selection
+anchor_y	src/xournal.h	/^  double anchor_x, anchor_y, last_x, last_y; \/\/ for selection motion$/;"	m	struct:Selection
+angle	src/xo-shapes.c	/^  double xcenter, ycenter, angle, radius;$/;"	m	struct:RecoSegment	file:
+appendPrim	src/ttsubset/list.c	/^static lnode *appendPrim(list this, void *el)$/;"	f	file:
+as_fn_append	config.status	/^  as_fn_append ()$/;"	f
+as_fn_append	configure	/^  as_fn_append ()$/;"	f
+as_fn_arith	config.status	/^  as_fn_arith ()$/;"	f
+as_fn_arith	configure	/^  as_fn_arith ()$/;"	f
+as_fn_error	config.status	/^as_fn_error ()$/;"	f
+as_fn_error	configure	/^as_fn_error ()$/;"	f
+as_fn_executable_p	config.status	/^as_fn_executable_p ()$/;"	f
+as_fn_executable_p	configure	/^as_fn_executable_p ()$/;"	f
+as_fn_exit	config.status	/^as_fn_exit ()$/;"	f
+as_fn_exit	configure	/^as_fn_exit ()$/;"	f
+as_fn_failure	configure	/^as_fn_failure () { as_fn_return 1; }$/;"	f
+as_fn_mkdir_p	config.status	/^as_fn_mkdir_p ()$/;"	f
+as_fn_mkdir_p	configure	/^as_fn_mkdir_p ()$/;"	f
+as_fn_ret_failure	configure	/^as_fn_ret_failure () { return 1; }$/;"	f
+as_fn_ret_success	configure	/^as_fn_ret_success () { return 0; }$/;"	f
+as_fn_set_status	config.status	/^as_fn_set_status ()$/;"	f
+as_fn_set_status	configure	/^as_fn_set_status ()$/;"	f
+as_fn_success	configure	/^as_fn_success () { as_fn_return 0; }$/;"	f
+as_fn_unset	config.status	/^as_fn_unset ()$/;"	f
+as_fn_unset	configure	/^as_fn_unset ()$/;"	f
+ascender	src/ttsubset/sft.h	/^        int   ascender;           \/**< typographic ascent.                                     *\/$/;"	m	struct:__anon8
+ascender	src/xo-print.h	/^  int ascender, descender, xmin, xmax, ymin, ymax; \/\/ in PDF font units$/;"	m	struct:PdfFont
+attempt_load_gv_bg	src/xo-file.c	/^GList *attempt_load_gv_bg(char *filename)$/;"	f
+attempt_load_pix_bg	src/xo-file.c	/^struct Background *attempt_load_pix_bg(char *filename, gboolean attach)$/;"	f
+attempt_screenshot_bg	src/xo-file.c	/^struct Background *attempt_screenshot_bg(void)$/;"	f
+author	html-doc/manual.html	/^<a name="author"><\/a>$/;"	a
+auto_save_prefs	src/xournal.h	/^  gboolean auto_save_prefs; \/\/ auto-save preferences ?$/;"	m	struct:UIData
+autocreate_new_xoj	src/xournal.h	/^  gboolean autocreate_new_xoj;$/;"	m	struct:UIData
+autoload_pdf_xoj	src/xournal.h	/^  gboolean autoload_pdf_xoj;$/;"	m	struct:UIData
+autosave_cb	src/xo-file.c	/^gboolean autosave_cb(gpointer is_catchup)$/;"	f
+autosave_cleanup	src/xo-file.c	/^void autosave_cleanup(GList **list)$/;"	f
+autosave_delay	src/xournal.h	/^  int autosave_delay;$/;"	m	struct:UIData
+autosave_enabled	src/xournal.h	/^  gboolean autosave_enabled, autosave_loop_running, autosave_need_catchup;$/;"	m	struct:UIData
+autosave_filename_list	src/xournal.h	/^  GList *autosave_filename_list;$/;"	m	struct:UIData
+autosave_loop_running	src/xournal.h	/^  gboolean autosave_enabled, autosave_loop_running, autosave_need_catchup;$/;"	m	struct:UIData
+autosave_need_catchup	src/xournal.h	/^  gboolean autosave_enabled, autosave_loop_running, autosave_need_catchup;$/;"	m	struct:UIData
+aux	src/xournal.h	/^  gpointer aux;$/;"	m	struct:Refstring
+auxlist	src/xournal.h	/^  GList *auxlist;   \/\/ for ITEM_REPAINTSEL (brushes), ITEM_MOVESEL (depths)$/;"	m	struct:UndoItem
+aw	src/ttsubset/sft.h	/^         guint16 aw;                \/*- Advance Width (horisontal writing mode)    *\/$/;"	m	struct:__anon2
+aw	src/ttsubset/sft.h	/^        guint16 aw, ah;$/;"	m	struct:__anon4
+aw	src/ttsubset/sft.h	/^        guint16 aw;                          \/**< advance width                      *\/$/;"	m	struct:__anon5
+aw	src/ttsubset/ttcr.h	/^    guint16 aw;$/;"	m	struct:__anon22
+bbox	src/xournal.h	/^  BBox bbox; \/\/ the rectangle bbox of the selection$/;"	m	struct:Selection
+bbox	src/xournal.h	/^  struct BBox bbox;$/;"	m	struct:Item	typeref:struct:Item::BBox
+bg	src/xournal.h	/^  struct Background *bg;  \/\/ for ITEM_NEW_BG_ONE\/RESIZE, ITEM_NEW_DEFAULT_BG$/;"	m	struct:UndoItem	typeref:struct:UndoItem::Background
+bg	src/xournal.h	/^  struct Background *bg;$/;"	m	struct:Page	typeref:struct:Page::Background
+bg_apply_all_pages	src/xournal.h	/^  gboolean bg_apply_all_pages;$/;"	m	struct:UIData
+bgcolor_names	src/xo-file.c	/^const char *bgcolor_names[COLOR_MAX] = {"", "blue", "pink", "green",$/;"	v
+bgpdf	src/main.c	/^struct BgPdf bgpdf;  \/\/ the PDF loader stuff$/;"	v	typeref:struct:BgPdf
+bgpdf_scheduler_callback	src/xo-file.c	/^gboolean bgpdf_scheduler_callback(gpointer data)$/;"	f
+bgpdf_update_bg	src/xo-file.c	/^void bgpdf_update_bg(int pageno, struct BgPdfPage *bgpg)$/;"	f
+bgstyle_names	src/xo-file.c	/^const char *bgstyle_names[4] = {"plain", "lined", "ruled", "graph"};$/;"	v
+bgtype_names	src/xo-file.c	/^const char *bgtype_names[3] = {"solid", "pixmap", "pdf"};$/;"	v
+bin_PROGRAMS	src/Makefile	/^bin_PROGRAMS = xournal$(EXEEXT)$/;"	m
+bindir	Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bindir	src/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bindir	src/ttsubset/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bindtextdomain	src/xo-support.h	29;"	d
+bottom	src/xournal.h	/^  double left, right, top, bottom;$/;"	m	struct:BBox
+brush	src/xournal.h	/^  struct Brush *brush; \/\/ for ITEM_TEXT_ATTRIB$/;"	m	struct:UndoItem	typeref:struct:UndoItem::Brush
+brush	src/xournal.h	/^  struct Brush brush; \/\/ the brush to use, if ITEM_STROKE$/;"	m	struct:Item	typeref:struct:Item::Brush
+brushes	src/xournal.h	/^  struct Brush brushes[NUM_BUTTONS+1][NUM_STROKE_TOOLS]; \/\/ the current pen, eraser, hiliter$/;"	m	struct:UIData	typeref:struct:UIData::Brush
+buffer	src/ttsubset/sft.c	/^    char buffer[HFORMAT_LINELEN];$/;"	m	struct:__anon20	file:
+bufpos	src/ttsubset/sft.c	/^    int bufpos;$/;"	m	struct:__anon20	file:
+build	Makefile	/^build = x86_64-pc-linux-gnu$/;"	m
+build	src/Makefile	/^build = x86_64-pc-linux-gnu$/;"	m
+build	src/ttsubset/Makefile	/^build = x86_64-pc-linux-gnu$/;"	m
+build_alias	Makefile	/^build_alias = $/;"	m
+build_alias	src/Makefile	/^build_alias = $/;"	m
+build_alias	src/ttsubset/Makefile	/^build_alias = $/;"	m
+build_cpu	Makefile	/^build_cpu = x86_64$/;"	m
+build_cpu	src/Makefile	/^build_cpu = x86_64$/;"	m
+build_cpu	src/ttsubset/Makefile	/^build_cpu = x86_64$/;"	m
+build_os	Makefile	/^build_os = linux-gnu$/;"	m
+build_os	src/Makefile	/^build_os = linux-gnu$/;"	m
+build_os	src/ttsubset/Makefile	/^build_os = linux-gnu$/;"	m
+build_triplet	Makefile	/^build_triplet = x86_64-pc-linux-gnu$/;"	m
+build_triplet	src/Makefile	/^build_triplet = x86_64-pc-linux-gnu$/;"	m
+build_triplet	src/ttsubset/Makefile	/^build_triplet = x86_64-pc-linux-gnu$/;"	m
+build_vendor	Makefile	/^build_vendor = pc$/;"	m
+build_vendor	src/Makefile	/^build_vendor = pc$/;"	m
+build_vendor	src/ttsubset/Makefile	/^build_vendor = pc$/;"	m
+builddir	Makefile	/^builddir = .$/;"	m
+builddir	src/Makefile	/^builddir = .$/;"	m
+builddir	src/ttsubset/Makefile	/^builddir = .$/;"	m
+button_switch_mapping	src/xournal.h	/^  gboolean button_switch_mapping; \/\/ button clicks switch button 1 mappings$/;"	m	struct:UIData
+calc_edge_isect	src/xo-shapes.c	/^void calc_edge_isect(struct RecoSegment *r1, struct RecoSegment *r2, double *pt)$/;"	f
+calc_inertia	src/xo-shapes.c	/^void calc_inertia(double *pt, int start, int end, struct Inertia *s)$/;"	f
+calibration	html-doc/manual.html	/^<a name="calibration"><\/a>$/;"	a
+callback_clipboard_clear	src/xo-clipboard.c	/^void callback_clipboard_clear(GtkClipboard *clipboard, gpointer user_data)$/;"	f
+callback_clipboard_get	src/xo-clipboard.c	/^void callback_clipboard_get(GtkClipboard *clipboard,$/;"	f
+can_accel	src/xo-misc.c	/^gboolean can_accel(GtkWidget *widget, guint id, gpointer data)$/;"	f
+can_accel_except_text	src/xo-misc.c	/^gboolean can_accel_except_text(GtkWidget *widget, guint id, gpointer data)$/;"	f
+cancel_bgpdf_request	src/xo-file.c	/^void cancel_bgpdf_request(struct BgPdfRequest *req)$/;"	f
+candidate_save_filename	src/xo-misc.c	/^gchar *candidate_save_filename(void)$/;"	f
+canvas	src/main.c	/^GnomeCanvas *canvas;$/;"	v
+canvas_item	src/xournal.h	/^  GnomeCanvasItem *canvas_item; \/\/ if the selection box is on screen $/;"	m	struct:Selection
+canvas_item	src/xournal.h	/^  GnomeCanvasItem *canvas_item; \/\/ the corresponding canvas item, or NULL$/;"	m	struct:Item
+canvas_item	src/xournal.h	/^  GnomeCanvasItem *canvas_item;$/;"	m	struct:Background
+center_x	src/xo-shapes.c	/^inline double center_x(struct Inertia s) $/;"	f
+center_y	src/xo-shapes.c	/^inline double center_y(struct Inertia s) $/;"	f
+changelog	html-doc/manual.html	/^<a name="changelog"><\/a>$/;"	a
+check_for_autosave	src/xo-file.c	/^char *check_for_autosave(char *filename)$/;"	f
+chk_attach_names	src/xo-file.c	/^void chk_attach_names(void)$/;"	f
+cleanup_numeric	src/xo-file.c	/^void cleanup_numeric(char *s)$/;"	f
+clear_redo_stack	src/xo-misc.c	/^void clear_redo_stack(void)$/;"	f
+clear_undo_stack	src/xo-misc.c	/^void clear_undo_stack(void)$/;"	f
+click_is_in_text	src/xo-paint.c	/^struct Item *click_is_in_text(struct Layer *layer, double x, double y)$/;"	f
+click_is_in_text_or_image	src/xo-paint.c	/^struct Item *click_is_in_text_or_image(struct Layer *layer, double x, double y)$/;"	f
+clipboard_paste	src/xo-clipboard.c	/^void clipboard_paste(void)$/;"	f
+clipboard_paste_from_xournal	src/xo-clipboard.c	/^void clipboard_paste_from_xournal(GtkSelectionData *sel_data)$/;"	f
+clipboard_paste_image	src/xo-clipboard.c	/^void clipboard_paste_image(GdkPixbuf *pixbuf)$/;"	f
+clipboard_paste_text	src/xo-clipboard.c	/^void clipboard_paste_text(gchar *text)$/;"	f
+close_journal	src/xo-file.c	/^gboolean close_journal(void)$/;"	f
+cmap	src/ttsubset/sft.h	/^    guint8   *cmap;$/;"	m	struct:_TrueTypeFont
+cmapAdd	src/ttsubset/ttcr.c	/^void cmapAdd(TrueTypeTable *table, guint32 id, guint32 c, guint32 g)$/;"	f
+cmapType	src/ttsubset/sft.c	/^enum cmapType {$/;"	g	file:
+cmapType	src/ttsubset/sft.h	/^    int    cmapType;$/;"	m	struct:_TrueTypeFont
+color_names	src/xo-file.c	/^const char *color_names[COLOR_MAX] = {"black", "blue", "red", "green",$/;"	v
+color_no	src/xournal.h	/^  int color_no;$/;"	m	struct:Background
+color_no	src/xournal.h	/^  int color_no;$/;"	m	struct:Brush
+color_rgba	src/xournal.h	/^  guint color_rgba;$/;"	m	struct:Background
+color_rgba	src/xournal.h	/^  guint color_rgba;$/;"	m	struct:Brush
+compflag	src/ttsubset/sft.h	/^        guint16 compflag;                    \/**< 0- if non-composite, 1- otherwise  *\/$/;"	m	struct:__anon5
+config_data	src/xournal.h	/^  GKeyFile *config_data;$/;"	m	struct:UIData
+configfile	src/xournal.h	/^  char *mrufile, *configfile; \/\/ file names for MRU & config$/;"	m	struct:UIData
+configuration	html-doc/manual.html	/^<a name="configuration"><\/a>$/;"	a
+contents	src/xo-print.h	/^  struct PdfObj *resources, *mediabox, *contents;$/;"	m	struct:PdfPageDesc	typeref:struct:PdfPageDesc::
+continue_movesel	src/xo-selection.c	/^void continue_movesel(GdkEvent *event)$/;"	f
+continue_resizesel	src/xo-selection.c	/^void continue_resizesel(GdkEvent *event)$/;"	f
+continue_selectregion	src/xo-selection.c	/^void continue_selectregion(GdkEvent *event)$/;"	f
+continue_stroke	src/xo-paint.c	/^void continue_stroke(GdkEvent *event)$/;"	f
+cptr	src/ttsubset/list.c	/^    lnode *head, *tail, *cptr;$/;"	m	struct:_list	file:
+create_aboutDialog	src/xo-interface.c	/^create_aboutDialog (void)$/;"	f
+create_image_from_pixbuf	src/xo-image.c	/^void create_image_from_pixbuf(GdkPixbuf *pixbuf, double *pt)$/;"	f
+create_new_stroke	src/xo-paint.c	/^void create_new_stroke(GdkEvent *event)$/;"	f
+create_papersizeDialog	src/xo-interface.c	/^create_papersizeDialog (void)$/;"	f
+create_pixbuf	src/xo-support.c	/^create_pixbuf                          (const gchar     *filename)$/;"	f
+create_pixmap	src/xo-support.c	/^create_pixmap                          (GtkWidget       *widget,$/;"	f
+create_winMain	src/xo-interface.c	/^create_winMain (void)$/;"	f
+create_zoomDialog	src/xo-interface.c	/^create_zoomDialog (void)$/;"	f
+cur_brush	src/xournal.h	/^  struct Brush *cur_brush;  \/\/ the brush in use (one of brushes[...])$/;"	m	struct:UIData	typeref:struct:UIData::Brush
+cur_item	src/xournal.h	/^  struct Item *cur_item; \/\/ the item being drawn, or NULL$/;"	m	struct:UIData	typeref:struct:UIData::Item
+cur_item_type	src/xournal.h	/^  int cur_item_type;$/;"	m	struct:UIData
+cur_layer	src/xournal.h	/^  struct Layer *cur_layer;$/;"	m	struct:UIData	typeref:struct:UIData::Layer
+cur_mapping	src/xournal.h	/^  int cur_mapping; \/\/ the current button number for mappings$/;"	m	struct:UIData
+cur_page	src/xournal.h	/^  struct Page *cur_page;$/;"	m	struct:UIData	typeref:struct:UIData::Page
+cur_path	src/xournal.h	/^  GnomeCanvasPoints cur_path; \/\/ the path being drawn$/;"	m	struct:UIData
+cur_path_storage_alloc	src/xournal.h	/^  int cur_path_storage_alloc;$/;"	m	struct:UIData
+cur_widths	src/xournal.h	/^  gdouble *cur_widths; \/\/ width array for the path being drawn$/;"	m	struct:UIData
+cur_widths_storage_alloc	src/xournal.h	/^  int cur_widths_storage_alloc;$/;"	m	struct:UIData
+current_ignore_btn_reported_up	src/xournal.h	/^  gboolean current_ignore_btn_reported_up;$/;"	m	struct:UIData
+cursor	src/xournal.h	/^  GdkCursor *cursor;$/;"	m	struct:UIData
+d	src/ttsubset/sft.h	/^        guint16 d;$/;"	m	struct:__anon1
+data	src/ttsubset/ttcr.c	/^    guint8  *data;$/;"	m	struct:__anon11	file:
+data	src/ttsubset/ttcr.h	/^    void   *data;                       \/* table specific data                                      *\/$/;"	m	struct:__anon23
+data	src/xo-print.h	/^  int *data;$/;"	m	struct:XrefTable
+datadir	Makefile	/^datadir = ${datarootdir}$/;"	m
+datadir	po/Makefile	/^datadir = ${datarootdir}$/;"	m
+datadir	src/Makefile	/^datadir = ${datarootdir}$/;"	m
+datadir	src/ttsubset/Makefile	/^datadir = ${datarootdir}$/;"	m
+datarootdir	Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+datarootdir	po/Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+datarootdir	src/Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+datarootdir	src/ttsubset/Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+dcgettext	src/xo-support.h	28;"	d
+default_brushes	src/xournal.h	/^  struct Brush default_brushes[NUM_STROKE_TOOLS]; \/\/ the default ones$/;"	m	struct:UIData	typeref:struct:UIData::Brush
+default_font_name	src/xournal.h	/^  gchar *default_font_name, *font_name;$/;"	m	struct:UIData
+default_font_size	src/xournal.h	/^  gdouble default_font_size, font_size;$/;"	m	struct:UIData
+default_image	src/xournal.h	/^  gchar *default_image; \/\/ path for previous image$/;"	m	struct:UIData
+default_page	src/xournal.h	/^  struct Page default_page;  \/\/ the model for the default page$/;"	m	struct:UIData	typeref:struct:UIData::Page
+default_path	src/xournal.h	/^  gchar *default_path; \/\/ default path for new notes$/;"	m	struct:UIData
+default_unit	src/xournal.h	/^  int default_unit; \/\/ the default unit for paper sizes$/;"	m	struct:UIData
+delete_autosave	src/xo-file.c	/^void delete_autosave(char *filename)$/;"	f
+delete_journal	src/xo-misc.c	/^void delete_journal(struct Journal *j)$/;"	f
+delete_layer	src/xo-misc.c	/^void delete_layer(struct Layer *l)$/;"	f
+delete_mru_entry	src/xo-file.c	/^void delete_mru_entry(int which)$/;"	f
+delete_page	src/xo-misc.c	/^void delete_page(struct Page *pg)$/;"	f
+depcomp	src/Makefile	/^depcomp = $(SHELL) $(top_srcdir)\/depcomp$/;"	m
+depcomp	src/ttsubset/Makefile	/^depcomp = $(SHELL) $(top_srcdir)\/depcomp$/;"	m
+descender	src/ttsubset/sft.h	/^        int   descender;          \/**< typographic descent.                                    *\/$/;"	m	struct:__anon8
+descender	src/xo-print.h	/^  int ascender, descender, xmin, xmax, ymin, ymax; \/\/ in PDF font units$/;"	m	struct:PdfFont
+device_for_touch	src/xournal.h	/^  char *device_for_touch;$/;"	m	struct:UIData
+dgettext	src/xo-support.h	27;"	d
+discard_corepointer	src/xournal.h	/^  gboolean discard_corepointer; \/\/ discard core pointer events in XInput mode$/;"	m	struct:UIData
+distcleancheck_listfiles	Makefile	/^distcleancheck_listfiles = find . -type f -print$/;"	m
+distdir	Makefile	/^distdir = $(PACKAGE)-$(VERSION)$/;"	m
+distdir	po/Makefile	/^distdir = ..\/$(GETTEXT_PACKAGE)-$(VERSION)\/$(subdir)$/;"	m
+distuninstallcheck_listfiles	Makefile	/^distuninstallcheck_listfiles = find . -type f -print$/;"	m
+do_deflate	src/xo-print.c	/^GString *do_deflate(char *in, int len)$/;"	f
+do_eraser	src/xo-paint.c	/^void do_eraser(GdkEvent *event, double radius, gboolean whole_strokes)$/;"	f
+do_fullscreen	src/xo-misc.c	/^void do_fullscreen(gboolean active)$/;"	f
+do_hand	src/xo-paint.c	/^void do_hand(GdkEvent *event)$/;"	f
+do_hand_scrollto	src/xo-paint.c	/^gboolean do_hand_scrollto(gpointer data)$/;"	f
+do_switch_page	src/xo-misc.c	/^void do_switch_page(int pg, gboolean rescroll, gboolean refresh_all)$/;"	f
+do_switch_page_and_scroll	src/xo-misc.c	/^void do_switch_page_and_scroll(int pg, gboolean rescroll, gboolean refresh_all, gdouble scroll_pagefraction)$/;"	f
+do_view_modeswitch	src/xo-callbacks.c	/^void do_view_modeswitch(int view_mode)$/;"	f
+docdir	Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE}$/;"	m
+docdir	src/Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE}$/;"	m
+docdir	src/ttsubset/Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE}$/;"	m
+document	src/xournal.h	/^  PopplerDocument *document; \/\/ the poppler document$/;"	m	struct:BgPdf
+dpi	src/xournal.h	/^  double dpi;$/;"	m	struct:BgPdfPage
+dpi	src/xournal.h	/^  double dpi;$/;"	m	struct:BgPdfRequest
+dup_pdfobj	src/xo-print.c	/^struct PdfObj *dup_pdfobj(struct PdfObj *obj)$/;"	f
+dvidir	Makefile	/^dvidir = ${docdir}$/;"	m
+dvidir	src/Makefile	/^dvidir = ${docdir}$/;"	m
+dvidir	src/ttsubset/Makefile	/^dvidir = ${docdir}$/;"	m
+eDtor	src/ttsubset/list.c	/^    void (*eDtor)(void *);$/;"	m	struct:_list	file:
+edtor	src/ttsubset/list.c	/^void edtor(void *ptr)$/;"	f
+elts	src/xo-print.h	/^  struct PdfObj **elts;$/;"	m	struct:PdfObj	typeref:struct:PdfObj::PdfObj
+embed_pdffont	src/xo-print.c	/^void embed_pdffont(GString *pdfbuf, struct XrefTable *xref, struct PdfFont *font)$/;"	f
+emergency_enable_xinput	src/xo-misc.c	/^void emergency_enable_xinput(GdkInputMode mode)$/;"	f
+encodingID	src/ttsubset/sft.h	/^        guint16 encodingID;                  \/**< Platform-specific encoding ID                          *\/$/;"	m	struct:__anon7
+end_text	src/xo-paint.c	/^void end_text(void)$/;"	f
+endpt	src/xo-shapes.c	/^  int startpt, endpt;$/;"	m	struct:RecoSegment	file:
+entryCount	src/ttsubset/sft.c	/^    guint16 entryCount;$/;"	m	struct:_subHeader2	file:
+erase_stroke_portions	src/xo-paint.c	/^void erase_stroke_portions(struct Item *item, double x, double y, double radius,$/;"	f
+erasure	src/xournal.h	/^  struct UndoErasureData *erasure; \/\/ for temporary use during erasures$/;"	m	struct:Item	typeref:struct:Item::UndoErasureData
+erasurelist	src/xournal.h	/^  GList *erasurelist; \/\/ for ITEM_ERASURE, ITEM_RECOGNIZER$/;"	m	struct:UndoItem
+exec_prefix	Makefile	/^exec_prefix = ${prefix}$/;"	m
+exec_prefix	po/Makefile	/^exec_prefix = ${prefix}$/;"	m
+exec_prefix	src/Makefile	/^exec_prefix = ${prefix}$/;"	m
+exec_prefix	src/ttsubset/Makefile	/^exec_prefix = ${prefix}$/;"	m
+exportpdf_layers	src/xournal.h	/^  gboolean exportpdf_layers; \/\/ export PDF one layer at a time$/;"	m	struct:UIData
+exportpdf_prefer_legacy	src/xournal.h	/^  gboolean exportpdf_prefer_legacy; \/\/ prefer legacy code for export-to-pdf?$/;"	m	struct:UIData
+f	src/ttsubset/ttcr.c	/^    int (*f)(TrueTypeTable *, guint8 **, guint32 *, guint32 *);$/;"	m	struct:__anon18	file:
+f	src/ttsubset/ttcr.c	/^    void (*f)(TrueTypeTable *);$/;"	m	struct:__anon17	file:
+false	src/ttsubset/sft.h	147;"	d
+family	src/ttsubset/sft.h	/^        char *family;             \/**< family name                                             *\/$/;"	m	struct:__anon8
+family	src/ttsubset/sft.h	/^    char   *family;$/;"	m	struct:_TrueTypeFont
+file-format	html-doc/manual.html	/^<a name="file-format"><\/a>$/;"	a
+file_contents	src/xournal.h	/^  gchar *file_contents; \/\/ buffer containing a copy of file data$/;"	m	struct:BgPdf
+file_domain	src/xournal.h	/^  int file_domain;$/;"	m	struct:Background
+file_domain	src/xournal.h	/^  int file_domain;$/;"	m	struct:BgPdf
+file_domain_names	src/xo-file.c	/^const char *file_domain_names[3] = {"absolute", "attach", "clone"};$/;"	v
+file_length	src/xournal.h	/^  gsize file_length;  \/\/ size of above buffer$/;"	m	struct:BgPdf
+file_page_seq	src/xournal.h	/^  int file_page_seq;$/;"	m	struct:Background
+filename	src/xo-print.h	/^  char *filename;$/;"	m	struct:PdfFont
+filename	src/xournal.h	/^  Refstring *filename;$/;"	m	struct:Background
+filename	src/xournal.h	/^  Refstring *filename;$/;"	m	struct:BgPdf
+filename	src/xournal.h	/^  char *filename;$/;"	m	struct:UIData
+filter_extended_events	src/xo-misc.c	/^gboolean filter_extended_events (GtkWidget *widget, GdkEvent *event,$/;"	f
+finalize_erasure	src/xo-paint.c	/^void finalize_erasure(void)$/;"	f
+finalize_movesel	src/xo-selection.c	/^void finalize_movesel(void)$/;"	f
+finalize_resizesel	src/xo-selection.c	/^void finalize_resizesel(void)$/;"	f
+finalize_selectrect	src/xo-selection.c	/^void finalize_selectrect(void)$/;"	f
+finalize_selectregion	src/xo-selection.c	/^void finalize_selectregion(void)$/;"	f
+finalize_stroke	src/xo-paint.c	/^void finalize_stroke(void)$/;"	f
+find_pixmap_file	src/xo-support.c	/^find_pixmap_file                       (const gchar     *filename)$/;"	f	file:
+find_polygonal	src/xo-shapes.c	/^int find_polygonal(double *pt, int start, int end, int nsides, int *breaks, struct Inertia *ss)$/;"	f
+findname	src/ttsubset/sft.c	/^static int findname(guint8 *name, guint16 n, guint16 platformID, guint16 encodingID, guint16 languageID, guint16 nameID)$/;"	f	file:
+finite_sized	src/xo-misc.c	/^int finite_sized(double x) \/\/ detect unrealistic coordinate values$/;"	f
+firstCode	src/ttsubset/sft.c	/^    guint16 firstCode;$/;"	m	struct:_subHeader2	file:
+fix_xinput_coords	src/xo-misc.c	/^void fix_xinput_coords(GdkEvent *event)$/;"	f
+fixedDiv	src/ttsubset/sft.c	/^_inline F16Dot16 fixedDiv(F16Dot16 a, F16Dot16 b)$/;"	f
+fixedMul	src/ttsubset/sft.c	/^_inline F16Dot16 fixedMul(F16Dot16 a, F16Dot16 b)$/;"	f
+fixedMulDiv	src/ttsubset/sft.c	/^_inline F16Dot16 fixedMulDiv(F16Dot16 a, F16Dot16 b, F16Dot16 c)$/;"	f
+flags	src/ttsubset/sft.h	/^        guint32 flags;             \/**< 00000000 00000000 e0000000 bbbbbbbb *\/$/;"	m	struct:__anon10
+flags	src/xo-print.h	/^  int flags;$/;"	m	struct:PdfFont
+fname	src/ttsubset/sft.h	/^    char   *fname;$/;"	m	struct:_TrueTypeFont
+font_id	src/xo-print.h	/^  int font_id;$/;"	m	struct:PdfFont
+font_name	src/xournal.h	/^  gchar *default_font_name, *font_name;$/;"	m	struct:UIData
+font_name	src/xournal.h	/^  gchar *font_name;$/;"	m	struct:Item
+font_size	src/xournal.h	/^  gdouble default_font_size, font_size;$/;"	m	struct:UIData
+font_size	src/xournal.h	/^  gdouble font_size;$/;"	m	struct:Item
+fontname	src/xo-print.h	/^  gchar *fontname;$/;"	m	struct:PdfFont
+format	src/ttsubset/ttcr.c	/^    guint32 format;$/;"	m	struct:__anon16	file:
+free_pdfobj	src/xo-print.c	/^void free_pdfobj(struct PdfObj *obj)$/;"	f
+fsSelection	src/ttsubset/sft.h	/^        guint16 fsSelection;       \/**< fsSelection field of OS\/2 table                         *\/$/;"	m	struct:__anon8
+fsize	src/ttsubset/sft.h	/^    off_t  fsize;$/;"	m	struct:_TrueTypeFont
+ft2ps	src/xo-print.h	/^  gdouble ft2ps;$/;"	m	struct:PdfFont
+fullscreen	src/xournal.h	/^  gboolean fullscreen, maximize_at_start;$/;"	m	struct:UIData
+func_at_file	ar-lib	/^func_at_file ()$/;"	f
+func_cl_dashL	compile	/^func_cl_dashL ()$/;"	f
+func_cl_dashl	compile	/^func_cl_dashl ()$/;"	f
+func_cl_wrapper	compile	/^func_cl_wrapper ()$/;"	f
+func_error	ar-lib	/^func_error ()$/;"	f
+func_file_conv	ar-lib	/^func_file_conv ()$/;"	f
+func_file_conv	compile	/^func_file_conv ()$/;"	f
+g_timeout_add_seconds	src/xo-file.c	325;"	d	file:
+gdkcolor_to_rgba	src/xo-misc.c	/^guint32 gdkcolor_to_rgba(GdkColor gdkcolor, guint16 alpha) $/;"	f
+getGlyph0	src/ttsubset/sft.c	/^static guint16 getGlyph0(const guint8* cmap, guint16 c) {$/;"	f	file:
+getGlyph2	src/ttsubset/sft.c	/^static guint16 getGlyph2(const guint8 *cmap, guint16 c) {$/;"	f	file:
+getGlyph4	src/ttsubset/sft.c	/^static guint16 getGlyph4(const guint8 *cmap, guint16 c) {$/;"	f	file:
+getGlyph6	src/ttsubset/sft.c	/^static guint16 getGlyph6(const guint8 *cmap, guint16 c) {$/;"	f	file:
+getTable	src/ttsubset/sft.c	/^_inline guint8 *getTable(TrueTypeFont *ttf, guint32 ord)$/;"	f
+getTableSize	src/ttsubset/sft.c	/^_inline guint32 getTableSize(TrueTypeFont *ttf, guint32 ord)$/;"	f
+get_current_pointer_coords	src/xo-misc.c	/^void get_current_pointer_coords(gdouble *ret)$/;"	f
+get_dict_entry	src/xo-print.c	/^struct PdfObj *get_dict_entry(struct PdfObj *dict, char *name)$/;"	f
+get_pdfobj	src/xo-print.c	/^struct PdfObj *get_pdfobj(GString *pdfbuf, struct XrefTable *xref, struct PdfObj *obj)$/;"	f
+get_pointer_coords	src/xo-misc.c	/^void get_pointer_coords(GdkEvent *event, gdouble *ret)$/;"	f
+get_pressure_multiplier	src/xo-misc.c	/^double get_pressure_multiplier(GdkEvent *event)$/;"	f
+get_segment_geometry	src/xo-shapes.c	/^void get_segment_geometry(double *pt, int start, int end, struct Inertia *s, struct RecoSegment *r)$/;"	f
+gettext	src/xo-support.h	26;"	d
+gettextsrcdir	po/Makefile	/^gettextsrcdir = $(datadir)\/glib-2.0\/gettext\/po$/;"	m
+getting-started	html-doc/manual.html	/^<a name="getting-started"><\/a>$/;"	a
+give_advice	missing	/^give_advice ()$/;"	f
+glade_set_atk_action_description	src/xo-support.c	/^glade_set_atk_action_description       (AtkAction       *action,$/;"	f
+glyfAdd	src/ttsubset/ttcr.c	/^guint32 glyfAdd(TrueTypeTable *table, GlyphData *glyphdata, TrueTypeFont *fnt)$/;"	f
+glyfCount	src/ttsubset/ttcr.c	/^guint32 glyfCount(const TrueTypeTable *table)$/;"	f
+glyphID	src/ttsubset/sft.h	/^        guint32 glyphID;                     \/**< glyph ID                           *\/$/;"	m	struct:__anon5
+glyph_page	src/xo-print.h	/^  int glyph_page;$/;"	m	struct:PdfFont
+glyphmap	src/xo-print.h	/^  int glyphmap[256];$/;"	m	struct:PdfFont
+glyphpsnames	src/xo-print.h	/^  char *glyphpsnames[256];$/;"	m	struct:PdfFont
+gnulocaledir	po/Makefile	/^gnulocaledir = $(datadir)\/locale$/;"	m
+goffsets	src/ttsubset/sft.h	/^    guint32 *goffsets;$/;"	m	struct:_TrueTypeFont
+group	src/xournal.h	/^  GnomeCanvasGroup *group;$/;"	m	struct:Layer
+group	src/xournal.h	/^  GnomeCanvasGroup *group;$/;"	m	struct:Page
+gzopen_wrapper	src/xo-file.c	/^gzFile gzopen_wrapper(const char *path, const char *mode)$/;"	f
+hand_refpt	src/xournal.h	/^  double hand_refpt[2];$/;"	m	struct:UIData
+hand_scrollto_cx	src/xournal.h	/^  int hand_scrollto_cx, hand_scrollto_cy;$/;"	m	struct:UIData
+hand_scrollto_cy	src/xournal.h	/^  int hand_scrollto_cx, hand_scrollto_cy;$/;"	m	struct:UIData
+hand_scrollto_pending	src/xournal.h	/^  gboolean hand_scrollto_pending;$/;"	m	struct:UIData
+handle_activate_signal	src/xo-misc.c	/^gboolean handle_activate_signal(GtkWidget *widget, gpointer user_data)$/;"	f
+has_alpha	src/xo-print.h	/^  gboolean has_alpha;$/;"	m	struct:PdfImage
+has_failed	src/xournal.h	/^  gboolean has_failed; \/\/ has failed in the past...$/;"	m	struct:BgPdf
+have_intersect	src/xo-misc.c	/^gboolean have_intersect(struct BBox *a, struct BBox *b)$/;"	f
+head	src/ttsubset/list.c	/^    lnode *head, *tail, *cptr;$/;"	m	struct:_list	file:
+height	src/xournal.h	/^  double height, width;$/;"	m	struct:Page
+hide_unimplemented	src/xo-misc.c	/^void hide_unimplemented(void)$/;"	f
+hiliter_alpha_mask	src/xournal.h	/^  guint hiliter_alpha_mask;$/;"	m	struct:UIData
+hiliter_cursor_pix	src/xournal.h	/^  GdkPixbuf *pen_cursor_pix, *hiliter_cursor_pix;$/;"	m	struct:UIData
+hiliter_opacity	src/xournal.h	/^  gdouble hiliter_opacity;$/;"	m	struct:UIData
+hittest_item	src/xo-selection.c	/^gboolean hittest_item(ArtSVP *lassosvp, struct Item *item)$/;"	f
+hittest_point	src/xo-selection.c	/^gboolean hittest_point(ArtSVP *lassosvp, double x, double y)$/;"	f
+hoffset	src/xournal.h	/^  double hoffset, voffset; \/\/ offsets of canvas group rel. to canvas root$/;"	m	struct:Page
+host	Makefile	/^host = x86_64-pc-linux-gnu$/;"	m
+host	src/Makefile	/^host = x86_64-pc-linux-gnu$/;"	m
+host	src/ttsubset/Makefile	/^host = x86_64-pc-linux-gnu$/;"	m
+host_alias	Makefile	/^host_alias = $/;"	m
+host_alias	src/Makefile	/^host_alias = $/;"	m
+host_alias	src/ttsubset/Makefile	/^host_alias = $/;"	m
+host_cpu	Makefile	/^host_cpu = x86_64$/;"	m
+host_cpu	src/Makefile	/^host_cpu = x86_64$/;"	m
+host_cpu	src/ttsubset/Makefile	/^host_cpu = x86_64$/;"	m
+host_os	Makefile	/^host_os = linux-gnu$/;"	m
+host_os	src/Makefile	/^host_os = linux-gnu$/;"	m
+host_os	src/ttsubset/Makefile	/^host_os = linux-gnu$/;"	m
+host_triplet	Makefile	/^host_triplet = x86_64-pc-linux-gnu$/;"	m
+host_triplet	src/Makefile	/^host_triplet = x86_64-pc-linux-gnu$/;"	m
+host_triplet	src/ttsubset/Makefile	/^host_triplet = x86_64-pc-linux-gnu$/;"	m
+host_vendor	Makefile	/^host_vendor = pc$/;"	m
+host_vendor	src/Makefile	/^host_vendor = pc$/;"	m
+host_vendor	src/ttsubset/Makefile	/^host_vendor = pc$/;"	m
+htmldir	Makefile	/^htmldir = ${docdir}$/;"	m
+htmldir	src/Makefile	/^htmldir = ${docdir}$/;"	m
+htmldir	src/ttsubset/Makefile	/^htmldir = ${docdir}$/;"	m
+id	src/ttsubset/ttcr.c	/^    guint32  id;                         \/* subtable ID (platform\/encoding ID)    *\/$/;"	m	struct:__anon12	file:
+idDelta	src/ttsubset/sft.c	/^    guint16 idDelta;$/;"	m	struct:_subHeader2	file:
+idRangeOffset	src/ttsubset/sft.c	/^    guint16 idRangeOffset;$/;"	m	struct:_subHeader2	file:
+ignore_btn_reported_up	src/xournal.h	/^  gboolean ignore_btn_reported_up; \/\/ config setting: ignore button reported up$/;"	m	struct:UIData
+ignore_other_devices	src/xournal.h	/^  gboolean ignore_other_devices;$/;"	m	struct:UIData
+image	src/xournal.h	/^  GdkPixbuf *image;  \/\/ the image$/;"	m	struct:Item
+image_data	src/xo-clipboard.c	/^  GdkPixbuf *image_data;$/;"	m	struct:XojSelectionData	file:
+image_png	src/xournal.h	/^  gchar *image_png;  \/\/ PNG of original image, for save and clipboard$/;"	m	struct:Item
+image_png_len	src/xournal.h	/^  gsize image_png_len;$/;"	m	struct:Item
+in_proximity	src/xournal.h	/^  gboolean in_proximity;$/;"	m	struct:UIData
+in_update_page_stuff	src/xournal.h	/^  gboolean in_update_page_stuff; \/\/ semaphore to avoid scrollbar retroaction$/;"	m	struct:UIData
+includedir	Makefile	/^includedir = ${prefix}\/include$/;"	m
+includedir	src/Makefile	/^includedir = ${prefix}\/include$/;"	m
+includedir	src/ttsubset/Makefile	/^includedir = ${prefix}\/include$/;"	m
+incr_inertia	src/xo-shapes.c	/^void incr_inertia(double *pt, struct Inertia *s, int coef)$/;"	f
+infodir	Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+infodir	src/Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+infodir	src/ttsubset/Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+init_autosave	src/xo-file.c	/^void init_autosave(void)$/;"	f
+init_bgpdf	src/xo-file.c	/^gboolean init_bgpdf(char *pdfname, gboolean create_pages, int file_domain)$/;"	f
+init_config_default	src/xo-file.c	/^void init_config_default(void)$/;"	f
+init_mru	src/xo-file.c	/^void init_mru(void)$/;"	f
+init_stuff	src/main.c	/^void init_stuff (int argc, char *argv[])$/;"	f
+insert_image	src/xo-image.c	/^void insert_image(GdkEvent *event)$/;"	f
+insert_recognized_curpath	src/xo-shapes.c	/^struct Item *insert_recognized_curpath(void)$/;"	f
+install_focus_hooks	src/xo-misc.c	/^void install_focus_hooks(GtkWidget *w, gpointer data)$/;"	f
+install_sh	Makefile	/^install_sh = ${SHELL} \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/install-sh$/;"	m
+install_sh	src/Makefile	/^install_sh = ${SHELL} \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/install-sh$/;"	m
+install_sh	src/ttsubset/Makefile	/^install_sh = ${SHELL} \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/install-sh$/;"	m
+install_sh_DATA	Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_DATA	src/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_DATA	src/ttsubset/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_PROGRAM	Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_PROGRAM	src/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_PROGRAM	src/ttsubset/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	src/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	src/ttsubset/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+installation	html-doc/manual.html	/^<a name="installation"><\/a>$/;"	a
+intercept_activate_events	src/xo-misc.c	/^gboolean intercept_activate_events(GtkWidget *w, GdkEvent *ev, gpointer data)$/;"	f
+intval	src/xo-print.h	/^  int intval;$/;"	m	struct:PdfObj
+isFixedPitch	src/ttsubset/ttcr.c	/^    guint32 isFixedPitch;$/;"	m	struct:__anon16	file:
+is_corestroke	src/xournal.h	/^  gboolean is_corestroke; \/\/ this stroke is painted with core pointer$/;"	m	struct:UIData
+is_event_within_textview	src/xo-misc.c	/^gboolean is_event_within_textview(GdkEventButton *event)$/;"	f
+is_sel_cursor	src/xournal.h	/^  gboolean is_sel_cursor; \/\/ displaying a selection-related cursor$/;"	m	struct:UIData
+is_truetype	src/xo-print.h	/^  gboolean is_truetype;$/;"	m	struct:PdfFont
+is_visible	src/xo-misc.c	/^gboolean is_visible(struct Page *pg)$/;"	f
+iseq_obj	src/xo-print.c	/^gboolean iseq_obj(struct PdfObj *a, struct PdfObj *b)$/;"	f
+ispdfdelim	src/xo-print.c	/^gboolean ispdfdelim(char c)$/;"	f
+ispdfspace	src/xo-print.c	/^gboolean ispdfspace(char c)$/;"	f
+italicAngle	src/ttsubset/sft.h	/^        int   italicAngle;        \/**< in counter-clockwise degrees * 65536                    *\/$/;"	m	struct:__anon8
+italicAngle	src/ttsubset/ttcr.c	/^    guint32 italicAngle;$/;"	m	struct:__anon16	file:
+item	src/xo-shapes.c	/^  struct Item *item;$/;"	m	struct:RecoSegment	typeref:struct:RecoSegment::Item	file:
+item	src/xournal.h	/^  struct Item *item; \/\/ for ITEM_STROKE, ITEM_TEXT, ITEM_TEXT_EDIT, ITEM_TEXT_ATTRIB, ITEM_IMAGE$/;"	m	struct:UndoItem	typeref:struct:UndoItem::Item
+item	src/xournal.h	/^  struct Item *item; \/\/ the item that got erased$/;"	m	struct:UndoErasureData	typeref:struct:UndoErasureData::Item
+itemlist	src/xournal.h	/^  GList *itemlist;  \/\/ for ITEM_MOVESEL, ITEM_PASTE, ITEM_REPAINTSEL, ITEM_RESIZESEL$/;"	m	struct:UndoItem
+items	src/xournal.h	/^  GList *items; \/\/ the items on the layer, from bottom to top$/;"	m	struct:Layer
+items	src/xournal.h	/^  GList *items; \/\/ the selected items (a list of struct Item)$/;"	m	struct:Selection
+journal	src/main.c	/^struct Journal journal; \/\/ the journal$/;"	v	typeref:struct:Journal
+kerntables	src/ttsubset/sft.h	/^    guint8   **kerntables;                          \/* array of pointers to kern subtables                                *\/$/;"	m	struct:_TrueTypeFont
+kerntype	src/ttsubset/sft.h	/^    int    kerntype;                              \/* Defined in the KernType enum                                       *\/$/;"	m	struct:_TrueTypeFont
+languageID	src/ttsubset/sft.h	/^        guint16 languageID;                  \/**< Language ID                                            *\/$/;"	m	struct:__anon7
+last	src/xo-print.h	/^  int last;$/;"	m	struct:XrefTable
+last_attach_no	src/xournal.h	/^  int last_attach_no; \/\/ for naming of attached backgrounds$/;"	m	struct:Journal
+last_item_checker	src/xo-shapes.c	/^struct UndoItem *last_item_checker; \/\/ check if queue is stale$/;"	v	typeref:struct:UndoItem
+last_x	src/xournal.h	/^  double anchor_x, anchor_y, last_x, last_y; \/\/ for selection motion$/;"	m	struct:Selection
+last_y	src/xournal.h	/^  double anchor_x, anchor_y, last_x, last_y; \/\/ for selection motion$/;"	m	struct:Selection
+layer	src/xournal.h	/^  struct Layer *layer; \/\/ for ITEM_STROKE, ITEM_ERASURE, ITEM_PASTE, ITEM_NEW_LAYER, ITEM_DELETE_LAYER, ITEM_MOVESEL, ITEM_TEXT, ITEM_TEXT_EDIT, ITEM_RECOGNIZER, ITEM_IMAGE$/;"	m	struct:UndoItem	typeref:struct:UndoItem::Layer
+layer	src/xournal.h	/^  struct Layer *layer; \/\/ the layer on which the selection lives$/;"	m	struct:Selection	typeref:struct:Selection::Layer
+layer2	src/xournal.h	/^  struct Layer *layer2; \/\/ for ITEM_DELETE_LAYER with val=-1, ITEM_MOVESEL$/;"	m	struct:UndoItem	typeref:struct:UndoItem::Layer
+layerbox_length	src/xournal.h	/^  int layerbox_length;  \/\/ the number of entries registered in the layers combo-box$/;"	m	struct:UIData
+layerno	src/xournal.h	/^  int pageno, layerno; \/\/ the current page and layer$/;"	m	struct:UIData
+layers	src/xournal.h	/^  GList *layers; \/\/ the layers on the page$/;"	m	struct:Page
+left	src/xournal.h	/^  double left, right, top, bottom;$/;"	m	struct:BBox
+left_handed	src/xournal.h	/^  gboolean left_handed; \/\/ left-handed mode?$/;"	m	struct:UIData
+len	src/xo-print.h	/^  int len, num;$/;"	m	struct:PdfObj
+length	src/ttsubset/ttcr.c	/^    guint32 length;$/;"	m	struct:__anon11	file:
+libdir	Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libdir	po/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libdir	src/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libdir	src/ttsubset/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libexecdir	Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libexecdir	src/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libexecdir	src/ttsubset/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libttsubset_a_AR	src/ttsubset/Makefile	/^libttsubset_a_AR = $(AR) $(ARFLAGS)$/;"	m
+libttsubset_a_LIBADD	src/ttsubset/Makefile	/^libttsubset_a_LIBADD =$/;"	m
+libttsubset_a_OBJECTS	src/ttsubset/Makefile	/^libttsubset_a_OBJECTS = $(am_libttsubset_a_OBJECTS)$/;"	m
+libttsubset_a_SOURCES	src/ttsubset/Makefile	/^libttsubset_a_SOURCES = \\$/;"	m
+linegap	src/ttsubset/sft.h	/^        int   linegap;            \/**< typographic line gap.\\ Negative values are treated as$/;"	m	struct:__anon8
+linked_brush	src/xournal.h	/^  int linked_brush[NUM_BUTTONS+1]; \/\/ whether brushes are linked across buttons$/;"	m	struct:UIData
+list	src/ttsubset/list.h	/^typedef struct _list *list;$/;"	t	typeref:struct:_list
+listAppend	src/ttsubset/list.c	/^list   listAppend(list this, void *el)$/;"	f
+listAtFirst	src/ttsubset/list.c	/^int   listAtFirst(list this)$/;"	f
+listAtLast	src/ttsubset/list.c	/^int   listAtLast(list this)$/;"	f
+listClear	src/ttsubset/list.c	/^list   listClear(list this)$/;"	f
+listConcat	src/ttsubset/list.c	/^list   listConcat(list lhs, list rhs)$/;"	f
+listCopy	src/ttsubset/list.c	/^list listCopy(list to, list from)                 \/*- assignment *\/$/;"	f
+listCount	src/ttsubset/list.c	/^int   listCount(list this)$/;"	f
+listCurrent	src/ttsubset/list.c	/^void *listCurrent(list this)$/;"	f
+listDispose	src/ttsubset/list.c	/^void listDispose(list this)                       \/*- dtor *\/$/;"	f
+listFind	src/ttsubset/list.c	/^int    listFind(list this, void *el)$/;"	f
+listForAll	src/ttsubset/list.c	/^void   listForAll(list this, void (*f)(void *))$/;"	f
+listInsertAfter	src/ttsubset/list.c	/^list   listInsertAfter(list this, void *el)$/;"	f
+listInsertBefore	src/ttsubset/list.c	/^list   listInsertBefore(list this, void *el)$/;"	f
+listIsEmpty	src/ttsubset/list.c	/^int   listIsEmpty(list this)$/;"	f
+listNewConcat	src/ttsubset/list.c	/^list listNewConcat(list lhs, list rhs)$/;"	f
+listNewCopy	src/ttsubset/list.c	/^list listNewCopy(list l)                          \/*- copy ctor *\/$/;"	f
+listNewEmpty	src/ttsubset/list.c	/^list listNewEmpty(void)                           \/*- default ctor *\/$/;"	f
+listNext	src/ttsubset/list.c	/^int    listNext(list this)$/;"	f
+listPosition	src/ttsubset/list.c	/^int   listPosition(list this)$/;"	f
+listPositionAt	src/ttsubset/list.c	/^int    listPositionAt(list this, int n)                     \/*- returns the actual position number *\/$/;"	f
+listPrepend	src/ttsubset/list.c	/^list   listPrepend(list this, void *el)$/;"	f
+listPrev	src/ttsubset/list.c	/^int    listPrev(list this)$/;"	f
+listRemove	src/ttsubset/list.c	/^list   listRemove(list this)$/;"	f
+listSetElementDtor	src/ttsubset/list.c	/^void listSetElementDtor(list this, GDestroyNotify f)$/;"	f
+listSkipBackward	src/ttsubset/list.c	/^int    listSkipBackward(list this, int n)$/;"	f
+listSkipForward	src/ttsubset/list.c	/^int    listSkipForward(list this, int n)$/;"	f
+listToArray	src/ttsubset/list.c	/^void **listToArray(list this)$/;"	f
+listToFirst	src/ttsubset/list.c	/^int    listToFirst(list this)$/;"	f
+listToLast	src/ttsubset/list.c	/^int    listToLast(list this)$/;"	f
+lnode	src/ttsubset/list.c	/^} lnode;$/;"	t	typeref:struct:_lnode	file:
+load_config_from_file	src/xo-file.c	/^void load_config_from_file(void)$/;"	f
+localedir	Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localedir	po/Makefile	/^localedir = $(libdir)\/locale$/;"	m
+localedir	src/Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localedir	src/ttsubset/Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localstatedir	Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+localstatedir	src/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+localstatedir	src/ttsubset/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+longHorMetrics	src/ttsubset/ttcr.h	/^} longHorMetrics;$/;"	t	typeref:struct:__anon22
+lookup_widget	src/xo-support.c	/^lookup_widget                          (GtkWidget       *widget,$/;"	f
+lower_canvas_item_to	src/xo-misc.c	/^void lower_canvas_item_to(GnomeCanvasGroup *g, GnomeCanvasItem *item, GnomeCanvasItem *after)$/;"	f
+lsb	src/ttsubset/sft.h	/^         gint16  lsb;               \/*- Left sidebearing (horisontal writing mode) *\/$/;"	m	struct:__anon2
+lsb	src/ttsubset/sft.h	/^        gint16  lsb;                         \/**< left sidebearing                   *\/$/;"	m	struct:__anon5
+lsb	src/ttsubset/sft.h	/^        gint16 lsb, tsb;$/;"	m	struct:__anon4
+lsb	src/ttsubset/ttcr.h	/^    gint16  lsb;$/;"	m	struct:__anon22
+m	src/ttsubset/ttcr.c	/^    guint32  m;                          \/* number of allocated translation pairs *\/$/;"	m	struct:__anon12	file:
+m	src/ttsubset/ttcr.c	/^    guint32 m;                           \/* number of allocated CMAP sub-tables  *\/$/;"	m	struct:__anon13	file:
+main	config.guess	/^		main()$/;"	f
+main	config.guess	/^	main ()$/;"	f
+main	src/main.c	/^main (int argc, char *argv[])$/;"	f
+main	src/ttsubset/list.c	/^int main()$/;"	f
+main	src/ttsubset/sft.c	/^int main(int ac, char **av)$/;"	f
+main	src/ttsubset/ttcr.c	/^int main(void)$/;"	f
+make_canvas_item_one	src/xo-misc.c	/^void make_canvas_item_one(GnomeCanvasGroup *group, struct Item *item)$/;"	f
+make_canvas_items	src/xo-misc.c	/^void make_canvas_items(void)$/;"	f
+make_canvas_stroke_disc	src/xo-misc.c	/^void make_canvas_stroke_disc(struct Item *item, double * pt, double * w)$/;"	f
+make_canvas_stroke_trapeze	src/xo-misc.c	/^void make_canvas_stroke_trapeze(struct Item *item, double * pt, double * w)$/;"	f
+make_circle_shape	src/xo-shapes.c	/^void make_circle_shape(double x0, double y0, double r)$/;"	f
+make_cur_font_name	src/xo-misc.c	/^gchar *make_cur_font_name(void)$/;"	f
+make_dashed	src/xo-selection.c	/^void make_dashed(GnomeCanvasItem *item)$/;"	f
+make_dummy_depfile	depcomp	/^make_dummy_depfile ()$/;"	f
+make_hiliter_cursor	src/xo-paint.c	/^GdkCursor *make_hiliter_cursor(guint color_rgba)$/;"	f
+make_page_clipbox	src/xo-misc.c	/^void make_page_clipbox(struct Page *pg)$/;"	f
+make_pdfprefix	src/xo-print.c	/^GString *make_pdfprefix(struct PdfPageDesc *pgdesc, double width, double height)$/;"	f
+make_pen_cursor	src/xo-paint.c	/^GdkCursor *make_pen_cursor(guint color_rgba)$/;"	f
+make_xref	src/xo-print.c	/^void make_xref(struct XrefTable *xref, int nobj, int offset)$/;"	f
+mandir	Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+mandir	src/Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+mandir	src/ttsubset/Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+mapper	src/ttsubset/sft.h	/^    guint16 (*mapper)(const guint8 *, guint16);       \/* character to glyphID translation function                          *\/$/;"	m	struct:_TrueTypeFont
+mappings	html-doc/manual.html	/^<a name="mappings"><\/a>$/;"	a
+mass	src/xo-shapes.c	/^  double mass, sx, sy, sxx, sxy, syy;$/;"	m	struct:Inertia	file:
+maximize_at_start	src/xournal.h	/^  gboolean fullscreen, maximize_at_start;$/;"	m	struct:UIData
+mediabox	src/xo-print.h	/^  struct PdfObj *resources, *mediabox, *contents;$/;"	m	struct:PdfPageDesc	typeref:struct:PdfPageDesc::
+mkTag	src/ttsubset/sft.c	/^_inline guint32 mkTag(guint8 a, guint8 b, guint8 c, guint8 d) {$/;"	f
+mkTag	src/ttsubset/ttcr.c	/^_inline guint32 mkTag(guint8 a, guint8 b, guint8 c, guint8 d) {$/;"	f
+mk_pdfname	src/xo-print.c	/^struct PdfObj *mk_pdfname(char *name)$/;"	f
+mk_pdfref	src/xo-print.c	/^struct PdfObj *mk_pdfref(int num)$/;"	f
+mkdir_p	Makefile	/^mkdir_p = $(MKDIR_P)$/;"	m
+mkdir_p	src/Makefile	/^mkdir_p = $(MKDIR_P)$/;"	m
+mkdir_p	src/ttsubset/Makefile	/^mkdir_p = $(MKDIR_P)$/;"	m
+mkinstalldirs	Makefile	/^mkinstalldirs = $(SHELL) $(top_srcdir)\/mkinstalldirs$/;"	m
+mkinstalldirs	src/Makefile	/^mkinstalldirs = $(SHELL) $(top_srcdir)\/mkinstalldirs$/;"	m
+mkinstalldirs	src/ttsubset/Makefile	/^mkinstalldirs = $(SHELL) $(top_srcdir)\/mkinstalldirs$/;"	m
+modextra	src/ttsubset/sft.c	/^const char *modextra = "gelf";$/;"	v
+modname	src/ttsubset/sft.c	/^const char *modname  = "SunTypeTools-TT";$/;"	v
+modver	src/ttsubset/sft.c	/^const char *modver   = "1.0";$/;"	v
+move_journal_items_by	src/xo-misc.c	/^void move_journal_items_by(GList *itemlist, double dx, double dy,$/;"	f
+move_layer	src/xournal.h	/^  struct Layer *move_layer;$/;"	m	struct:Selection	typeref:struct:Selection::Layer
+move_pagedelta	src/xournal.h	/^  float move_pagedelta;$/;"	m	struct:Selection
+move_pageno	src/xournal.h	/^  int move_pageno, orig_pageno; \/\/ if selection moves to a different page$/;"	m	struct:Selection
+mru	src/xournal.h	/^  char *mru[MRU_SIZE]; \/\/ MRU data$/;"	m	struct:UIData
+mrufile	src/xournal.h	/^  char *mrufile, *configfile; \/\/ file names for MRU & config$/;"	m	struct:UIData
+mrumenu	src/xournal.h	/^  GtkWidget *mrumenu[MRU_SIZE];$/;"	m	struct:UIData
+multiop	src/xournal.h	/^  int multiop;$/;"	m	struct:UndoItem
+n	src/ttsubset/ttcr.c	/^    guint32  n;                          \/* number of used translation pairs      *\/$/;"	m	struct:__anon12	file:
+n	src/ttsubset/ttcr.c	/^    guint32 n;                           \/* number of used CMAP sub-tables       *\/$/;"	m	struct:__anon13	file:
+nGlyphs	src/ttsubset/sft.c	/^    guint32 nGlyphs;           \/* number of glyphs in the font + 1 *\/$/;"	m	struct:__anon21	file:
+n_alloc	src/xo-print.h	/^  int n_alloc;$/;"	m	struct:XrefTable
+n_obj	src/xo-print.h	/^  int n_obj;$/;"	m	struct:PdfFont
+n_obj	src/xo-print.h	/^  int n_obj;$/;"	m	struct:PdfImage
+n_obj_smask	src/xo-print.h	/^  int n_obj_smask;              \/* only if has_alpha *\/$/;"	m	struct:PdfImage
+nameAdd	src/ttsubset/ttcr.c	/^void nameAdd(TrueTypeTable *table, NameRecord *nr)$/;"	f
+nameExtract	src/ttsubset/sft.c	/^static char *nameExtract(guint8 *name, int n, int dbFlag, guint16** ucs2result )$/;"	f	file:
+nameID	src/ttsubset/sft.h	/^        guint16 nameID;                      \/**< Name ID                                                *\/$/;"	m	struct:__anon7
+names	src/xo-print.h	/^  char **names;$/;"	m	struct:PdfObj
+nbytes	src/ttsubset/sft.h	/^        guint16 nbytes;                      \/**< number of bytes in glyph data      *\/$/;"	m	struct:__anon5
+nbytes	src/ttsubset/ttcr.c	/^    guint32 nbytes;                      \/* number of bytes in loca table *\/$/;"	m	struct:__anon15	file:
+nbytes	src/ttsubset/ttcr.c	/^    guint32 nbytes;$/;"	m	struct:__anon14	file:
+ncontours	src/ttsubset/sft.h	/^        guint16 ncontours;                   \/**< number of contours                 *\/$/;"	m	struct:__anon5
+need_autosave	src/xournal.h	/^  gboolean need_autosave;$/;"	m	struct:UIData
+newID	src/ttsubset/sft.h	/^        guint32 newID;                       \/**< used internally by the TTCR        *\/$/;"	m	struct:__anon5
+newNode	src/ttsubset/list.c	/^static lnode *newNode(void *el)$/;"	f	file:
+newPSPathElement	src/ttsubset/sft.c	/^static PSPathElement *newPSPathElement(int t)$/;"	f	file:
+new_journal	src/xo-file.c	/^void new_journal(void)$/;"	f
+new_mru_entry	src/xo-file.c	/^void new_mru_entry(char *name)$/;"	f
+new_page	src/xo-misc.c	/^struct Page *new_page(struct Page *template)$/;"	f
+new_page_bg_from_pdf	src/xournal.h	/^  gboolean new_page_bg_from_pdf; \/\/ do new pages get a duplicated PDF\/image background?$/;"	m	struct:UIData
+new_page_with_bg	src/xo-misc.c	/^struct Page *new_page_with_bg(struct Background *bg, double width, double height)$/;"	f
+new_pdffont	src/xo-print.c	/^struct PdfFont *new_pdffont(struct XrefTable *xref, GList **fonts,$/;"	f
+new_pdfimage	src/xo-print.c	/^struct PdfImage *new_pdfimage(struct XrefTable *xref, GList **images, GdkPixbuf *pixbuf)$/;"	f
+new_refstring	src/xo-misc.c	/^struct Refstring *new_refstring(const char *s)$/;"	f
+new_x1	src/xournal.h	/^  double new_x1, new_x2, new_y1, new_y2; \/\/ for selection resizing$/;"	m	struct:Selection
+new_x2	src/xournal.h	/^  double new_x1, new_x2, new_y1, new_y2; \/\/ for selection resizing$/;"	m	struct:Selection
+new_y1	src/xournal.h	/^  double new_x1, new_x2, new_y1, new_y2; \/\/ for selection resizing$/;"	m	struct:Selection
+new_y2	src/xournal.h	/^  double new_x1, new_x2, new_y1, new_y2; \/\/ for selection resizing$/;"	m	struct:Selection
+next	src/ttsubset/list.c	/^    struct _lnode *next;$/;"	m	struct:_lnode	typeref:struct:_lnode::_lnode	file:
+next	src/xournal.h	/^  struct UndoItem *next;$/;"	m	struct:UndoItem	typeref:struct:UndoItem::UndoItem
+nglyphs	src/ttsubset/sft.h	/^    int    nglyphs;$/;"	m	struct:_TrueTypeFont
+nglyphs	src/xo-print.h	/^  int nglyphs;$/;"	m	struct:PdfFont
+nitems	src/xournal.h	/^  int nitems;$/;"	m	struct:Layer
+nkern	src/ttsubset/sft.h	/^    guint32 nkern;                                 \/* number of kern subtables                                           *\/$/;"	m	struct:_TrueTypeFont
+nlayers	src/xournal.h	/^  int nlayers;$/;"	m	struct:Page
+noinst_LIBRARIES	src/ttsubset/Makefile	/^noinst_LIBRARIES = libttsubset.a$/;"	m
+npages	src/xo-print.h	/^  int npages;$/;"	m	struct:PdfInfo
+npages	src/xournal.h	/^  int npages;$/;"	m	struct:BgPdf
+npages	src/xournal.h	/^  int npages;$/;"	m	struct:Journal
+npoints	src/ttsubset/sft.h	/^        guint16 npoints;                     \/**< number of points                   *\/$/;"	m	struct:__anon5
+npos	src/xournal.h	/^  int npos; \/\/ its position in its layer$/;"	m	struct:UndoErasureData
+nref	src/xournal.h	/^  int nref;$/;"	m	struct:Refstring
+nrepl	src/xournal.h	/^  int nrepl; \/\/ the number of replacement items$/;"	m	struct:UndoErasureData
+ntables	src/ttsubset/sft.h	/^    guint32 ntables;$/;"	m	struct:_TrueTypeFont
+num	src/xo-print.h	/^  int len, num;$/;"	m	struct:PdfObj
+numOfLongVerMetrics	src/ttsubset/sft.h	/^    int    numOfLongVerMetrics;                   \/* if this number is not 0, font has vertical metrics information *\/$/;"	m	struct:_TrueTypeFont
+num_glyphs_used	src/xo-print.h	/^  int num_glyphs_used;$/;"	m	struct:PdfFont
+numberOfHMetrics	src/ttsubset/sft.h	/^    int    numberOfHMetrics;$/;"	m	struct:_TrueTypeFont
+o	src/ttsubset/sft.c	/^    FILE *o;$/;"	m	struct:__anon20	file:
+offs	src/ttsubset/sft.c	/^    guint32 *offs;             \/* array of nGlyphs offsets *\/$/;"	m	struct:__anon21	file:
+ok_to_close	src/xo-misc.c	/^gboolean ok_to_close(void)$/;"	f
+oldincludedir	Makefile	/^oldincludedir = \/usr\/include$/;"	m
+oldincludedir	src/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+oldincludedir	src/ttsubset/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+on_button2CopyBrush_activate	src/xo-callbacks.c	/^on_button2CopyBrush_activate           (GtkMenuItem     *menuitem,$/;"	f
+on_button2Eraser_activate	src/xo-callbacks.c	/^on_button2Eraser_activate              (GtkMenuItem     *menuitem,$/;"	f
+on_button2Hand_activate	src/xo-callbacks.c	/^on_button2Hand_activate                (GtkMenuItem     *menuitem,$/;"	f
+on_button2Highlighter_activate	src/xo-callbacks.c	/^on_button2Highlighter_activate         (GtkMenuItem     *menuitem,$/;"	f
+on_button2Image_activate	src/xo-callbacks.c	/^on_button2Image_activate               (GtkMenuItem     *menuitem,$/;"	f
+on_button2LinkBrush_activate	src/xo-callbacks.c	/^on_button2LinkBrush_activate           (GtkMenuItem     *menuitem,$/;"	f
+on_button2Pen_activate	src/xo-callbacks.c	/^on_button2Pen_activate                 (GtkMenuItem     *menuitem,$/;"	f
+on_button2SelectRectangle_activate	src/xo-callbacks.c	/^on_button2SelectRectangle_activate     (GtkMenuItem     *menuitem,$/;"	f
+on_button2SelectRegion_activate	src/xo-callbacks.c	/^on_button2SelectRegion_activate        (GtkMenuItem     *menuitem,$/;"	f
+on_button2Text_activate	src/xo-callbacks.c	/^on_button2Text_activate                (GtkMenuItem     *menuitem,$/;"	f
+on_button2VerticalSpace_activate	src/xo-callbacks.c	/^on_button2VerticalSpace_activate       (GtkMenuItem     *menuitem,$/;"	f
+on_button3CopyBrush_activate	src/xo-callbacks.c	/^on_button3CopyBrush_activate           (GtkMenuItem     *menuitem,$/;"	f
+on_button3Eraser_activate	src/xo-callbacks.c	/^on_button3Eraser_activate              (GtkMenuItem     *menuitem,$/;"	f
+on_button3Hand_activate	src/xo-callbacks.c	/^on_button3Hand_activate                (GtkMenuItem     *menuitem,$/;"	f
+on_button3Highlighter_activate	src/xo-callbacks.c	/^on_button3Highlighter_activate         (GtkMenuItem     *menuitem,$/;"	f
+on_button3Image_activate	src/xo-callbacks.c	/^on_button3Image_activate               (GtkMenuItem     *menuitem,$/;"	f
+on_button3LinkBrush_activate	src/xo-callbacks.c	/^on_button3LinkBrush_activate           (GtkMenuItem     *menuitem,$/;"	f
+on_button3Pen_activate	src/xo-callbacks.c	/^on_button3Pen_activate                 (GtkMenuItem     *menuitem,$/;"	f
+on_button3SelectRectangle_activate	src/xo-callbacks.c	/^on_button3SelectRectangle_activate     (GtkMenuItem     *menuitem,$/;"	f
+on_button3SelectRegion_activate	src/xo-callbacks.c	/^on_button3SelectRegion_activate        (GtkMenuItem     *menuitem,$/;"	f
+on_button3Text_activate	src/xo-callbacks.c	/^on_button3Text_activate                (GtkMenuItem     *menuitem,$/;"	f
+on_button3VerticalSpace_activate	src/xo-callbacks.c	/^on_button3VerticalSpace_activate       (GtkMenuItem     *menuitem,$/;"	f
+on_buttonColorChooser_set	src/xo-callbacks.c	/^on_buttonColorChooser_set              (GtkColorButton  *colorbutton,$/;"	f
+on_buttonFine_clicked	src/xo-callbacks.c	/^on_buttonFine_clicked                  (GtkToolButton   *toolbutton,$/;"	f
+on_buttonMedium_clicked	src/xo-callbacks.c	/^on_buttonMedium_clicked                (GtkToolButton   *toolbutton,$/;"	f
+on_buttonThick_clicked	src/xo-callbacks.c	/^on_buttonThick_clicked                 (GtkToolButton   *toolbutton,$/;"	f
+on_buttonToolDefault_clicked	src/xo-callbacks.c	/^on_buttonToolDefault_clicked           (GtkToolButton   *toolbutton,$/;"	f
+on_canvas_button_press_event	src/xo-callbacks.c	/^on_canvas_button_press_event           (GtkWidget       *widget,$/;"	f
+on_canvas_button_release_event	src/xo-callbacks.c	/^on_canvas_button_release_event         (GtkWidget       *widget,$/;"	f
+on_canvas_enter_notify_event	src/xo-callbacks.c	/^on_canvas_enter_notify_event           (GtkWidget       *widget,$/;"	f
+on_canvas_expose_event	src/xo-callbacks.c	/^on_canvas_expose_event                 (GtkWidget       *widget,$/;"	f
+on_canvas_key_press_event	src/xo-callbacks.c	/^on_canvas_key_press_event              (GtkWidget       *widget,$/;"	f
+on_canvas_leave_notify_event	src/xo-callbacks.c	/^on_canvas_leave_notify_event           (GtkWidget       *widget,$/;"	f
+on_canvas_motion_notify_event	src/xo-callbacks.c	/^on_canvas_motion_notify_event          (GtkWidget       *widget,$/;"	f
+on_canvas_proximity_event	src/xo-callbacks.c	/^on_canvas_proximity_event              (GtkWidget       *widget,$/;"	f
+on_colorBlack_activate	src/xo-callbacks.c	/^on_colorBlack_activate                 (GtkMenuItem     *menuitem,$/;"	f
+on_colorBlue_activate	src/xo-callbacks.c	/^on_colorBlue_activate                  (GtkMenuItem     *menuitem,$/;"	f
+on_colorGray_activate	src/xo-callbacks.c	/^on_colorGray_activate                  (GtkMenuItem     *menuitem,$/;"	f
+on_colorGreen_activate	src/xo-callbacks.c	/^on_colorGreen_activate                 (GtkMenuItem     *menuitem,$/;"	f
+on_colorLightBlue_activate	src/xo-callbacks.c	/^on_colorLightBlue_activate             (GtkMenuItem     *menuitem,$/;"	f
+on_colorLightGreen_activate	src/xo-callbacks.c	/^on_colorLightGreen_activate            (GtkMenuItem     *menuitem,$/;"	f
+on_colorMagenta_activate	src/xo-callbacks.c	/^on_colorMagenta_activate               (GtkMenuItem     *menuitem,$/;"	f
+on_colorOrange_activate	src/xo-callbacks.c	/^on_colorOrange_activate                (GtkMenuItem     *menuitem,$/;"	f
+on_colorOther_activate	src/xo-callbacks.c	/^on_colorOther_activate                 (GtkMenuItem     *menuitem,$/;"	f
+on_colorRed_activate	src/xo-callbacks.c	/^on_colorRed_activate                   (GtkMenuItem     *menuitem,$/;"	f
+on_colorWhite_activate	src/xo-callbacks.c	/^on_colorWhite_activate                 (GtkMenuItem     *menuitem,$/;"	f
+on_colorYellow_activate	src/xo-callbacks.c	/^on_colorYellow_activate                (GtkMenuItem     *menuitem,$/;"	f
+on_comboLayer_changed	src/xo-callbacks.c	/^on_comboLayer_changed                  (GtkComboBox     *combobox,$/;"	f
+on_comboStdSizes_changed	src/xo-callbacks.c	/^on_comboStdSizes_changed               (GtkComboBox     *combobox,$/;"	f
+on_comboUnit_changed	src/xo-callbacks.c	/^on_comboUnit_changed                   (GtkComboBox     *combobox,$/;"	f
+on_editCopy_activate	src/xo-callbacks.c	/^on_editCopy_activate                   (GtkMenuItem     *menuitem,$/;"	f
+on_editCut_activate	src/xo-callbacks.c	/^on_editCut_activate                    (GtkMenuItem     *menuitem,$/;"	f
+on_editDelete_activate	src/xo-callbacks.c	/^on_editDelete_activate                 (GtkMenuItem     *menuitem,$/;"	f
+on_editPaste_activate	src/xo-callbacks.c	/^on_editPaste_activate                  (GtkMenuItem     *menuitem,$/;"	f
+on_editRedo_activate	src/xo-callbacks.c	/^on_editRedo_activate                   (GtkMenuItem     *menuitem,$/;"	f
+on_editUndo_activate	src/xo-callbacks.c	/^on_editUndo_activate                   (GtkMenuItem     *menuitem,$/;"	f
+on_entryHeight_changed	src/xo-callbacks.c	/^on_entryHeight_changed                 (GtkEditable     *editable,$/;"	f
+on_entryWidth_changed	src/xo-callbacks.c	/^on_entryWidth_changed                  (GtkEditable     *editable,$/;"	f
+on_eraserDeleteStrokes_activate	src/xo-callbacks.c	/^on_eraserDeleteStrokes_activate        (GtkMenuItem     *menuitem,$/;"	f
+on_eraserFine_activate	src/xo-callbacks.c	/^on_eraserFine_activate                 (GtkMenuItem     *menuitem,$/;"	f
+on_eraserMedium_activate	src/xo-callbacks.c	/^on_eraserMedium_activate               (GtkMenuItem     *menuitem,$/;"	f
+on_eraserStandard_activate	src/xo-callbacks.c	/^on_eraserStandard_activate             (GtkMenuItem     *menuitem,$/;"	f
+on_eraserThick_activate	src/xo-callbacks.c	/^on_eraserThick_activate                (GtkMenuItem     *menuitem,$/;"	f
+on_eraserWhiteout_activate	src/xo-callbacks.c	/^on_eraserWhiteout_activate             (GtkMenuItem     *menuitem,$/;"	f
+on_fileNewBackground_activate	src/xo-callbacks.c	/^on_fileNewBackground_activate          (GtkMenuItem     *menuitem,$/;"	f
+on_fileNew_activate	src/xo-callbacks.c	/^on_fileNew_activate                    (GtkMenuItem     *menuitem,$/;"	f
+on_fileOpen_activate	src/xo-callbacks.c	/^on_fileOpen_activate                   (GtkMenuItem     *menuitem,$/;"	f
+on_filePrintOptions_activate	src/xo-callbacks.c	/^on_filePrintOptions_activate           (GtkMenuItem     *menuitem,$/;"	f
+on_filePrintPDF_activate	src/xo-callbacks.c	/^on_filePrintPDF_activate               (GtkMenuItem     *menuitem,$/;"	f
+on_filePrint_activate	src/xo-callbacks.c	/^on_filePrint_activate                  (GtkMenuItem     *menuitem,$/;"	f
+on_fileQuit_activate	src/xo-callbacks.c	/^on_fileQuit_activate                   (GtkMenuItem     *menuitem,$/;"	f
+on_fileSaveAs_activate	src/xo-callbacks.c	/^on_fileSaveAs_activate                 (GtkMenuItem     *menuitem,$/;"	f
+on_fileSave_activate	src/xo-callbacks.c	/^on_fileSave_activate                   (GtkMenuItem     *menuitem,$/;"	f
+on_fontButton_font_set	src/xo-callbacks.c	/^on_fontButton_font_set                 (GtkFontButton   *fontbutton,$/;"	f
+on_helpAbout_activate	src/xo-callbacks.c	/^on_helpAbout_activate                  (GtkMenuItem     *menuitem,$/;"	f
+on_helpIndex_activate	src/xo-callbacks.c	/^on_helpIndex_activate                  (GtkMenuItem     *menuitem,$/;"	f
+on_highlighterFine_activate	src/xo-callbacks.c	/^on_highlighterFine_activate            (GtkMenuItem     *menuitem,$/;"	f
+on_highlighterMedium_activate	src/xo-callbacks.c	/^on_highlighterMedium_activate          (GtkMenuItem     *menuitem,$/;"	f
+on_highlighterThick_activate	src/xo-callbacks.c	/^on_highlighterThick_activate           (GtkMenuItem     *menuitem,$/;"	f
+on_hscroll_changed	src/xo-callbacks.c	/^on_hscroll_changed                     (GtkAdjustment   *adjustment,$/;"	f
+on_journalApplyAllPages_activate	src/xo-callbacks.c	/^on_journalApplyAllPages_activate       (GtkMenuItem     *menuitem,$/;"	f
+on_journalDefaultBackground_activate	src/xo-callbacks.c	/^on_journalDefaultBackground_activate   (GtkMenuItem     *menuitem,$/;"	f
+on_journalDeleteLayer_activate	src/xo-callbacks.c	/^on_journalDeleteLayer_activate         (GtkMenuItem     *menuitem,$/;"	f
+on_journalDeletePage_activate	src/xo-callbacks.c	/^on_journalDeletePage_activate          (GtkMenuItem     *menuitem,$/;"	f
+on_journalFlatten_activate	src/xo-callbacks.c	/^on_journalFlatten_activate             (GtkMenuItem     *menuitem,$/;"	f
+on_journalLoadBackground_activate	src/xo-callbacks.c	/^on_journalLoadBackground_activate      (GtkMenuItem     *menuitem,$/;"	f
+on_journalNewLayer_activate	src/xo-callbacks.c	/^on_journalNewLayer_activate            (GtkMenuItem     *menuitem,$/;"	f
+on_journalNewPageAfter_activate	src/xo-callbacks.c	/^on_journalNewPageAfter_activate        (GtkMenuItem     *menuitem,$/;"	f
+on_journalNewPageBefore_activate	src/xo-callbacks.c	/^on_journalNewPageBefore_activate       (GtkMenuItem     *menuitem,$/;"	f
+on_journalNewPageEnd_activate	src/xo-callbacks.c	/^on_journalNewPageEnd_activate          (GtkMenuItem     *menuitem,$/;"	f
+on_journalNewPageKeepsBG_activate	src/xo-callbacks.c	/^on_journalNewPageKeepsBG_activate      (GtkMenuItem     *menuitem,$/;"	f
+on_journalPaperSize_activate	src/xo-callbacks.c	/^on_journalPaperSize_activate           (GtkMenuItem     *menuitem,$/;"	f
+on_journalScreenshot_activate	src/xo-callbacks.c	/^on_journalScreenshot_activate          (GtkMenuItem     *menuitem,$/;"	f
+on_journalSetAsDefault_activate	src/xo-callbacks.c	/^on_journalSetAsDefault_activate        (GtkMenuItem     *menuitem,$/;"	f
+on_mru_activate	src/xo-callbacks.c	/^on_mru_activate                        (GtkMenuItem     *menuitem,$/;"	f
+on_optionsAutoSavePrefs_activate	src/xo-callbacks.c	/^on_optionsAutoSavePrefs_activate       (GtkMenuItem     *menuitem,  $/;"	f
+on_optionsAutoloadPdfXoj_activate	src/xo-callbacks.c	/^on_optionsAutoloadPdfXoj_activate      (GtkMenuItem     *menuitem,$/;"	f
+on_optionsAutosaveXoj_activate	src/xo-callbacks.c	/^on_optionsAutosaveXoj_activate         (GtkMenuItem     *menuitem,$/;"	f
+on_optionsButtonMappings_activate	src/xo-callbacks.c	/^on_optionsButtonMappings_activate      (GtkMenuItem     *menuitem,$/;"	f
+on_optionsButtonsSwitchMappings_activate	src/xo-callbacks.c	/^on_optionsButtonsSwitchMappings_activate(GtkMenuItem    *menuitem,$/;"	f
+on_optionsDesignateTouchscreen_activate	src/xo-callbacks.c	/^on_optionsDesignateTouchscreen_activate$/;"	f
+on_optionsLayersPDFExport_activate	src/xo-callbacks.c	/^on_optionsLayersPDFExport_activate     (GtkMenuItem     *menuitem,$/;"	f
+on_optionsLeftHanded_activate	src/xo-callbacks.c	/^on_optionsLeftHanded_activate          (GtkMenuItem     *menuitem,   $/;"	f
+on_optionsLegacyPDFExport_activate	src/xo-callbacks.c	/^on_optionsLegacyPDFExport_activate     (GtkMenuItem     *menuitem,$/;"	f
+on_optionsPenCursor_activate	src/xo-callbacks.c	/^on_optionsPenCursor_activate           (GtkCheckMenuItem *checkmenuitem,$/;"	f
+on_optionsPenDisablesTouch_activate	src/xo-callbacks.c	/^on_optionsPenDisablesTouch_activate    (GtkMenuItem     *menuitem,$/;"	f
+on_optionsPressureSensitive_activate	src/xo-callbacks.c	/^on_optionsPressureSensitive_activate   (GtkMenuItem     *menuitem,$/;"	f
+on_optionsPrintRuling_activate	src/xo-callbacks.c	/^on_optionsPrintRuling_activate         (GtkMenuItem     *menuitem,$/;"	f
+on_optionsProgressiveBG_activate	src/xo-callbacks.c	/^on_optionsProgressiveBG_activate       (GtkMenuItem     *menuitem,$/;"	f
+on_optionsSavePreferences_activate	src/xo-callbacks.c	/^on_optionsSavePreferences_activate     (GtkMenuItem     *menuitem,$/;"	f
+on_optionsShortenMenus_activate	src/xo-callbacks.c	/^on_optionsShortenMenus_activate        (GtkMenuItem     *menuitem,  $/;"	f
+on_optionsTouchAsHandTool_activate	src/xo-callbacks.c	/^on_optionsTouchAsHandTool_activate     (GtkMenuItem     *menuitem,  $/;"	f
+on_optionsUseXInput_activate	src/xo-callbacks.c	/^on_optionsUseXInput_activate           (GtkMenuItem     *menuitem,$/;"	f
+on_optionsViMovement_activate	src/xo-callbacks.c	/^on_optionsViMovement_activate          (GtkMenuItem     *menuitem,$/;"	f
+on_papercolorBlue_activate	src/xo-callbacks.c	/^on_papercolorBlue_activate             (GtkMenuItem     *menuitem,$/;"	f
+on_papercolorGreen_activate	src/xo-callbacks.c	/^on_papercolorGreen_activate            (GtkMenuItem     *menuitem,$/;"	f
+on_papercolorOrange_activate	src/xo-callbacks.c	/^on_papercolorOrange_activate           (GtkMenuItem     *menuitem,$/;"	f
+on_papercolorOther_activate	src/xo-callbacks.c	/^on_papercolorOther_activate            (GtkMenuItem     *menuitem,$/;"	f
+on_papercolorPink_activate	src/xo-callbacks.c	/^on_papercolorPink_activate             (GtkMenuItem     *menuitem,$/;"	f
+on_papercolorWhite_activate	src/xo-callbacks.c	/^on_papercolorWhite_activate            (GtkMenuItem     *menuitem,$/;"	f
+on_papercolorYellow_activate	src/xo-callbacks.c	/^on_papercolorYellow_activate           (GtkMenuItem     *menuitem,$/;"	f
+on_paperstyleGraph_activate	src/xo-callbacks.c	/^on_paperstyleGraph_activate            (GtkMenuItem     *menuitem,$/;"	f
+on_paperstyleLined_activate	src/xo-callbacks.c	/^on_paperstyleLined_activate            (GtkMenuItem     *menuitem,$/;"	f
+on_paperstylePlain_activate	src/xo-callbacks.c	/^on_paperstylePlain_activate            (GtkMenuItem     *menuitem,$/;"	f
+on_paperstyleRuled_activate	src/xo-callbacks.c	/^on_paperstyleRuled_activate            (GtkMenuItem     *menuitem,$/;"	f
+on_penthicknessFine_activate	src/xo-callbacks.c	/^on_penthicknessFine_activate           (GtkMenuItem     *menuitem,$/;"	f
+on_penthicknessMedium_activate	src/xo-callbacks.c	/^on_penthicknessMedium_activate         (GtkMenuItem     *menuitem,$/;"	f
+on_penthicknessThick_activate	src/xo-callbacks.c	/^on_penthicknessThick_activate          (GtkMenuItem     *menuitem,$/;"	f
+on_penthicknessVeryFine_activate	src/xo-callbacks.c	/^on_penthicknessVeryFine_activate       (GtkMenuItem     *menuitem,$/;"	f
+on_penthicknessVeryThick_activate	src/xo-callbacks.c	/^on_penthicknessVeryThick_activate      (GtkMenuItem     *menuitem,$/;"	f
+on_radioZoom100_toggled	src/xo-callbacks.c	/^on_radioZoom100_toggled                (GtkToggleButton *togglebutton,$/;"	f
+on_radioZoomHeight_toggled	src/xo-callbacks.c	/^on_radioZoomHeight_toggled             (GtkToggleButton *togglebutton,$/;"	f
+on_radioZoomWidth_toggled	src/xo-callbacks.c	/^on_radioZoomWidth_toggled              (GtkToggleButton *togglebutton,$/;"	f
+on_radioZoom_toggled	src/xo-callbacks.c	/^on_radioZoom_toggled                   (GtkToggleButton *togglebutton,$/;"	f
+on_spinPageNo_value_changed	src/xo-callbacks.c	/^on_spinPageNo_value_changed            (GtkSpinButton   *spinbutton,$/;"	f
+on_spinZoom_value_changed	src/xo-callbacks.c	/^on_spinZoom_value_changed              (GtkSpinButton   *spinbutton,$/;"	f
+on_toolsDefaultEraser_activate	src/xo-callbacks.c	/^on_toolsDefaultEraser_activate         (GtkMenuItem     *menuitem,$/;"	f
+on_toolsDefaultHighlighter_activate	src/xo-callbacks.c	/^on_toolsDefaultHighlighter_activate    (GtkMenuItem     *menuitem,$/;"	f
+on_toolsDefaultPen_activate	src/xo-callbacks.c	/^on_toolsDefaultPen_activate            (GtkMenuItem     *menuitem,$/;"	f
+on_toolsDefaultText_activate	src/xo-callbacks.c	/^on_toolsDefaultText_activate           (GtkMenuItem     *menuitem,$/;"	f
+on_toolsEraser_activate	src/xo-callbacks.c	/^on_toolsEraser_activate                (GtkMenuItem     *menuitem,$/;"	f
+on_toolsHand_activate	src/xo-callbacks.c	/^on_toolsHand_activate                  (GtkMenuItem     *menuitem,$/;"	f
+on_toolsHighlighter_activate	src/xo-callbacks.c	/^on_toolsHighlighter_activate           (GtkMenuItem     *menuitem,$/;"	f
+on_toolsImage_activate	src/xo-callbacks.c	/^on_toolsImage_activate                 (GtkMenuItem *menuitem,$/;"	f
+on_toolsPen_activate	src/xo-callbacks.c	/^on_toolsPen_activate                   (GtkMenuItem     *menuitem,$/;"	f
+on_toolsReco_activate	src/xo-callbacks.c	/^on_toolsReco_activate                  (GtkMenuItem *menuitem,$/;"	f
+on_toolsRuler_activate	src/xo-callbacks.c	/^on_toolsRuler_activate                 (GtkMenuItem     *menuitem,$/;"	f
+on_toolsSelectRectangle_activate	src/xo-callbacks.c	/^on_toolsSelectRectangle_activate       (GtkMenuItem     *menuitem,$/;"	f
+on_toolsSelectRegion_activate	src/xo-callbacks.c	/^on_toolsSelectRegion_activate          (GtkMenuItem     *menuitem,$/;"	f
+on_toolsSetAsDefault_activate	src/xo-callbacks.c	/^on_toolsSetAsDefault_activate          (GtkMenuItem     *menuitem,$/;"	f
+on_toolsTextFont_activate	src/xo-callbacks.c	/^on_toolsTextFont_activate              (GtkMenuItem     *menuitem,$/;"	f
+on_toolsText_activate	src/xo-callbacks.c	/^on_toolsText_activate                  (GtkMenuItem     *menuitem,$/;"	f
+on_toolsVerticalSpace_activate	src/xo-callbacks.c	/^on_toolsVerticalSpace_activate         (GtkMenuItem     *menuitem,$/;"	f
+on_viewContinuous_activate	src/xo-callbacks.c	/^on_viewContinuous_activate             (GtkMenuItem     *menuitem,$/;"	f
+on_viewFirstPage_activate	src/xo-callbacks.c	/^on_viewFirstPage_activate              (GtkMenuItem     *menuitem,$/;"	f
+on_viewFullscreen_activate	src/xo-callbacks.c	/^on_viewFullscreen_activate             (GtkMenuItem     *menuitem,$/;"	f
+on_viewHideLayer_activate	src/xo-callbacks.c	/^on_viewHideLayer_activate              (GtkMenuItem     *menuitem,$/;"	f
+on_viewHorizontal_activate	src/xo-callbacks.c	/^on_viewHorizontal_activate             (GtkMenuItem     *menuitem,$/;"	f
+on_viewLastPage_activate	src/xo-callbacks.c	/^on_viewLastPage_activate               (GtkMenuItem     *menuitem,$/;"	f
+on_viewNextPage_activate	src/xo-callbacks.c	/^on_viewNextPage_activate               (GtkMenuItem     *menuitem,$/;"	f
+on_viewNormalSize_activate	src/xo-callbacks.c	/^on_viewNormalSize_activate             (GtkMenuItem     *menuitem,$/;"	f
+on_viewOnePage_activate	src/xo-callbacks.c	/^on_viewOnePage_activate                (GtkMenuItem     *menuitem,$/;"	f
+on_viewPageWidth_activate	src/xo-callbacks.c	/^on_viewPageWidth_activate              (GtkMenuItem     *menuitem,$/;"	f
+on_viewPreviousPage_activate	src/xo-callbacks.c	/^on_viewPreviousPage_activate           (GtkMenuItem     *menuitem,$/;"	f
+on_viewSetZoom_activate	src/xo-callbacks.c	/^on_viewSetZoom_activate                (GtkMenuItem     *menuitem,$/;"	f
+on_viewShowLayer_activate	src/xo-callbacks.c	/^on_viewShowLayer_activate              (GtkMenuItem     *menuitem,$/;"	f
+on_viewZoomIn_activate	src/xo-callbacks.c	/^on_viewZoomIn_activate                 (GtkMenuItem     *menuitem,$/;"	f
+on_viewZoomOut_activate	src/xo-callbacks.c	/^on_viewZoomOut_activate                (GtkMenuItem     *menuitem,$/;"	f
+on_vscroll_changed	src/xo-callbacks.c	/^on_vscroll_changed                     (GtkAdjustment   *adjustment,$/;"	f
+on_winMain_delete_event	src/xo-callbacks.c	/^on_winMain_delete_event                (GtkWidget       *widget,$/;"	f
+open_journal	src/xo-file.c	/^gboolean open_journal(char *filename)$/;"	f
+optimize_polygonal	src/xo-shapes.c	/^void optimize_polygonal(double *pt, int nsides, int *breaks, struct Inertia *ss)$/;"	f
+orig_pageno	src/xournal.h	/^  int move_pageno, orig_pageno; \/\/ if selection moves to a different page$/;"	m	struct:Selection
+pGSubstitution	src/ttsubset/sft.h	/^    void   *pGSubstitution;                       \/* info provided by GSUB for UseGSUB()                                *\/$/;"	m	struct:_TrueTypeFont
+page	src/xournal.h	/^  struct Page *page;  \/\/ for ITEM_NEW_BG_ONE\/RESIZE, ITEM_NEW_PAGE, ITEM_NEW_LAYER, ITEM_DELETE_LAYER, ITEM_DELETE_PAGE$/;"	m	struct:UndoItem	typeref:struct:UndoItem::Page
+page_to_load	src/xo-file.c	/^int page_to_load; \/\/NIKO$/;"	v
+pageno	src/xournal.h	/^  int pageno, layerno; \/\/ the current page and layer$/;"	m	struct:UIData
+pageno	src/xournal.h	/^  int pageno;$/;"	m	struct:BgPdfRequest
+pages	src/xo-print.h	/^  struct PdfPageDesc *pages;$/;"	m	struct:PdfInfo	typeref:struct:PdfInfo::PdfPageDesc
+pages	src/xournal.h	/^  GList *pages;  \/\/ the pages in the journal$/;"	m	struct:Journal
+pages	src/xournal.h	/^  GList *pages; \/\/ a list of BgPdfPage structures$/;"	m	struct:BgPdf
+pages-layers	html-doc/manual.html	/^<a name="pages-layers"><\/a>$/;"	a
+panose	src/ttsubset/sft.h	/^        guint8   panose[10];        \/**< PANOSE classification number                            *\/$/;"	m	struct:__anon8
+papersize_dialog	src/xo-callbacks.c	/^GtkWidget *papersize_dialog;$/;"	v
+papersize_height	src/xo-callbacks.c	/^double papersize_width, papersize_height;$/;"	v
+papersize_height_valid	src/xo-callbacks.c	/^gboolean papersize_need_init, papersize_width_valid, papersize_height_valid;$/;"	v
+papersize_need_init	src/xo-callbacks.c	/^gboolean papersize_need_init, papersize_width_valid, papersize_height_valid;$/;"	v
+papersize_std	src/xo-callbacks.c	/^int papersize_std, papersize_unit;$/;"	v
+papersize_unit	src/xo-callbacks.c	/^int papersize_std, papersize_unit;$/;"	v
+papersize_width	src/xo-callbacks.c	/^double papersize_width, papersize_height;$/;"	v
+papersize_width_valid	src/xo-callbacks.c	/^gboolean papersize_need_init, papersize_width_valid, papersize_height_valid;$/;"	v
+parse_keyval_boolean	src/xo-file.c	/^gboolean parse_keyval_boolean(const gchar *group, const gchar *key, gboolean *val)$/;"	f
+parse_keyval_enum	src/xo-file.c	/^gboolean parse_keyval_enum(const gchar *group, const gchar *key, int *val, const char **names, int n)$/;"	f
+parse_keyval_enum_color	src/xo-file.c	/^gboolean parse_keyval_enum_color(const gchar *group, const gchar *key, int *val, guint *val_rgba, $/;"	f
+parse_keyval_float	src/xo-file.c	/^gboolean parse_keyval_float(const gchar *group, const gchar *key, double *val, double inf, double sup)$/;"	f
+parse_keyval_floatlist	src/xo-file.c	/^gboolean parse_keyval_floatlist(const gchar *group, const gchar *key, double *val, int n, double inf, double sup)$/;"	f
+parse_keyval_int	src/xo-file.c	/^gboolean parse_keyval_int(const gchar *group, const gchar *key, int *val, int inf, int sup)$/;"	f
+parse_keyval_string	src/xo-file.c	/^gboolean parse_keyval_string(const gchar *group, const gchar *key, gchar **val)$/;"	f
+parse_keyval_vorderlist	src/xo-file.c	/^gboolean parse_keyval_vorderlist(const gchar *group, const gchar *key, int *order)$/;"	f
+parse_pdf_object	src/xo-print.c	/^struct PdfObj *parse_pdf_object(char **ptr, char *eof)$/;"	f
+parse_xref_table	src/xo-print.c	/^struct PdfObj *parse_xref_table(GString *pdfbuf, struct XrefTable *xref, int offs)$/;"	f
+path	src/xournal.h	/^  GnomeCanvasPoints *path;$/;"	m	struct:Item
+pdf_draw_bitmap_background	src/xo-print.c	/^int pdf_draw_bitmap_background(struct Page *pg, GString *str, $/;"	f
+pdf_draw_image	src/xo-print.c	/^gboolean pdf_draw_image(PdfImage *image, struct XrefTable *xref, GString *pdfbuf)$/;"	f
+pdf_draw_page	src/xo-print.c	/^void pdf_draw_page(struct Page *pg, GString *str, gboolean *use_hiliter, $/;"	f
+pdf_draw_solid_background	src/xo-print.c	/^void pdf_draw_solid_background(struct Page *pg, GString *str)$/;"	f
+pdf_getpageinfo	src/xo-print.c	/^int pdf_getpageinfo(GString *pdfbuf, struct XrefTable *xref, $/;"	f
+pdf_parse_info	src/xo-print.c	/^gboolean pdf_parse_info(GString *pdfbuf, struct PdfInfo *pdfinfo, struct XrefTable *xref)$/;"	f
+pdfannotate	html-doc/manual.html	/^<a name="pdfannotate"><\/a>$/;"	a
+pdfdir	Makefile	/^pdfdir = ${docdir}$/;"	m
+pdfdir	src/Makefile	/^pdfdir = ${docdir}$/;"	m
+pdfdir	src/ttsubset/Makefile	/^pdfdir = ${docdir}$/;"	m
+pen_cursor	src/xournal.h	/^  gboolean pen_cursor; \/\/ use pencil cursor (default is a dot in current color)$/;"	m	struct:UIData
+pen_cursor_pix	src/xournal.h	/^  GdkPixbuf *pen_cursor_pix, *hiliter_cursor_pix;$/;"	m	struct:UIData
+pen_disables_touch	src/xournal.h	/^  gboolean pen_disables_touch; \/\/ pen proximity should disable touch device?$/;"	m	struct:UIData
+pfb_get_length	src/xo-print.c	926;"	d	file:
+pid	src/xournal.h	/^  guint pid; \/\/ the identifier of the idle callback$/;"	m	struct:BgPdf
+pitch	src/ttsubset/sft.h	/^        int   pitch;              \/**< 0: proportianal font, otherwise: monospaced             *\/$/;"	m	struct:__anon8
+pixbuf	src/xo-print.h	/^  GdkPixbuf *pixbuf;$/;"	m	struct:PdfImage
+pixbuf	src/xournal.h	/^  GdkPixbuf *pixbuf;$/;"	m	struct:Background
+pixbuf	src/xournal.h	/^  GdkPixbuf *pixbuf;$/;"	m	struct:BgPdfPage
+pixbuf_from_buffer	src/xo-image.c	/^GdkPixbuf *pixbuf_from_buffer(const gchar *buf, gsize buflen)$/;"	f
+pixbuf_scale	src/xournal.h	/^  double pixbuf_scale; \/\/ for PIXMAP, this is the *current* zoom value$/;"	m	struct:Background
+pixel_height	src/xournal.h	/^  int pixel_height, pixel_width; \/\/ PDF only: pixel size of current pixbuf$/;"	m	struct:Background
+pixel_height	src/xournal.h	/^  int pixel_height, pixel_width; \/\/ pixel size of pixbuf$/;"	m	struct:BgPdfPage
+pixel_width	src/xournal.h	/^  int pixel_height, pixel_width; \/\/ PDF only: pixel size of current pixbuf$/;"	m	struct:Background
+pixel_width	src/xournal.h	/^  int pixel_height, pixel_width; \/\/ pixel size of pixbuf$/;"	m	struct:BgPdfPage
+pixmaps_directories	src/xo-support.c	/^static GList *pixmaps_directories = NULL;$/;"	v	file:
+pkgdatadir	Makefile	/^pkgdatadir = $(datadir)\/xournal$/;"	m
+pkgdatadir	src/Makefile	/^pkgdatadir = $(datadir)\/xournal$/;"	m
+pkgdatadir	src/ttsubset/Makefile	/^pkgdatadir = $(datadir)\/xournal$/;"	m
+pkgincludedir	Makefile	/^pkgincludedir = $(includedir)\/xournal$/;"	m
+pkgincludedir	src/Makefile	/^pkgincludedir = $(includedir)\/xournal$/;"	m
+pkgincludedir	src/ttsubset/Makefile	/^pkgincludedir = $(includedir)\/xournal$/;"	m
+pkglibdir	Makefile	/^pkglibdir = $(libdir)\/xournal$/;"	m
+pkglibdir	src/Makefile	/^pkglibdir = $(libdir)\/xournal$/;"	m
+pkglibdir	src/ttsubset/Makefile	/^pkglibdir = $(libdir)\/xournal$/;"	m
+pkglibexecdir	Makefile	/^pkglibexecdir = $(libexecdir)\/xournal$/;"	m
+pkglibexecdir	src/Makefile	/^pkglibexecdir = $(libexecdir)\/xournal$/;"	m
+pkglibexecdir	src/ttsubset/Makefile	/^pkglibexecdir = $(libexecdir)\/xournal$/;"	m
+platformID	src/ttsubset/sft.h	/^        guint16 platformID;                  \/**< Platform ID                                            *\/$/;"	m	struct:__anon7
+poppler_force_cairo	src/xournal.h	/^  gboolean poppler_force_cairo; \/\/ force poppler to use cairo$/;"	m	struct:UIData
+pre_fullscreen_height	src/xournal.h	/^  gint pre_fullscreen_width, pre_fullscreen_height; \/\/ for win32 fullscreen$/;"	m	struct:UIData
+pre_fullscreen_width	src/xournal.h	/^  gint pre_fullscreen_width, pre_fullscreen_height; \/\/ for win32 fullscreen$/;"	m	struct:UIData
+predef_bgcolors_rgba	src/xo-misc.c	/^guint predef_bgcolors_rgba[COLOR_MAX] = \/\/ meaningless ones set to white$/;"	v
+predef_colors_rgba	src/xo-misc.c	/^guint predef_colors_rgba[COLOR_MAX] =$/;"	v
+predef_thickness	src/xo-misc.c	/^double predef_thickness[NUM_STROKE_TOOLS][THICKNESS_MAX] =$/;"	v
+prefix	Makefile	/^prefix = \/usr\/local$/;"	m
+prefix	po/Makefile	/^prefix = \/usr\/local$/;"	m
+prefix	src/Makefile	/^prefix = \/usr\/local$/;"	m
+prefix	src/ttsubset/Makefile	/^prefix = \/usr\/local$/;"	m
+prepare_new_undo	src/xo-misc.c	/^void prepare_new_undo(void)$/;"	f
+prependPrim	src/ttsubset/list.c	/^static lnode *prependPrim(list this, void *el)$/;"	f	file:
+pressure_sensitivity	src/xournal.h	/^  gboolean pressure_sensitivity; \/\/ use pen pressure to control stroke width?$/;"	m	struct:UIData
+prev	src/ttsubset/list.c	/^    struct _lnode *prev;$/;"	m	struct:_lnode	typeref:struct:_lnode::_lnode	file:
+print_background	src/xo-print.c	/^void print_background(cairo_t *cr, struct Page *pg)$/;"	f
+print_job_render_page	src/xo-print.c	/^void print_job_render_page(GtkPrintOperation *print, GtkPrintContext *context, gint pageno, gpointer user_data)$/;"	f
+print_page_to_cairo	src/xo-print.c	/^void print_page_to_cairo(cairo_t *cr, struct Page *pg, gdouble width, gdouble height, PangoLayout *layout, GList *end_layer)$/;"	f
+print_ruling	src/xournal.h	/^  gboolean print_ruling; \/\/ print the paper ruling ?$/;"	m	struct:UIData
+print_settings	src/xournal.h	/^  GtkPrintSettings *print_settings;$/;"	m	struct:UIData
+print_to_pdf	src/xo-print.c	/^gboolean print_to_pdf(char *filename)$/;"	f
+print_to_pdf_cairo	src/xo-print.c	/^gboolean print_to_pdf_cairo(char *filename)$/;"	f
+printing	html-doc/manual.html	/^<a name="printing"><\/a>$/;"	a
+printlist	src/ttsubset/list.c	/^void printlist(list l)$/;"	f
+printstat	src/ttsubset/list.c	/^void printstat(list l)$/;"	f
+printstringlist	src/ttsubset/list.c	/^void printstringlist(list l)$/;"	f
+process_color_activate	src/xo-misc.c	/^void process_color_activate(GtkMenuItem *menuitem, int color_no, guint color_rgba)$/;"	f
+process_font_sel	src/xo-paint.c	/^void process_font_sel(gchar *str)$/;"	f
+process_mapping_activate	src/xo-misc.c	/^void process_mapping_activate(GtkMenuItem *menuitem, int m, int tool)$/;"	f
+process_papercolor_activate	src/xo-misc.c	/^void process_papercolor_activate(GtkMenuItem *menuitem, int color, guint rgba)$/;"	f
+process_paperstyle_activate	src/xo-misc.c	/^void process_paperstyle_activate(GtkMenuItem *menuitem, int style)$/;"	f
+process_thickness_activate	src/xo-misc.c	/^void process_thickness_activate(GtkMenuItem *menuitem, int tool, int val)$/;"	f
+program_details	missing	/^program_details ()$/;"	f
+program_transform_name	Makefile	/^program_transform_name = s,x,x,$/;"	m
+program_transform_name	src/Makefile	/^program_transform_name = s,x,x,$/;"	m
+program_transform_name	src/ttsubset/Makefile	/^program_transform_name = s,x,x,$/;"	m
+progressive_bg	src/xournal.h	/^  gboolean progressive_bg; \/\/ update PDF bg's one at a time$/;"	m	struct:UIData
+prototypes	configure	/^   function prototypes and stuff, but not '\\xHH' hex character constants.$/;"	f
+psdir	Makefile	/^psdir = ${docdir}$/;"	m
+psdir	src/Makefile	/^psdir = ${docdir}$/;"	m
+psdir	src/ttsubset/Makefile	/^psdir = ${docdir}$/;"	m
+psname	src/ttsubset/sft.h	/^        char *psname;             \/**< PostScript name                                         *\/$/;"	m	struct:__anon8
+psname	src/ttsubset/sft.h	/^    char   *psname;$/;"	m	struct:_TrueTypeFont
+ptr	src/ttsubset/sft.h	/^        guint8  *ptr;                         \/**< pointer to glyph data              *\/$/;"	m	struct:__anon5
+ptr	src/ttsubset/sft.h	/^    guint8   *ptr;$/;"	m	struct:_TrueTypeFont
+ptr	src/ttsubset/ttcr.c	/^    guint8 *ptr;                          \/* pointer to the data *\/$/;"	m	struct:__anon15	file:
+ptr	src/ttsubset/ttcr.c	/^    guint8 *ptr;$/;"	m	struct:__anon14	file:
+ptr	src/ttsubset/ttcr.c	/^    void   *ptr;                        \/* format-specific pointer *\/$/;"	m	struct:__anon16	file:
+radius	src/xo-shapes.c	/^  double xcenter, ycenter, angle, radius;$/;"	m	struct:RecoSegment	file:
+rangeFlag	src/ttsubset/sft.h	/^        int   rangeFlag;          \/**< if set to 1 Unicode Range flags are applicable          *\/$/;"	m	struct:__anon8
+rawdata	src/ttsubset/ttcr.h	/^    guint8   *rawdata;                    \/* raw data allocated by GetRawData_*()                     *\/$/;"	m	struct:__anon23
+read_pixbuf	src/xo-file.c	/^GdkPixbuf *read_pixbuf(const gchar *base64_str, gsize base64_strlen)$/;"	f
+realloc_cur_path	src/xo-misc.c	/^void realloc_cur_path(int n)$/;"	f
+realloc_cur_widths	src/xo-misc.c	/^void realloc_cur_widths(int n)$/;"	f
+realval	src/xo-print.h	/^  double realval;$/;"	m	struct:PdfObj
+recognize_patterns	src/xo-shapes.c	/^void recognize_patterns(void)$/;"	f
+recognizer	html-doc/manual.html	/^<a name="recognizer"><\/a>$/;"	a
+recognizer	src/xournal.h	/^  gboolean ruler, recognizer, variable_width;$/;"	m	struct:Brush
+recognizer_queue	src/xo-shapes.c	/^struct RecoSegment recognizer_queue[MAX_POLYGON_SIDES+1];$/;"	v	typeref:struct:RecoSegment
+recognizer_queue_length	src/xo-shapes.c	/^int recognizer_queue_length;$/;"	v
+recolor_selection	src/xo-selection.c	/^void recolor_selection(int color_no, guint color_rgba)$/;"	f
+recolor_temp_text	src/xo-misc.c	/^void recolor_temp_text(int color_no, guint color_rgba)$/;"	f
+redo	src/main.c	/^struct UndoItem *undo, *redo; \/\/ the undo and redo stacks$/;"	v	typeref:struct:
+refont_text_item	src/xo-paint.c	/^void refont_text_item(struct Item *item, gchar *font_name, double font_size)$/;"	f
+refstring_ref	src/xo-misc.c	/^struct Refstring *refstring_ref(struct Refstring *rs)$/;"	f
+refstring_unref	src/xo-misc.c	/^void refstring_unref(struct Refstring *rs)$/;"	f
+remove_recognized_strokes	src/xo-shapes.c	/^void remove_recognized_strokes(struct RecoSegment *rs, int num_old_items)$/;"	f
+remove_vi_scroll_bindings	src/xo-misc.c	/^void remove_vi_scroll_bindings(void)$/;"	f
+replacement_items	src/xournal.h	/^  GList *replacement_items;$/;"	m	struct:UndoErasureData
+requests	src/xournal.h	/^  GList *requests; \/\/ a list of BgPdfRequest structures$/;"	m	struct:BgPdf
+rescale_bg_pixmaps	src/xo-misc.c	/^void rescale_bg_pixmaps(void)$/;"	f
+rescale_images	src/xo-image.c	/^void rescale_images(void)$/;"	f
+rescale_text_items	src/xo-paint.c	/^void rescale_text_items(void)$/;"	f
+reset_focus	src/xo-misc.c	/^void reset_focus(void)$/;"	f
+reset_recognizer	src/xo-shapes.c	/^void reset_recognizer(void)$/;"	f
+reset_selection	src/xo-misc.c	/^void reset_selection(void)$/;"	f
+resize_journal_items_by	src/xo-misc.c	/^void resize_journal_items_by(GList *itemlist, double scaling_x, double scaling_y,$/;"	f
+resize_signal_handler	src/xournal.h	/^  gulong resize_signal_handler;$/;"	m	struct:UIData
+resize_textview	src/xo-paint.c	/^void resize_textview(gpointer *toplevel, gpointer *data)$/;"	f
+resizing_bottom	src/xournal.h	/^  gboolean resizing_top, resizing_bottom, resizing_left, resizing_right; \/\/ for selection resizing$/;"	m	struct:Selection
+resizing_left	src/xournal.h	/^  gboolean resizing_top, resizing_bottom, resizing_left, resizing_right; \/\/ for selection resizing$/;"	m	struct:Selection
+resizing_right	src/xournal.h	/^  gboolean resizing_top, resizing_bottom, resizing_left, resizing_right; \/\/ for selection resizing$/;"	m	struct:Selection
+resizing_top	src/xournal.h	/^  gboolean resizing_top, resizing_bottom, resizing_left, resizing_right; \/\/ for selection resizing$/;"	m	struct:Selection
+resources	src/xo-print.h	/^  struct PdfObj *resources, *mediabox, *contents;$/;"	m	struct:PdfPageDesc	typeref:struct:PdfPageDesc::PdfObj
+rethicken_selection	src/xo-selection.c	/^void rethicken_selection(int val)$/;"	f
+reversed	src/xo-shapes.c	/^  gboolean reversed;$/;"	m	struct:RecoSegment	file:
+rgb_to_gdkcolor	src/xo-misc.c	/^void rgb_to_gdkcolor(guint rgba, GdkColor *color)$/;"	f
+right	src/xournal.h	/^  double left, right, top, bottom;$/;"	m	struct:BBox
+rotate	src/xo-print.h	/^  int rotate;$/;"	m	struct:PdfPageDesc
+ruler	src/xournal.h	/^  gboolean ruler, recognizer, variable_width;$/;"	m	struct:Brush
+ruling	src/xournal.h	/^  int ruling;$/;"	m	struct:Background
+runstatedir	Makefile	/^runstatedir = ${localstatedir}\/run$/;"	m
+runstatedir	src/Makefile	/^runstatedir = ${localstatedir}\/run$/;"	m
+runstatedir	src/ttsubset/Makefile	/^runstatedir = ${localstatedir}\/run$/;"	m
+s	src/ttsubset/sft.h	/^        guint16 s;$/;"	m	struct:__anon1
+s	src/ttsubset/ttcr.c	/^    CmapSubTable *s;                    \/* sotred array of sub-tables           *\/$/;"	m	struct:__anon13	file:
+s	src/xournal.h	/^  char *s;$/;"	m	struct:Refstring
+save_config_to_file	src/xo-file.c	/^void save_config_to_file(void)$/;"	f
+save_journal	src/xo-file.c	/^gboolean save_journal(const char *filename, gboolean is_auto)$/;"	f
+save_mru_list	src/xo-file.c	/^void save_mru_list(void)$/;"	f
+saved	src/xournal.h	/^  gboolean saved; \/\/ is file saved ?$/;"	m	struct:UIData
+saved_is_corestroke	src/xournal.h	/^  gboolean saved_is_corestroke;$/;"	m	struct:UIData
+sb	src/ttsubset/sft.h	/^        gint16 sb;                           \/**< left or top sidebearing            *\/$/;"	m	struct:__anon3
+sbindir	Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sbindir	src/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sbindir	src/ttsubset/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+scaling_x	src/xournal.h	/^  double scaling_x, scaling_y; \/\/ for ITEM_RESIZESEL$/;"	m	struct:UndoItem
+scaling_y	src/xournal.h	/^  double scaling_x, scaling_y; \/\/ for ITEM_RESIZESEL$/;"	m	struct:UndoItem
+scalloc	src/ttsubset/sft.c	/^_inline void *scalloc(size_t n, size_t size)$/;"	f
+scalloc	src/ttsubset/ttcr.c	/^_inline void *scalloc(size_t n, size_t size)$/;"	f
+score_circle	src/xo-shapes.c	/^double score_circle(double *pt, int start, int end, struct Inertia *s)$/;"	f
+screen_height	src/xournal.h	/^  int screen_width, screen_height; \/\/ initial screen size, for XInput events$/;"	m	struct:UIData
+screen_width	src/xournal.h	/^  int screen_width, screen_height; \/\/ initial screen size, for XInput events$/;"	m	struct:UIData
+scrollbar_step_increment	src/xournal.h	/^  int window_default_width, window_default_height, scrollbar_step_increment;$/;"	m	struct:UIData
+selection	src/xournal.h	/^  struct Selection *selection;$/;"	m	struct:UIData	typeref:struct:UIData::Selection
+selection_delete	src/xo-selection.c	/^void selection_delete(void)$/;"	f
+selection_to_clip	src/xo-clipboard.c	/^void selection_to_clip(void)$/;"	f
+set_base_from	depcomp	/^set_base_from ()$/;"	f
+set_cur_color	src/xo-misc.c	/^void set_cur_color(int color_no, guint color_rgba)$/;"	f
+set_current_page	src/xo-misc.c	/^void set_current_page(gdouble *pt)$/;"	f
+set_cursor_busy	src/xo-paint.c	/^void set_cursor_busy(gboolean busy)$/;"	f
+set_dir_from	depcomp	/^set_dir_from ()$/;"	f
+sharedstatedir	Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+sharedstatedir	src/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+sharedstatedir	src/ttsubset/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+shorten_menu_items	src/xournal.h	/^  gchar *shorten_menu_items; \/\/ which items to hide$/;"	m	struct:UIData
+shorten_menus	src/xournal.h	/^  gboolean shorten_menus; \/\/ shorten menus ?$/;"	m	struct:UIData
+show_pdfobj	src/xo-print.c	/^void show_pdfobj(struct PdfObj *obj, GString *str)$/;"	f
+shutdown_bgpdf	src/xo-file.c	/^void shutdown_bgpdf(void)$/;"	f
+skipspace	src/xo-print.c	/^void skipspace(char **p, char *eof)$/;"	f
+slen	src/ttsubset/sft.h	/^        guint16 slen;                        \/**< String length in bytes                                 *\/$/;"	m	struct:__anon7
+smalloc	src/ttsubset/sft.c	/^_inline void *smalloc(size_t size)$/;"	f
+smalloc	src/ttsubset/ttcr.c	/^_inline void *smalloc(size_t size)$/;"	f
+sptr	src/ttsubset/sft.h	/^        guint8  *sptr;                        \/**< Pointer to string data (not zero-terminated!)          *\/$/;"	m	struct:__anon7
+srcdir	Makefile	/^srcdir = .$/;"	m
+srcdir	po/Makefile	/^srcdir = .$/;"	m
+srcdir	src/Makefile	/^srcdir = .$/;"	m
+srcdir	src/ttsubset/Makefile	/^srcdir = .$/;"	m
+start_movesel	src/xo-selection.c	/^gboolean start_movesel(GdkEvent *event)$/;"	f
+start_resizesel	src/xo-selection.c	/^gboolean start_resizesel(GdkEvent *event)$/;"	f
+start_selectrect	src/xo-selection.c	/^void start_selectrect(GdkEvent *event)$/;"	f
+start_selectregion	src/xo-selection.c	/^void start_selectregion(GdkEvent *event)$/;"	f
+start_text	src/xo-paint.c	/^void start_text(GdkEvent *event, struct Item *item)$/;"	f
+start_vertspace	src/xo-selection.c	/^void start_vertspace(GdkEvent *event)$/;"	f
+startpt	src/xo-shapes.c	/^  int startpt, endpt;$/;"	m	struct:RecoSegment	file:
+startup_zoom	src/xournal.h	/^  double startup_zoom;$/;"	m	struct:UIData
+startuptool	src/xournal.h	/^  int startuptool; \/\/ the default tool at startup$/;"	m	struct:UIData
+startxref	src/xo-print.h	/^  int startxref;$/;"	m	struct:PdfInfo
+status	src/xournal.h	/^  int status; \/\/ the rest only makes sense if this is not STATUS_NOT_INIT$/;"	m	struct:BgPdf
+std_heights	src/xo-callbacks.c	/^double std_heights[STD_SIZE_CUSTOM] = {841.89, 595.27, 595.27, 792., 612.};$/;"	v
+std_units	src/xo-callbacks.c	/^double std_units[STD_SIZE_CUSTOM] = {UNIT_CM, UNIT_CM, UNIT_CM, UNIT_IN, UNIT_IN};$/;"	v
+std_widths	src/xo-callbacks.c	/^double std_widths[STD_SIZE_CUSTOM] =  {595.27, 841.89, 420.94, 612., 792.};$/;"	v
+str	src/xo-print.h	/^  char *str;$/;"	m	struct:PdfObj
+str	src/xournal.h	/^  gchar *str; \/\/ for ITEM_TEXT_EDIT, ITEM_TEXT_ATTRIB$/;"	m	struct:UndoItem
+stroke_device	src/xournal.h	/^  GdkDevice *stroke_device; \/\/ who's painting this stroke$/;"	m	struct:UIData
+subHeader2	src/ttsubset/sft.c	/^} subHeader2;$/;"	t	typeref:struct:_subHeader2	file:
+subdir	Makefile	/^subdir = .$/;"	m
+subdir	po/Makefile	/^subdir = po$/;"	m
+subdir	src/Makefile	/^subdir = src$/;"	m
+subdir	src/ttsubset/Makefile	/^subdir = src\/ttsubset$/;"	m
+subdivide_cur_path	src/xo-paint.c	/^void subdivide_cur_path(void)$/;"	f
+subfamily	src/ttsubset/sft.h	/^        char *subfamily;          \/**< subfamily name                                          *\/$/;"	m	struct:__anon8
+subfamily	src/ttsubset/sft.h	/^    char   *subfamily;$/;"	m	struct:_TrueTypeFont
+switch_mapping	src/xo-misc.c	/^void switch_mapping(int m)$/;"	f
+sx	src/xo-shapes.c	/^  double mass, sx, sy, sxx, sxy, syy;$/;"	m	struct:Inertia	file:
+sxx	src/xo-shapes.c	/^  double mass, sx, sy, sxx, sxy, syy;$/;"	m	struct:Inertia	file:
+sxy	src/xo-shapes.c	/^  double mass, sx, sy, sxx, sxy, syy;$/;"	m	struct:Inertia	file:
+sy	src/xo-shapes.c	/^  double mass, sx, sy, sxx, sxy, syy;$/;"	m	struct:Inertia	file:
+symbolEncoded	src/ttsubset/sft.h	/^        int   symbolEncoded;      \/**< 1: MS symbol encoded 0: not symbol encoded              *\/$/;"	m	struct:__anon8
+sysconfdir	Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+sysconfdir	src/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+sysconfdir	src/ttsubset/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+syy	src/xo-shapes.c	/^  double mass, sx, sy, sxx, sxy, syy;$/;"	m	struct:Inertia	file:
+table_cmap	src/ttsubset/ttcr.c	/^} table_cmap;$/;"	t	typeref:struct:__anon13	file:
+tables	src/ttsubset/sft.h	/^    void   **tables;                              \/* array of pointers to tables                                        *\/$/;"	m	struct:_TrueTypeFont
+tables	src/ttsubset/ttcr.h	/^    list   tables;                      \/**< List of table tags and pointers *\/$/;"	m	struct:_TrueTypeCreator
+tag	src/ttsubset/sft.h	/^    guint32 tag;$/;"	m	struct:_TrueTypeFont
+tag	src/ttsubset/ttcr.c	/^    guint32 tag;$/;"	m	struct:__anon11	file:
+tag	src/ttsubset/ttcr.c	/^    guint32 tag;$/;"	m	struct:__anon14	file:
+tag	src/ttsubset/ttcr.c	/^    guint32 tag;$/;"	m	struct:__anon17	file:
+tag	src/ttsubset/ttcr.c	/^    guint32 tag;$/;"	m	struct:__anon18	file:
+tag	src/ttsubset/ttcr.h	/^    guint32 tag;                         \/* table tag                                                *\/$/;"	m	struct:__anon23
+tag	src/ttsubset/ttcr.h	/^    guint32 tag;                         \/**< TrueType file tag *\/$/;"	m	struct:_TrueTypeCreator
+tagToOrd	src/ttsubset/sft.c	/^static guint32 tagToOrd(guint32 tag)$/;"	f	file:
+tail	src/ttsubset/list.c	/^    lnode *head, *tail, *cptr;$/;"	m	struct:_list	file:
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | BZIP2=$${BZIP2--9} bzip2 -c >$(distdir).tar.bz2$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | XZ_OPT=$${XZ_OPT--e} xz -c >$(distdir).tar.xz$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | compress -c >$(distdir).tar.Z$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | eval GZIP= gzip $(GZIP_ENV) -c >$(distdir).tar.gz$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | lzip -c $${LZIP_OPT--9} >$(distdir).tar.lz$/;"	m
+target_alias	Makefile	/^target_alias = $/;"	m
+target_alias	src/Makefile	/^target_alias = $/;"	m
+target_alias	src/ttsubset/Makefile	/^target_alias = $/;"	m
+tdata_generic	src/ttsubset/ttcr.c	/^} tdata_generic;$/;"	t	typeref:struct:__anon14	file:
+tdata_loca	src/ttsubset/ttcr.c	/^} tdata_loca;$/;"	t	typeref:struct:__anon15	file:
+tdata_post	src/ttsubset/ttcr.c	/^} tdata_post;$/;"	t	typeref:struct:__anon16	file:
+tdoffset	src/ttsubset/sft.h	/^    guint32 tdoffset;                              \/* offset to the table directory (!= 0 for TrueType collections)      *\/$/;"	m	struct:_TrueTypeFont
+text	src/xournal.h	/^  gchar *text;$/;"	m	struct:Item
+text_data	src/xo-clipboard.c	/^  gchar *text_data;$/;"	m	struct:XojSelectionData	file:
+textdomain	src/xo-support.h	25;"	d
+thickness	src/xournal.h	/^  double thickness;$/;"	m	struct:Brush
+thickness_no	src/xournal.h	/^  int thickness_no;$/;"	m	struct:Brush
+thicknesses	html-doc/manual.html	/^<a name="thicknesses"><\/a>$/;"	a
+tlens	src/ttsubset/sft.h	/^    guint32 *tlens;                                \/* array of table lengths                                             *\/$/;"	m	struct:_TrueTypeFont
+tmpBg_pdf	src/xo-file.c	/^struct Background *tmpBg_pdf;$/;"	v	typeref:struct:Background
+tmpFilename	src/xo-file.c	/^char *tmpFilename;$/;"	v
+tmpItem	src/xo-file.c	/^struct Item *tmpItem;$/;"	v	typeref:struct:Item
+tmpJournal	src/xo-file.c	/^struct Journal tmpJournal;$/;"	v	typeref:struct:Journal
+tmpLayer	src/xo-file.c	/^struct Layer *tmpLayer;$/;"	v	typeref:struct:Layer
+tmpPage	src/xo-file.c	/^struct Page *tmpPage;$/;"	v	typeref:struct:Page
+tool_names	src/xo-file.c	/^const char *tool_names[NUM_TOOLS] = {"pen", "eraser", "highlighter", "text", "selectregion", "selectrect", "vertspace", "hand", "image"};$/;"	v
+tool_options	src/xournal.h	/^  int tool_options;$/;"	m	struct:Brush
+tool_type	src/xournal.h	/^  int tool_type;$/;"	m	struct:Brush
+toolno	src/xournal.h	/^  int toolno[NUM_BUTTONS+2];  \/\/ the number of the currently selected tool; two more reserved for eraser tip and touch device$/;"	m	struct:UIData
+tools	html-doc/manual.html	/^<a name="tools"><\/a>$/;"	a
+top	src/xournal.h	/^  double left, right, top, bottom;$/;"	m	struct:BBox
+top_build_prefix	Makefile	/^top_build_prefix = $/;"	m
+top_build_prefix	src/Makefile	/^top_build_prefix = ..\/$/;"	m
+top_build_prefix	src/ttsubset/Makefile	/^top_build_prefix = ..\/..\/$/;"	m
+top_builddir	Makefile	/^top_builddir = .$/;"	m
+top_builddir	src/Makefile	/^top_builddir = ..$/;"	m
+top_builddir	src/ttsubset/Makefile	/^top_builddir = ..\/..$/;"	m
+top_distdir	Makefile	/^top_distdir = $(distdir)$/;"	m
+top_srcdir	Makefile	/^top_srcdir = .$/;"	m
+top_srcdir	po/Makefile	/^top_srcdir = ..$/;"	m
+top_srcdir	src/Makefile	/^top_srcdir = ..$/;"	m
+top_srcdir	src/ttsubset/Makefile	/^top_srcdir = ..\/..$/;"	m
+total	src/ttsubset/sft.c	/^    int total;$/;"	m	struct:__anon20	file:
+touch_as_handtool	src/xournal.h	/^  gboolean touch_as_handtool; \/\/ always map touch device to hand tool?$/;"	m	struct:UIData
+trailerdict	src/xo-print.h	/^  struct PdfObj *trailerdict;$/;"	m	struct:PdfInfo	typeref:struct:PdfInfo::PdfObj
+transform	Makefile	/^transform = $(program_transform_name)$/;"	m
+transform	src/Makefile	/^transform = $(program_transform_name)$/;"	m
+transform	src/ttsubset/Makefile	/^transform = $(program_transform_name)$/;"	m
+true	src/ttsubset/sft.h	148;"	d
+try_arrow	src/xo-shapes.c	/^gboolean try_arrow(void)$/;"	f
+try_closed_polygon	src/xo-shapes.c	/^gboolean try_closed_polygon(int nsides)$/;"	f
+try_rectangle	src/xo-shapes.c	/^gboolean try_rectangle(void)$/;"	f
+tsb	src/ttsubset/sft.h	/^         gint16  tsb;               \/*- top sidebearing (vertical writing mode)    *\/$/;"	m	struct:__anon2
+tsb	src/ttsubset/sft.h	/^        gint16 lsb, tsb;$/;"	m	struct:__anon4
+ttmalloc	src/ttsubset/ttcr.c	/^static guint8 *ttmalloc(guint32 nbytes)$/;"	f	file:
+type	src/ttsubset/sft.c	/^    int type;$/;"	m	struct:__anon19	file:
+type	src/xo-print.h	/^  int type;$/;"	m	struct:PdfObj
+type	src/xournal.h	/^  int type;  \/\/ ITEM_SELECTRECT, ITEM_MOVESEL_VERT, ITEM_SELECTREGION$/;"	m	struct:Selection
+type	src/xournal.h	/^  int type;$/;"	m	struct:Background
+type	src/xournal.h	/^  int type;$/;"	m	struct:Item
+type	src/xournal.h	/^  int type;$/;"	m	struct:UndoItem
+typeFlags	src/ttsubset/sft.h	/^        guint16 typeFlags;		  \/**< type flags (copyright information)                      *\/$/;"	m	struct:__anon8
+typoAscender	src/ttsubset/sft.h	/^        int   typoAscender;       \/**< OS\/2 portable typographic ascender                      *\/$/;"	m	struct:__anon8
+typoDescender	src/ttsubset/sft.h	/^        int   typoDescender;      \/**< OS\/2 portable typographic descender                     *\/$/;"	m	struct:__anon8
+typoLineGap	src/ttsubset/sft.h	/^        int   typoLineGap;        \/**< OS\/2 portable typographc line gap                       *\/$/;"	m	struct:__anon8
+ufamily	src/ttsubset/sft.h	/^        guint16 *ufamily;		  \/**< family name UCS2                                         *\/$/;"	m	struct:__anon8
+ufamily	src/ttsubset/sft.h	/^    guint16  *ufamily;$/;"	m	struct:_TrueTypeFont
+ui	src/main.c	/^struct UIData ui;   \/\/ the user interface data$/;"	v	typeref:struct:UIData
+uint16pair	src/ttsubset/sft.h	/^    } uint16pair;$/;"	t	typeref:struct:__anon1
+ulcodes	src/ttsubset/sft.c	/^const char *ulcodes[LAST_URANGE_BIT+2] = {$/;"	v
+underlinePosition	src/ttsubset/ttcr.c	/^    gint16  underlinePosition;$/;"	m	struct:__anon16	file:
+underlineThickness	src/ttsubset/ttcr.c	/^    gint16  underlineThickness;$/;"	m	struct:__anon16	file:
+undo	src/main.c	/^struct UndoItem *undo, *redo; \/\/ the undo and redo stacks$/;"	v	typeref:struct:UndoItem
+unit_names	src/xo-file.c	/^const char *unit_names[4] = {"cm", "in", "px", "pt"};$/;"	v
+unit_sizes	src/xo-callbacks.c	/^double unit_sizes[4] = {28.346, 72., 72.\/DISPLAY_DPI_DEFAULT, 1.};$/;"	v
+unitsPerEm	src/ttsubset/sft.h	/^    int    unitsPerEm;$/;"	m	struct:_TrueTypeFont
+unset_flags	src/xo-misc.c	/^void unset_flags(GtkWidget *w, gpointer flag)$/;"	f
+update_canvas_bg	src/xo-misc.c	/^void update_canvas_bg(struct Page *pg)$/;"	f
+update_color_buttons	src/xo-misc.c	/^void update_color_buttons(void)$/;"	f
+update_color_menu	src/xo-misc.c	/^void update_color_menu(void)$/;"	f
+update_copy_paste_enabled	src/xo-misc.c	/^void update_copy_paste_enabled(void)$/;"	f
+update_cursor	src/xo-paint.c	/^void update_cursor(void)$/;"	f
+update_cursor_for_resize	src/xo-paint.c	/^void update_cursor_for_resize(double *pt)$/;"	f
+update_eraser_props_menu	src/xo-misc.c	/^void update_eraser_props_menu(void)$/;"	f
+update_file_name	src/xo-misc.c	/^void update_file_name(char *filename)$/;"	f
+update_font_button	src/xo-misc.c	/^void update_font_button(void)$/;"	f
+update_highlighter_props_menu	src/xo-misc.c	/^void update_highlighter_props_menu(void)$/;"	f
+update_item_bbox	src/xo-misc.c	/^void update_item_bbox(struct Item *item)$/;"	f
+update_keyval	src/xo-file.c	/^void update_keyval(const gchar *group_name, const gchar *key,$/;"	f
+update_mapping_linkings	src/xo-misc.c	/^void update_mapping_linkings(int toolno)$/;"	f
+update_mappings_menu	src/xo-misc.c	/^void update_mappings_menu(void)$/;"	f
+update_mappings_menu_linkings	src/xo-misc.c	/^void update_mappings_menu_linkings(void)$/;"	f
+update_mru_menu	src/xo-file.c	/^void update_mru_menu(void)$/;"	f
+update_page_stuff	src/xo-misc.c	/^void update_page_stuff(void)$/;"	f
+update_pen_props_menu	src/xo-misc.c	/^void update_pen_props_menu(void)$/;"	f
+update_ruler_indicator	src/xo-misc.c	/^void update_ruler_indicator(void)$/;"	f
+update_text_item_displayfont	src/xo-paint.c	/^void update_text_item_displayfont(struct Item *item)$/;"	f
+update_thickness_buttons	src/xo-misc.c	/^void update_thickness_buttons(void)$/;"	f
+update_tool_buttons	src/xo-misc.c	/^void update_tool_buttons(void)$/;"	f
+update_tool_menu	src/xo-misc.c	/^void update_tool_menu(void)$/;"	f
+update_toolbar_and_menu	src/xo-misc.c	/^void update_toolbar_and_menu(void)$/;"	f
+update_undo_redo_enabled	src/xo-misc.c	/^void update_undo_redo_enabled(void)$/;"	f
+update_vbox_order	src/xo-misc.c	/^void update_vbox_order(int *order)$/;"	f
+ur1	src/ttsubset/sft.h	/^        guint32 ur1;               \/**< bits 0 - 31 of Unicode Range flags                      *\/$/;"	m	struct:__anon8
+ur2	src/ttsubset/sft.h	/^        guint32 ur2;               \/**< bits 32 - 63 of Unicode Range flags                     *\/$/;"	m	struct:__anon8
+ur3	src/ttsubset/sft.h	/^        guint32 ur3;               \/**< bits 64 - 95 of Unicode Range flags                     *\/$/;"	m	struct:__anon8
+ur4	src/ttsubset/sft.h	/^        guint32 ur4;               \/**< bits 96 - 127 of Unicode Range flags                    *\/$/;"	m	struct:__anon8
+use_erasertip	src/xournal.h	/^  gboolean use_erasertip;$/;"	m	struct:UIData
+use_xinput	src/xournal.h	/^  gboolean use_xinput; \/\/ use input devices instead of core pointer$/;"	m	struct:UIData
+used_in_this_page	src/xo-print.h	/^  gboolean used_in_this_page;$/;"	m	struct:PdfFont
+used_in_this_page	src/xo-print.h	/^  gboolean used_in_this_page;$/;"	m	struct:PdfImage
+user_wants_second_chance	src/xo-file.c	/^gboolean user_wants_second_chance(char **filename)$/;"	f
+val	src/xournal.h	/^  int val; \/\/ for ITEM_NEW_PAGE, ITEM_NEW_LAYER, ITEM_DELETE_LAYER, ITEM_DELETE_PAGE$/;"	m	struct:UndoItem
+val_x	src/xournal.h	/^  double val_x, val_y; \/\/ for ITEM_MOVESEL, ITEM_NEW_BG_RESIZE, ITEM_PAPER_RESIZE, ITEM_NEW_DEFAULT_BG, ITEM_TEXT_ATTRIB, ITEM_RESIZESEL$/;"	m	struct:UndoItem
+val_y	src/xournal.h	/^  double val_x, val_y; \/\/ for ITEM_MOVESEL, ITEM_NEW_BG_RESIZE, ITEM_PAPER_RESIZE, ITEM_NEW_DEFAULT_BG, ITEM_TEXT_ATTRIB, ITEM_RESIZESEL$/;"	m	struct:UndoItem
+value	src/ttsubset/list.c	/^    void *value;$/;"	m	struct:_lnode	file:
+variable_width	src/xournal.h	/^  gboolean ruler, recognizer, variable_width;$/;"	m	struct:Brush
+vascent	src/ttsubset/sft.h	/^        int   vascent;            \/**< typographic ascent for vertical writing mode            *\/$/;"	m	struct:__anon8
+vbox_component_names	src/xo-misc.c	/^const char *vbox_component_names[VBOX_MAIN_NITEMS]=$/;"	v
+vdescent	src/ttsubset/sft.h	/^        int   vdescent;           \/**< typographic descent for vertical writing mode           *\/$/;"	m	struct:__anon8
+verbose_vertical_order	src/xo-file.c	/^gchar *verbose_vertical_order(int *order)$/;"	f
+vertical_order	src/xournal.h	/^  int vertical_order[2][VBOX_MAIN_NITEMS]; \/\/ the order of interface components$/;"	m	struct:UIData
+vi_movement	src/xournal.h	/^  gboolean vi_movement; \/\/ vi movement mode?$/;"	m	struct:UIData
+view_continuous	src/xournal.h	/^  int view_continuous; \/\/ view mode is continuous ?$/;"	m	struct:UIData
+view_mode_names	src/xo-file.c	/^const char *view_mode_names[3] = {"false", "true", "horiz"}; \/\/ need 'false' & 'true' for backward compatibility$/;"	v
+voffset	src/xournal.h	/^  double hoffset, voffset; \/\/ offsets of canvas group rel. to canvas root$/;"	m	struct:Page
+vorder_usernames	src/xo-file.c	/^const char *vorder_usernames[VBOX_MAIN_NITEMS+1] = $/;"	v
+vtable1	src/ttsubset/ttcr.c	/^} vtable1[] =$/;"	v	typeref:struct:__anon17	file:
+vtable2	src/ttsubset/ttcr.c	/^} vtable2[] =$/;"	v	typeref:struct:__anon18	file:
+warned_generate_fontconfig	src/xournal.h	/^  gboolean warned_generate_fontconfig; \/\/ for win32 fontconfig cache$/;"	m	struct:UIData
+weight	src/ttsubset/sft.h	/^        int   weight;             \/**< value of WeightClass or 0 if can't be determined        *\/$/;"	m	struct:__anon8
+which_mouse_button	src/xournal.h	/^  int which_mouse_button; \/\/ the mouse button drawing the current path$/;"	m	struct:UIData
+which_unswitch_button	src/xournal.h	/^  int which_unswitch_button; \/\/ if button_switch_mapping, the mouse button that switched the mapping$/;"	m	struct:UIData
+widget	src/xournal.h	/^  GtkWidget *widget; \/\/ the widget while text is being edited (ITEM_TEMP_TEXT)$/;"	m	struct:Item
+width	src/ttsubset/sft.h	/^        int   width;              \/**< value of WidthClass or 0 if can't be determined         *\/$/;"	m	struct:__anon8
+width	src/xournal.h	/^  double height, width;$/;"	m	struct:Page
+width_maximum_multiplier	src/xournal.h	/^  double width_minimum_multiplier, width_maximum_multiplier; \/\/ calibration for pressure sensitivity$/;"	m	struct:UIData
+width_minimum_multiplier	src/xournal.h	/^  double width_minimum_multiplier, width_maximum_multiplier; \/\/ calibration for pressure sensitivity$/;"	m	struct:UIData
+widths	src/xournal.h	/^  gdouble *widths;$/;"	m	struct:Item
+winAscent	src/ttsubset/sft.h	/^        int   winAscent;          \/**< ascender metric for Windows                             *\/$/;"	m	struct:__anon8
+winDescent	src/ttsubset/sft.h	/^        int   winDescent;         \/**< descender metric for Windows                            *\/$/;"	m	struct:__anon8
+winMain	src/main.c	/^GtkWidget *winMain;$/;"	v
+window_default_height	src/xournal.h	/^  int window_default_width, window_default_height, scrollbar_step_increment;$/;"	m	struct:UIData
+window_default_width	src/xournal.h	/^  int window_default_width, window_default_height, scrollbar_step_increment;$/;"	m	struct:UIData
+wrapper_copy_cairo_surface_to_pixbuf	src/xo-misc.c	/^wrapper_copy_cairo_surface_to_pixbuf (cairo_surface_t *surface,$/;"	f	file:
+wrapper_gtk_dialog_run	src/xo-misc.c	/^gint wrapper_gtk_dialog_run(GtkDialog *dialog)$/;"	f
+wrapper_poppler_page_render_to_pixbuf	src/xo-misc.c	/^wrapper_poppler_page_render_to_pixbuf (PopplerPage *page,$/;"	f
+write_image	src/xo-file.c	/^gboolean write_image(gzFile f, Item *item)$/;"	f
+x	src/ttsubset/sft.h	/^        gint16 x;                  \/**< X coordinate in EmSquare units      *\/$/;"	m	struct:__anon10
+x	src/ttsubset/sft.h	/^        int x;                    \/**< positive: right, negative: left                        *\/$/;"	m	struct:__anon9
+x1	src/ttsubset/sft.c	/^    int x1, y1;$/;"	m	struct:__anon19	file:
+x1	src/xo-shapes.c	/^  double x1, y1, x2, y2;$/;"	m	struct:RecoSegment	file:
+x2	src/ttsubset/sft.c	/^    int x2, y2;$/;"	m	struct:__anon19	file:
+x2	src/xo-shapes.c	/^  double x1, y1, x2, y2;$/;"	m	struct:RecoSegment	file:
+x3	src/ttsubset/sft.c	/^    int x3, y3;$/;"	m	struct:__anon19	file:
+xMax	src/ttsubset/sft.h	/^         gint16  xMax;$/;"	m	struct:__anon2
+xMax	src/ttsubset/sft.h	/^        gint16 xMax;$/;"	m	struct:__anon6
+xMax	src/ttsubset/sft.h	/^        int   xMax;               \/**< global bounding box: xMax                               *\/$/;"	m	struct:__anon8
+xMin	src/ttsubset/sft.h	/^         gint16  xMin;$/;"	m	struct:__anon2
+xMin	src/ttsubset/sft.h	/^        gint16 xMin;$/;"	m	struct:__anon6
+xMin	src/ttsubset/sft.h	/^        int   xMin;               \/**< global bounding box: xMin                               *\/$/;"	m	struct:__anon8
+xc	src/ttsubset/ttcr.c	/^    guint32 *xc;                         \/* character array                       *\/$/;"	m	struct:__anon12	file:
+xcenter	src/xo-shapes.c	/^  double xcenter, ycenter, angle, radius;$/;"	m	struct:RecoSegment	file:
+xg	src/ttsubset/ttcr.c	/^    guint32 *xg;                         \/* glyph array                           *\/$/;"	m	struct:__anon12	file:
+xmax	src/xo-print.h	/^  int ascender, descender, xmin, xmax, ymin, ymax; \/\/ in PDF font units$/;"	m	struct:PdfFont
+xmin	src/xo-print.h	/^  int ascender, descender, xmin, xmax, ymin, ymax; \/\/ in PDF font units$/;"	m	struct:PdfFont
+xo_basename	src/xo-misc.c	/^gchar *xo_basename(gchar *s, gboolean xplatform)$/;"	f
+xo_data	src/xo-clipboard.c	/^  char *xo_data;$/;"	m	struct:XojSelectionData	file:
+xo_data_len	src/xo-clipboard.c	/^  int xo_data_len;$/;"	m	struct:XojSelectionData	file:
+xoj_invalid	src/xo-file.c	/^GError *xoj_invalid(void)$/;"	f
+xoj_parser_end_element	src/xo-file.c	/^void xoj_parser_end_element(GMarkupParseContext *context,$/;"	f
+xoj_parser_start_element	src/xo-file.c	/^void xoj_parser_start_element(GMarkupParseContext *context,$/;"	f
+xoj_parser_text	src/xo-file.c	/^void xoj_parser_text(GMarkupParseContext *context,$/;"	f
+xournal_DEPENDENCIES	src/Makefile	/^xournal_DEPENDENCIES =  \\$/;"	m
+xournal_LDADD	src/Makefile	/^xournal_LDADD = ttsubset\/libttsubset.a -lgnomecanvas-2 -lart_lgpl_2 -lgtk-x11-2.0 -lgdk-x11-2.0 -lpangocairo-1.0 -latk-1.0 -lgdk_pixbuf-2.0 -lgio-2.0 -lpoppler-glib -lcairo -lpangoft2-1.0 -lpango-1.0 -lgobject-2.0 -lglib-2.0 -lfontconfig -lfreetype $(INTLLIBS) -lX11 -lz -lm$/;"	m
+xournal_LINK	src/Makefile	/^xournal_LINK = $(CCLD) $(AM_CFLAGS) $(CFLAGS) $(xournal_LDFLAGS) \\$/;"	m
+xournal_OBJECTS	src/Makefile	/^xournal_OBJECTS = $(am_xournal_OBJECTS)$/;"	m
+xournal_SOURCES	src/Makefile	/^xournal_SOURCES = \\$/;"	m
+y	src/ttsubset/sft.h	/^        gint16 y;                  \/**< Y coordinate in EmSquare units      *\/$/;"	m	struct:__anon10
+y	src/ttsubset/sft.h	/^        int y;                    \/**< positive: up, negative: down                           *\/$/;"	m	struct:__anon9
+y1	src/ttsubset/sft.c	/^    int x1, y1;$/;"	m	struct:__anon19	file:
+y1	src/xo-shapes.c	/^  double x1, y1, x2, y2;$/;"	m	struct:RecoSegment	file:
+y2	src/ttsubset/sft.c	/^    int x2, y2;$/;"	m	struct:__anon19	file:
+y2	src/xo-shapes.c	/^  double x1, y1, x2, y2;$/;"	m	struct:RecoSegment	file:
+y3	src/ttsubset/sft.c	/^    int x3, y3;$/;"	m	struct:__anon19	file:
+yMax	src/ttsubset/sft.h	/^         gint16  yMax;$/;"	m	struct:__anon2
+yMax	src/ttsubset/sft.h	/^        gint16 yMax;$/;"	m	struct:__anon6
+yMax	src/ttsubset/sft.h	/^        int   yMax;               \/**< global bounding box: yMax                               *\/$/;"	m	struct:__anon8
+yMin	src/ttsubset/sft.h	/^         gint16  yMin;$/;"	m	struct:__anon2
+yMin	src/ttsubset/sft.h	/^        gint16 yMin;$/;"	m	struct:__anon6
+yMin	src/ttsubset/sft.h	/^        int   yMin;               \/**< global bounding box: yMin                               *\/$/;"	m	struct:__anon8
+ycenter	src/xo-shapes.c	/^  double xcenter, ycenter, angle, radius;$/;"	m	struct:RecoSegment	file:
+ymax	src/xo-print.h	/^  int ascender, descender, xmin, xmax, ymin, ymax; \/\/ in PDF font units$/;"	m	struct:PdfFont
+ymin	src/xo-print.h	/^  int ascender, descender, xmin, xmax, ymin, ymax; \/\/ in PDF font units$/;"	m	struct:PdfFont
+zoom	src/xournal.h	/^  double zoom; \/\/ zoom factor, in pixels per pt$/;"	m	struct:UIData
+zoom_dialog	src/xo-callbacks.c	/^GtkWidget *zoom_dialog;$/;"	v
+zoom_percent	src/xo-callbacks.c	/^double zoom_percent;$/;"	v
+zoom_step_factor	src/xournal.h	/^  double zoom_step_factor; \/\/ the multiplicative factor in zoom in\/out$/;"	m	struct:UIData
+zoom_step_increment	src/xournal.h	/^  int zoom_step_increment; \/\/ the increment in the zoom dialog box$/;"	m	struct:UIData
