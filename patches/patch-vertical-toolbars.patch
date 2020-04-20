@@ -1,0 +1,53 @@
+--- src/xo-interface.c	2015-07-06 13:18:02.000000000 -0700
++++ /src/xo-interface.c	2017-09-06 22:23:14.499192247 -0700
+@@ -356,6 +356,7 @@
+   GtkWidget *statusbar;
+   GtkAccelGroup *accel_group;
+   GtkTooltips *tooltips;
++  GtkWidget *hboxSubMain;
+ 
+   tooltips = gtk_tooltips_new ();
+ 
+@@ -371,6 +372,10 @@
+   menubar = gtk_menu_bar_new ();
+   gtk_widget_show (menubar);
+   gtk_box_pack_start (GTK_BOX (vboxMain), menubar, FALSE, FALSE, 0);
++  
++  hboxSubMain = gtk_hbox_new (FALSE, 0);
++  gtk_widget_show (hboxSubMain);
++  gtk_box_pack_start (GTK_BOX (vboxMain), hboxSubMain, TRUE, TRUE, 0);
+ 
+   menuFile = gtk_menu_item_new_with_mnemonic (_("_File"));
+   gtk_widget_show (menuFile);
+@@ -1487,8 +1492,9 @@
+   gtk_container_add (GTK_CONTAINER (menuHelp_menu), helpAbout);
+ 
+   toolbarMain = gtk_toolbar_new ();
++  gtk_toolbar_set_orientation(GTK_TOOLBAR (toolbarMain), GTK_ORIENTATION_VERTICAL);
+   gtk_widget_show (toolbarMain);
+-  gtk_box_pack_start (GTK_BOX (vboxMain), toolbarMain, FALSE, FALSE, 0);
++  gtk_box_pack_start (GTK_BOX (hboxSubMain), toolbarMain, FALSE, FALSE, 0);
+   gtk_toolbar_set_style (GTK_TOOLBAR (toolbarMain), GTK_TOOLBAR_ICONS);
+   tmp_toolbar_icon_size = gtk_toolbar_get_icon_size (GTK_TOOLBAR (toolbarMain));
+ 
+@@ -1620,8 +1626,10 @@
+   gtk_tool_item_set_tooltip (GTK_TOOL_ITEM (buttonFullscreen), tooltips, _("Toggle Fullscreen"), NULL);
+ 
+   toolbarPen = gtk_toolbar_new ();
++  gtk_toolbar_set_orientation(GTK_TOOLBAR (toolbarPen), GTK_ORIENTATION_VERTICAL);
+   gtk_widget_show (toolbarPen);
+-  gtk_box_pack_start (GTK_BOX (vboxMain), toolbarPen, FALSE, FALSE, 0);
++
++  gtk_box_pack_start (GTK_BOX (hboxSubMain), toolbarPen, FALSE, FALSE, 0);
+   gtk_toolbar_set_style (GTK_TOOLBAR (toolbarPen), GTK_TOOLBAR_ICONS);
+   tmp_toolbar_icon_size = gtk_toolbar_get_icon_size (GTK_TOOLBAR (toolbarPen));
+ 
+@@ -2002,7 +2010,7 @@
+ 
+   scrolledwindowMain = gtk_scrolled_window_new (NULL, NULL);
+   gtk_widget_show (scrolledwindowMain);
+-  gtk_box_pack_start (GTK_BOX (vboxMain), scrolledwindowMain, TRUE, TRUE, 0);
++  gtk_box_pack_start (GTK_BOX (hboxSubMain), scrolledwindowMain, TRUE, TRUE, 0);
+ 
+   hbox1 = gtk_hbox_new (FALSE, 0);
+   gtk_widget_show (hbox1);
