@@ -2336,6 +2336,22 @@ void add_vi_scroll_bindings(void)
   gtk_binding_entry_add_signal(binding_set, GDK_l, 0,
     "scroll_child", 2, GTK_TYPE_SCROLL_TYPE, GTK_SCROLL_STEP_FORWARD,
     G_TYPE_BOOLEAN, TRUE);
+
+  // ctrl+up/down
+  gtk_binding_entry_add_signal(binding_set, GDK_u, GDK_CONTROL_MASK,
+    "scroll_child", 2, GTK_TYPE_SCROLL_TYPE, GTK_SCROLL_PAGE_UP, 
+    G_TYPE_BOOLEAN, TRUE);  
+  gtk_binding_entry_add_signal(binding_set, GDK_d, GDK_CONTROL_MASK,
+    "scroll_child", 2, GTK_TYPE_SCROLL_TYPE, GTK_SCROLL_PAGE_DOWN, 
+    G_TYPE_BOOLEAN, TRUE);  
+  // shift-g
+  // Why does this not work??
+  gtk_binding_entry_add_signal(binding_set, GDK_G, GDK_SHIFT_MASK,
+    "scroll_child", 2, GTK_TYPE_SCROLL_TYPE, GTK_SCROLL_END, 
+    G_TYPE_BOOLEAN, TRUE);  
+  // or this
+  gtk_binding_entry_add_signal(binding_set, GDK_G, GDK_SHIFT_MASK,
+    "move-scroll", 1, GTK_SCROLL_END);
 }
 
 void remove_vi_scroll_bindings(void)
@@ -2351,6 +2367,11 @@ void remove_vi_scroll_bindings(void)
   gtk_binding_entry_remove(binding_set, GDK_h, 0);
   // right
   gtk_binding_entry_remove(binding_set, GDK_l, 0);
+  // ctrl+up/down
+  gtk_binding_entry_remove(binding_set, GDK_u, GDK_CONTROL_MASK);
+  gtk_binding_entry_remove(binding_set, GDK_d, GDK_CONTROL_MASK);
+  // shift-g
+  gtk_binding_entry_remove(binding_set, GDK_g, GDK_SHIFT_MASK);
 }
 
 void add_scroll_bindings(void)
@@ -2390,6 +2411,10 @@ void add_scroll_bindings(void)
   gtk_binding_entry_add_signal(binding_set, GDK_space, GDK_SHIFT_MASK,
     "scroll_child", 2, GTK_TYPE_SCROLL_TYPE, GTK_SCROLL_PAGE_UP, 
     G_TYPE_BOOLEAN, TRUE);  
+
+  gtk_binding_entry_add_signal(binding_set, GDK_r, 0,
+    "move_slider", 1, GTK_TYPE_SCROLL_TYPE, GTK_SCROLL_END);
+
 
   if (ui.vi_movement) add_vi_scroll_bindings();
 }
