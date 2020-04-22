@@ -4,9 +4,9 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.9~svn20110310	//
-ACLOCAL	Makefile	/^ACLOCAL = ${SHELL} \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/missing aclocal-1.16$/;"	m
-ACLOCAL	src/Makefile	/^ACLOCAL = ${SHELL} \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/missing aclocal-1.16$/;"	m
-ACLOCAL	src/ttsubset/Makefile	/^ACLOCAL = ${SHELL} \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/missing aclocal-1.16$/;"	m
+ACLOCAL	Makefile	/^ACLOCAL = ${SHELL} \/home\/debdeep\/xournal\/missing aclocal-1.16$/;"	m
+ACLOCAL	src/Makefile	/^ACLOCAL = ${SHELL} \/home\/debdeep\/xournal\/missing aclocal-1.16$/;"	m
+ACLOCAL	src/ttsubset/Makefile	/^ACLOCAL = ${SHELL} \/home\/debdeep\/xournal\/missing aclocal-1.16$/;"	m
 ACLOCAL_M4	Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
 ACLOCAL_M4	src/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
 ACLOCAL_M4	src/ttsubset/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
@@ -47,15 +47,15 @@ ARROW_MAIN_LINEAR_GAP_MIN	src/xo-shapes.h	36;"	d
 ARROW_MAXSIZE	src/xo-shapes.h	29;"	d
 ARROW_SIDEWAYS_GAP_TOLERANCE	src/xo-shapes.h	35;"	d
 ARROW_TIP_LINEAR_TOLERANCE	src/xo-shapes.h	34;"	d
-AUTOCONF	Makefile	/^AUTOCONF = ${SHELL} \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/missing autoconf$/;"	m
-AUTOCONF	src/Makefile	/^AUTOCONF = ${SHELL} \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/missing autoconf$/;"	m
-AUTOCONF	src/ttsubset/Makefile	/^AUTOCONF = ${SHELL} \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/missing autoconf$/;"	m
-AUTOHEADER	Makefile	/^AUTOHEADER = ${SHELL} \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/missing autoheader$/;"	m
-AUTOHEADER	src/Makefile	/^AUTOHEADER = ${SHELL} \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/missing autoheader$/;"	m
-AUTOHEADER	src/ttsubset/Makefile	/^AUTOHEADER = ${SHELL} \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/missing autoheader$/;"	m
-AUTOMAKE	Makefile	/^AUTOMAKE = ${SHELL} \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/missing automake-1.16$/;"	m
-AUTOMAKE	src/Makefile	/^AUTOMAKE = ${SHELL} \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/missing automake-1.16$/;"	m
-AUTOMAKE	src/ttsubset/Makefile	/^AUTOMAKE = ${SHELL} \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/missing automake-1.16$/;"	m
+AUTOCONF	Makefile	/^AUTOCONF = ${SHELL} \/home\/debdeep\/xournal\/missing autoconf$/;"	m
+AUTOCONF	src/Makefile	/^AUTOCONF = ${SHELL} \/home\/debdeep\/xournal\/missing autoconf$/;"	m
+AUTOCONF	src/ttsubset/Makefile	/^AUTOCONF = ${SHELL} \/home\/debdeep\/xournal\/missing autoconf$/;"	m
+AUTOHEADER	Makefile	/^AUTOHEADER = ${SHELL} \/home\/debdeep\/xournal\/missing autoheader$/;"	m
+AUTOHEADER	src/Makefile	/^AUTOHEADER = ${SHELL} \/home\/debdeep\/xournal\/missing autoheader$/;"	m
+AUTOHEADER	src/ttsubset/Makefile	/^AUTOHEADER = ${SHELL} \/home\/debdeep\/xournal\/missing autoheader$/;"	m
+AUTOMAKE	Makefile	/^AUTOMAKE = ${SHELL} \/home\/debdeep\/xournal\/missing automake-1.16$/;"	m
+AUTOMAKE	src/Makefile	/^AUTOMAKE = ${SHELL} \/home\/debdeep\/xournal\/missing automake-1.16$/;"	m
+AUTOMAKE	src/ttsubset/Makefile	/^AUTOMAKE = ${SHELL} \/home\/debdeep\/xournal\/missing automake-1.16$/;"	m
 AUTOSAVE_FILENAME_FILTER	src/xo-file.h	27;"	d
 AUTOSAVE_FILENAME_TEMPLATE	src/xo-file.h	26;"	d
 AUTOSAVE_MAX	src/xo-file.h	25;"	d
@@ -265,8 +265,8 @@ GETTEXT_PACKAGE	src/Makefile	/^GETTEXT_PACKAGE = xournal$/;"	m
 GETTEXT_PACKAGE	src/ttsubset/Makefile	/^GETTEXT_PACKAGE = xournal$/;"	m
 GET_COMPONENT	src/xournal.h	422;"	d
 GEbinsearch	src/ttsubset/sft.c	/^static guint16 GEbinsearch(guint16 *ar, guint16 length, guint16 toSearch) {$/;"	f	file:
-GLADE_HOOKUP_OBJECT	src/xo-interface.c	22;"	d	file:
-GLADE_HOOKUP_OBJECT_NO_REF	src/xo-interface.c	26;"	d	file:
+GLADE_HOOKUP_OBJECT	src/xo-interface.c	25;"	d	file:
+GLADE_HOOKUP_OBJECT_NO_REF	src/xo-interface.c	29;"	d	file:
 GMOFILES	Makefile	/^GMOFILES =  ca.gmo cs.gmo de.gmo es.gmo fr.gmo ja.gmo it.gmo nl.gmo pl.gmo pt_BR.gmo zh_CN.gmo zh_TW.gmo$/;"	m
 GMOFILES	po/Makefile	/^GMOFILES =  ca.gmo cs.gmo de.gmo es.gmo fr.gmo ja.gmo it.gmo nl.gmo pl.gmo pt_BR.gmo zh_CN.gmo zh_TW.gmo$/;"	m
 GMOFILES	src/Makefile	/^GMOFILES =  ca.gmo cs.gmo de.gmo es.gmo fr.gmo ja.gmo it.gmo nl.gmo pl.gmo pt_BR.gmo zh_CN.gmo zh_TW.gmo$/;"	m
@@ -455,13 +455,14 @@ Layer	src/xournal.h	/^} Layer;$/;"	t	typeref:struct:Layer
 MAINT	Makefile	/^MAINT = $/;"	m
 MAINT	src/Makefile	/^MAINT = $/;"	m
 MAINT	src/ttsubset/Makefile	/^MAINT = $/;"	m
-MAKEINFO	Makefile	/^MAKEINFO = ${SHELL} \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/missing makeinfo$/;"	m
-MAKEINFO	src/Makefile	/^MAKEINFO = ${SHELL} \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/missing makeinfo$/;"	m
-MAKEINFO	src/ttsubset/Makefile	/^MAKEINFO = ${SHELL} \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/missing makeinfo$/;"	m
+MAKEINFO	Makefile	/^MAKEINFO = ${SHELL} \/home\/debdeep\/xournal\/missing makeinfo$/;"	m
+MAKEINFO	src/Makefile	/^MAKEINFO = ${SHELL} \/home\/debdeep\/xournal\/missing makeinfo$/;"	m
+MAKEINFO	src/ttsubset/Makefile	/^MAKEINFO = ${SHELL} \/home\/debdeep\/xournal\/missing makeinfo$/;"	m
 MAX_AXES	src/xournal.h	59;"	d
 MAX_POLYGON_SIDES	src/xo-shapes.h	18;"	d
 MAX_SAFE_RENDER_DPI	src/xournal.h	65;"	d
 MAX_ZOOM	src/xournal.h	61;"	d
+MERGETOOLBARPEN	src/xo-interface.c	6;"	d	file:
 MIN_ZOOM	src/xournal.h	63;"	d
 MISSING_GLYPH_INDEX	src/ttsubset/sft.c	1242;"	d	file:
 MKDIR_P	Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
@@ -538,9 +539,9 @@ PACKAGE_BUGREPORT	Makefile	/^PACKAGE_BUGREPORT = $/;"	m
 PACKAGE_BUGREPORT	config.h	64;"	d
 PACKAGE_BUGREPORT	src/Makefile	/^PACKAGE_BUGREPORT = $/;"	m
 PACKAGE_BUGREPORT	src/ttsubset/Makefile	/^PACKAGE_BUGREPORT = $/;"	m
-PACKAGE_CFLAGS	Makefile	/^PACKAGE_CFLAGS = -pthread -I\/usr\/include\/libgnomecanvas-2.0 -I\/usr\/include\/gail-1.0 -I\/usr\/include\/libart-2.0 -I\/usr\/include\/gtk-2.0 -I\/usr\/lib\/x86_64-linux-gnu\/gtk-2.0\/include -I\/usr\/include\/gio-unix-2.0 -I\/usr\/include\/cairo -I\/usr\/include\/pango-1.0 -I\/usr\/include\/atk-1.0 -I\/usr\/include\/gdk-pixbuf-2.0 -I\/usr\/include\/libmount -I\/usr\/include\/blkid -I\/usr\/include\/poppler\/glib -I\/usr\/include\/poppler -I\/usr\/include\/cairo -I\/usr\/include\/pixman-1 -I\/usr\/include\/pango-1.0 -I\/usr\/include\/harfbuzz -I\/usr\/include\/pango-1.0 -I\/usr\/include\/fribidi -I\/usr\/include\/glib-2.0 -I\/usr\/lib\/x86_64-linux-gnu\/glib-2.0\/include -I\/usr\/include\/uuid -I\/usr\/include\/freetype2 -I\/usr\/include\/libpng16$/;"	m
-PACKAGE_CFLAGS	src/Makefile	/^PACKAGE_CFLAGS = -pthread -I\/usr\/include\/libgnomecanvas-2.0 -I\/usr\/include\/gail-1.0 -I\/usr\/include\/libart-2.0 -I\/usr\/include\/gtk-2.0 -I\/usr\/lib\/x86_64-linux-gnu\/gtk-2.0\/include -I\/usr\/include\/gio-unix-2.0 -I\/usr\/include\/cairo -I\/usr\/include\/pango-1.0 -I\/usr\/include\/atk-1.0 -I\/usr\/include\/gdk-pixbuf-2.0 -I\/usr\/include\/libmount -I\/usr\/include\/blkid -I\/usr\/include\/poppler\/glib -I\/usr\/include\/poppler -I\/usr\/include\/cairo -I\/usr\/include\/pixman-1 -I\/usr\/include\/pango-1.0 -I\/usr\/include\/harfbuzz -I\/usr\/include\/pango-1.0 -I\/usr\/include\/fribidi -I\/usr\/include\/glib-2.0 -I\/usr\/lib\/x86_64-linux-gnu\/glib-2.0\/include -I\/usr\/include\/uuid -I\/usr\/include\/freetype2 -I\/usr\/include\/libpng16$/;"	m
-PACKAGE_CFLAGS	src/ttsubset/Makefile	/^PACKAGE_CFLAGS = -pthread -I\/usr\/include\/libgnomecanvas-2.0 -I\/usr\/include\/gail-1.0 -I\/usr\/include\/libart-2.0 -I\/usr\/include\/gtk-2.0 -I\/usr\/lib\/x86_64-linux-gnu\/gtk-2.0\/include -I\/usr\/include\/gio-unix-2.0 -I\/usr\/include\/cairo -I\/usr\/include\/pango-1.0 -I\/usr\/include\/atk-1.0 -I\/usr\/include\/gdk-pixbuf-2.0 -I\/usr\/include\/libmount -I\/usr\/include\/blkid -I\/usr\/include\/poppler\/glib -I\/usr\/include\/poppler -I\/usr\/include\/cairo -I\/usr\/include\/pixman-1 -I\/usr\/include\/pango-1.0 -I\/usr\/include\/harfbuzz -I\/usr\/include\/pango-1.0 -I\/usr\/include\/fribidi -I\/usr\/include\/glib-2.0 -I\/usr\/lib\/x86_64-linux-gnu\/glib-2.0\/include -I\/usr\/include\/uuid -I\/usr\/include\/freetype2 -I\/usr\/include\/libpng16$/;"	m
+PACKAGE_CFLAGS	Makefile	/^PACKAGE_CFLAGS = -pthread -I\/usr\/include\/libgnomecanvas-2.0 -I\/usr\/include\/gail-1.0 -I\/usr\/include\/libart-2.0 -I\/usr\/include\/gtk-2.0 -I\/usr\/lib\/x86_64-linux-gnu\/gtk-2.0\/include -I\/usr\/include\/pango-1.0 -I\/usr\/include\/atk-1.0 -I\/usr\/include\/gdk-pixbuf-2.0 -I\/usr\/include\/libmount -I\/usr\/include\/blkid -I\/usr\/include\/poppler\/glib -I\/usr\/include\/poppler -I\/usr\/include\/cairo -I\/usr\/include\/pixman-1 -I\/usr\/include\/pango-1.0 -I\/usr\/include\/harfbuzz -I\/usr\/include\/pango-1.0 -I\/usr\/include\/fribidi -I\/usr\/include\/glib-2.0 -I\/usr\/lib\/x86_64-linux-gnu\/glib-2.0\/include -I\/usr\/include\/uuid -I\/usr\/include\/freetype2 -I\/usr\/include\/libpng16$/;"	m
+PACKAGE_CFLAGS	src/Makefile	/^PACKAGE_CFLAGS = -pthread -I\/usr\/include\/libgnomecanvas-2.0 -I\/usr\/include\/gail-1.0 -I\/usr\/include\/libart-2.0 -I\/usr\/include\/gtk-2.0 -I\/usr\/lib\/x86_64-linux-gnu\/gtk-2.0\/include -I\/usr\/include\/pango-1.0 -I\/usr\/include\/atk-1.0 -I\/usr\/include\/gdk-pixbuf-2.0 -I\/usr\/include\/libmount -I\/usr\/include\/blkid -I\/usr\/include\/poppler\/glib -I\/usr\/include\/poppler -I\/usr\/include\/cairo -I\/usr\/include\/pixman-1 -I\/usr\/include\/pango-1.0 -I\/usr\/include\/harfbuzz -I\/usr\/include\/pango-1.0 -I\/usr\/include\/fribidi -I\/usr\/include\/glib-2.0 -I\/usr\/lib\/x86_64-linux-gnu\/glib-2.0\/include -I\/usr\/include\/uuid -I\/usr\/include\/freetype2 -I\/usr\/include\/libpng16$/;"	m
+PACKAGE_CFLAGS	src/ttsubset/Makefile	/^PACKAGE_CFLAGS = -pthread -I\/usr\/include\/libgnomecanvas-2.0 -I\/usr\/include\/gail-1.0 -I\/usr\/include\/libart-2.0 -I\/usr\/include\/gtk-2.0 -I\/usr\/lib\/x86_64-linux-gnu\/gtk-2.0\/include -I\/usr\/include\/pango-1.0 -I\/usr\/include\/atk-1.0 -I\/usr\/include\/gdk-pixbuf-2.0 -I\/usr\/include\/libmount -I\/usr\/include\/blkid -I\/usr\/include\/poppler\/glib -I\/usr\/include\/poppler -I\/usr\/include\/cairo -I\/usr\/include\/pixman-1 -I\/usr\/include\/pango-1.0 -I\/usr\/include\/harfbuzz -I\/usr\/include\/pango-1.0 -I\/usr\/include\/fribidi -I\/usr\/include\/glib-2.0 -I\/usr\/lib\/x86_64-linux-gnu\/glib-2.0\/include -I\/usr\/include\/uuid -I\/usr\/include\/freetype2 -I\/usr\/include\/libpng16$/;"	m
 PACKAGE_LIBS	Makefile	/^PACKAGE_LIBS = -lgnomecanvas-2 -lart_lgpl_2 -lgtk-x11-2.0 -lgdk-x11-2.0 -lpangocairo-1.0 -latk-1.0 -lgdk_pixbuf-2.0 -lgio-2.0 -lpoppler-glib -lcairo -lpangoft2-1.0 -lpango-1.0 -lgobject-2.0 -lglib-2.0 -lfontconfig -lfreetype$/;"	m
 PACKAGE_LIBS	src/Makefile	/^PACKAGE_LIBS = -lgnomecanvas-2 -lart_lgpl_2 -lgtk-x11-2.0 -lgdk-x11-2.0 -lpangocairo-1.0 -latk-1.0 -lgdk_pixbuf-2.0 -lgio-2.0 -lpoppler-glib -lcairo -lpangoft2-1.0 -lpango-1.0 -lgobject-2.0 -lglib-2.0 -lfontconfig -lfreetype$/;"	m
 PACKAGE_LIBS	src/ttsubset/Makefile	/^PACKAGE_LIBS = -lgnomecanvas-2 -lart_lgpl_2 -lgtk-x11-2.0 -lgdk-x11-2.0 -lpangocairo-1.0 -latk-1.0 -lgdk_pixbuf-2.0 -lgio-2.0 -lpoppler-glib -lcairo -lpangoft2-1.0 -lpango-1.0 -lgobject-2.0 -lglib-2.0 -lfontconfig -lfreetype$/;"	m
@@ -737,6 +738,7 @@ THICKNESS_MEDIUM	src/xournal.h	143;"	d
 THICKNESS_THICK	src/xournal.h	144;"	d
 THICKNESS_VERYFINE	src/xournal.h	141;"	d
 THICKNESS_VERYTHICK	src/xournal.h	145;"	d
+TOOLBARDIR	src/xo-interface.c	5;"	d	file:
 TOOLOPT_ERASER_STANDARD	src/xournal.h	161;"	d
 TOOLOPT_ERASER_STROKES	src/xournal.h	163;"	d
 TOOLOPT_ERASER_WHITEOUT	src/xournal.h	162;"	d
@@ -886,18 +888,18 @@ _lnode	src/ttsubset/list.c	/^typedef struct _lnode {$/;"	s	file:
 _subHeader2	src/ttsubset/sft.c	/^typedef struct _subHeader2 {$/;"	s	file:
 aCount	src/ttsubset/list.c	/^    size_t aCount;$/;"	m	struct:_list	file:
 abort_stroke	src/xo-paint.c	/^void abort_stroke(void)$/;"	f
-abs_builddir	Makefile	/^abs_builddir = \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016$/;"	m
-abs_builddir	src/Makefile	/^abs_builddir = \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/src$/;"	m
-abs_builddir	src/ttsubset/Makefile	/^abs_builddir = \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/src\/ttsubset$/;"	m
-abs_srcdir	Makefile	/^abs_srcdir = \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016$/;"	m
-abs_srcdir	src/Makefile	/^abs_srcdir = \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/src$/;"	m
-abs_srcdir	src/ttsubset/Makefile	/^abs_srcdir = \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/src\/ttsubset$/;"	m
-abs_top_builddir	Makefile	/^abs_top_builddir = \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016$/;"	m
-abs_top_builddir	src/Makefile	/^abs_top_builddir = \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016$/;"	m
-abs_top_builddir	src/ttsubset/Makefile	/^abs_top_builddir = \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016$/;"	m
-abs_top_srcdir	Makefile	/^abs_top_srcdir = \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016$/;"	m
-abs_top_srcdir	src/Makefile	/^abs_top_srcdir = \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016$/;"	m
-abs_top_srcdir	src/ttsubset/Makefile	/^abs_top_srcdir = \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016$/;"	m
+abs_builddir	Makefile	/^abs_builddir = \/home\/debdeep\/xournal$/;"	m
+abs_builddir	src/Makefile	/^abs_builddir = \/home\/debdeep\/xournal\/src$/;"	m
+abs_builddir	src/ttsubset/Makefile	/^abs_builddir = \/home\/debdeep\/xournal\/src\/ttsubset$/;"	m
+abs_srcdir	Makefile	/^abs_srcdir = \/home\/debdeep\/xournal$/;"	m
+abs_srcdir	src/Makefile	/^abs_srcdir = \/home\/debdeep\/xournal\/src$/;"	m
+abs_srcdir	src/ttsubset/Makefile	/^abs_srcdir = \/home\/debdeep\/xournal\/src\/ttsubset$/;"	m
+abs_top_builddir	Makefile	/^abs_top_builddir = \/home\/debdeep\/xournal$/;"	m
+abs_top_builddir	src/Makefile	/^abs_top_builddir = \/home\/debdeep\/xournal$/;"	m
+abs_top_builddir	src/ttsubset/Makefile	/^abs_top_builddir = \/home\/debdeep\/xournal$/;"	m
+abs_top_srcdir	Makefile	/^abs_top_srcdir = \/home\/debdeep\/xournal$/;"	m
+abs_top_srcdir	src/Makefile	/^abs_top_srcdir = \/home\/debdeep\/xournal$/;"	m
+abs_top_srcdir	src/ttsubset/Makefile	/^abs_top_srcdir = \/home\/debdeep\/xournal$/;"	m
 ac_ct_AR	Makefile	/^ac_ct_AR = ar$/;"	m
 ac_ct_AR	src/Makefile	/^ac_ct_AR = ar$/;"	m
 ac_ct_AR	src/ttsubset/Makefile	/^ac_ct_AR = ar$/;"	m
@@ -1412,9 +1414,9 @@ init_stuff	src/main.c	/^void init_stuff (int argc, char *argv[])$/;"	f
 insert_image	src/xo-image.c	/^void insert_image(GdkEvent *event)$/;"	f
 insert_recognized_curpath	src/xo-shapes.c	/^struct Item *insert_recognized_curpath(void)$/;"	f
 install_focus_hooks	src/xo-misc.c	/^void install_focus_hooks(GtkWidget *w, gpointer data)$/;"	f
-install_sh	Makefile	/^install_sh = ${SHELL} \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/install-sh$/;"	m
-install_sh	src/Makefile	/^install_sh = ${SHELL} \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/install-sh$/;"	m
-install_sh	src/ttsubset/Makefile	/^install_sh = ${SHELL} \/home\/debdeep\/xournal-patches\/xournal-0.4.8.2016\/install-sh$/;"	m
+install_sh	Makefile	/^install_sh = ${SHELL} \/home\/debdeep\/xournal\/install-sh$/;"	m
+install_sh	src/Makefile	/^install_sh = ${SHELL} \/home\/debdeep\/xournal\/install-sh$/;"	m
+install_sh	src/ttsubset/Makefile	/^install_sh = ${SHELL} \/home\/debdeep\/xournal\/install-sh$/;"	m
 install_sh_DATA	Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
 install_sh_DATA	src/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
 install_sh_DATA	src/ttsubset/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
