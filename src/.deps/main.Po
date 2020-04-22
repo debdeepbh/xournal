@@ -13,7 +13,7 @@ main.o: main.c /usr/include/stdc-predef.h ../config.h \
  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
  /usr/include/x86_64-linux-gnu/bits/stat.h /usr/include/string.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
- /usr/lib/gcc/x86_64-linux-gnu/8/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/9/include/stddef.h \
  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
  /usr/include/strings.h \
@@ -27,13 +27,13 @@ main.o: main.c /usr/include/stdc-predef.h ../config.h \
  /usr/include/glib-2.0/glib/galloca.h /usr/include/glib-2.0/glib/gtypes.h \
  /usr/lib/x86_64-linux-gnu/glib-2.0/include/glibconfig.h \
  /usr/include/glib-2.0/glib/gmacros.h \
- /usr/lib/gcc/x86_64-linux-gnu/8/include-fixed/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/8/include-fixed/syslimits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/9/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/9/include-fixed/syslimits.h \
  /usr/include/limits.h /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
  /usr/include/linux/limits.h \
  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
- /usr/lib/gcc/x86_64-linux-gnu/8/include/float.h \
+ /usr/lib/gcc/x86_64-linux-gnu/9/include/float.h \
  /usr/include/glib-2.0/glib/gversionmacros.h /usr/include/time.h \
  /usr/include/x86_64-linux-gnu/bits/time.h \
  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
@@ -45,7 +45,7 @@ main.o: main.c /usr/include/stdc-predef.h ../config.h \
  /usr/include/glib-2.0/glib/gasyncqueue.h \
  /usr/include/glib-2.0/glib/gthread.h \
  /usr/include/glib-2.0/glib/gatomic.h /usr/include/glib-2.0/glib/gerror.h \
- /usr/lib/gcc/x86_64-linux-gnu/8/include/stdarg.h \
+ /usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h \
  /usr/include/glib-2.0/glib/gquark.h /usr/include/glib-2.0/glib/gutils.h \
  /usr/include/stdlib.h /usr/include/x86_64-linux-gnu/bits/waitflags.h \
  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
@@ -88,6 +88,7 @@ main.o: main.c /usr/include/stdc-predef.h ../config.h \
  /usr/include/x86_64-linux-gnu/bits/ss_flags.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_sigstack.h \
  /usr/include/x86_64-linux-gnu/bits/sigthread.h \
+ /usr/include/x86_64-linux-gnu/bits/signal_ext.h \
  /usr/include/glib-2.0/glib/gbase64.h \
  /usr/include/glib-2.0/glib/gbitlock.h \
  /usr/include/glib-2.0/glib/gbookmarkfile.h \
@@ -99,6 +100,7 @@ main.o: main.c /usr/include/stdc-predef.h ../config.h \
  /usr/include/glib-2.0/glib/gdatetime.h \
  /usr/include/glib-2.0/glib/gtimezone.h /usr/include/glib-2.0/glib/gdir.h \
  /usr/include/dirent.h /usr/include/x86_64-linux-gnu/bits/dirent.h \
+ /usr/include/x86_64-linux-gnu/bits/dirent_ext.h \
  /usr/include/glib-2.0/glib/genviron.h \
  /usr/include/glib-2.0/glib/gfileutils.h \
  /usr/include/glib-2.0/glib/ggettext.h /usr/include/glib-2.0/glib/ghash.h \
@@ -198,6 +200,7 @@ main.o: main.c /usr/include/stdc-predef.h ../config.h \
  /usr/include/x86_64-linux-gnu/bits/getopt_posix.h \
  /usr/include/x86_64-linux-gnu/bits/getopt_core.h \
  /usr/include/x86_64-linux-gnu/bits/unistd.h \
+ /usr/include/x86_64-linux-gnu/bits/unistd_ext.h \
  /usr/include/glib-2.0/gio/gdatagrambased.h \
  /usr/include/glib-2.0/gio/gdatainputstream.h \
  /usr/include/glib-2.0/gio/gdataoutputstream.h \
@@ -242,6 +245,7 @@ main.o: main.c /usr/include/stdc-predef.h ../config.h \
  /usr/include/glib-2.0/gio/gmemoryoutputstream.h \
  /usr/include/glib-2.0/gio/gmount.h \
  /usr/include/glib-2.0/gio/gmountoperation.h \
+ /usr/include/glib-2.0/gio/gnativesocketaddress.h \
  /usr/include/glib-2.0/gio/gnativevolumemonitor.h \
  /usr/include/glib-2.0/gio/gvolumemonitor.h \
  /usr/include/glib-2.0/gio/gnetworkaddress.h \
@@ -695,7 +699,7 @@ main.o: main.c /usr/include/stdc-predef.h ../config.h \
 
 /usr/include/x86_64-linux-gnu/bits/libc-header-start.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/8/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/9/include/stddef.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/locale_t.h:
 
@@ -733,9 +737,9 @@ main.o: main.c /usr/include/stdc-predef.h ../config.h \
 
 /usr/include/glib-2.0/glib/gmacros.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/9/include-fixed/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed/syslimits.h:
+/usr/lib/gcc/x86_64-linux-gnu/9/include-fixed/syslimits.h:
 
 /usr/include/limits.h:
 
@@ -747,7 +751,7 @@ main.o: main.c /usr/include/stdc-predef.h ../config.h \
 
 /usr/include/x86_64-linux-gnu/bits/posix2_lim.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/8/include/float.h:
+/usr/lib/gcc/x86_64-linux-gnu/9/include/float.h:
 
 /usr/include/glib-2.0/glib/gversionmacros.h:
 
@@ -775,7 +779,7 @@ main.o: main.c /usr/include/stdc-predef.h ../config.h \
 
 /usr/include/glib-2.0/glib/gerror.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/8/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h:
 
 /usr/include/glib-2.0/glib/gquark.h:
 
@@ -869,6 +873,8 @@ main.o: main.c /usr/include/stdc-predef.h ../config.h \
 
 /usr/include/x86_64-linux-gnu/bits/sigthread.h:
 
+/usr/include/x86_64-linux-gnu/bits/signal_ext.h:
+
 /usr/include/glib-2.0/glib/gbase64.h:
 
 /usr/include/glib-2.0/glib/gbitlock.h:
@@ -896,6 +902,8 @@ main.o: main.c /usr/include/stdc-predef.h ../config.h \
 /usr/include/dirent.h:
 
 /usr/include/x86_64-linux-gnu/bits/dirent.h:
+
+/usr/include/x86_64-linux-gnu/bits/dirent_ext.h:
 
 /usr/include/glib-2.0/glib/genviron.h:
 
@@ -1121,6 +1129,8 @@ main.o: main.c /usr/include/stdc-predef.h ../config.h \
 
 /usr/include/x86_64-linux-gnu/bits/unistd.h:
 
+/usr/include/x86_64-linux-gnu/bits/unistd_ext.h:
+
 /usr/include/glib-2.0/gio/gdatagrambased.h:
 
 /usr/include/glib-2.0/gio/gdatainputstream.h:
@@ -1214,6 +1224,8 @@ main.o: main.c /usr/include/stdc-predef.h ../config.h \
 /usr/include/glib-2.0/gio/gmount.h:
 
 /usr/include/glib-2.0/gio/gmountoperation.h:
+
+/usr/include/glib-2.0/gio/gnativesocketaddress.h:
 
 /usr/include/glib-2.0/gio/gnativevolumemonitor.h:
 
